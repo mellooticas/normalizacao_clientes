@@ -1,0 +1,295 @@
+{
+  "data_processamento": "2025-10-30T00:45:28.149210",
+  "versao_sistema": "2.0",
+  "estruturas_tabelas_definidas": {
+    "VENDAS": {
+      "celula_base": "E5",
+      "colunas": [
+        "Nº Venda",
+        "Cliente",
+        "Forma de Pgto",
+        "Valor Venda",
+        "Entrada"
+      ],
+      "tipo": "financeiro",
+      "descricao": "Vendas realizadas no dia"
+    },
+    "RESTANTE_ENTRADA": {
+      "celula_base": "E25",
+      "colunas": [
+        "Nº Venda",
+        "Cliente",
+        "Forma de Pgto",
+        "Valor Venda",
+        "Entrada"
+      ],
+      "tipo": "financeiro",
+      "descricao": "Valores restantes de entrada"
+    },
+    "RECEBIMENTO_CARNE": {
+      "celula_base": "E34",
+      "colunas": [
+        "OS",
+        "Cliente",
+        "Forma de Pgto",
+        "Valor Parcela",
+        "Nº Parcela"
+      ],
+      "tipo": "recebimento",
+      "descricao": "Recebimentos de parcelas de carnê"
+    },
+    "OS_ENTREGUES_DIA": {
+      "celula_base": "K14",
+      "colunas": [
+        "OS",
+        "Vendedor",
+        "CARNE"
+      ],
+      "tipo": "operacional",
+      "descricao": "OS entregues no dia"
+    },
+    "ENTREGA_CARNE": {
+      "celula_base": "K34",
+      "colunas": [
+        "OS",
+        "Parcelas",
+        "Valor Total"
+      ],
+      "tipo": "entrega",
+      "descricao": "Carnês entregues"
+    }
+  },
+  "resumo_geral": {
+    "total_lojas_processadas": 6,
+    "total_arquivos": 133,
+    "total_registros": 34972
+  },
+  "resumo_por_loja": {
+    "maua": {
+      "arquivos_processados": 20,
+      "total_registros": 4814,
+      "estatisticas_por_tipo": {
+        "VENDAS": 985,
+        "RESTANTE_ENTRADA": 2257,
+        "RECEBIMENTO_CARNE": 650,
+        "OS_ENTREGUES_DIA": 786,
+        "ENTREGA_CARNE": 136
+      }
+    },
+    "perus": {
+      "arquivos_processados": 22,
+      "total_registros": 3972,
+      "estatisticas_por_tipo": {
+        "VENDAS": 923,
+        "RESTANTE_ENTRADA": 2089,
+        "RECEBIMENTO_CARNE": 311,
+        "OS_ENTREGUES_DIA": 554,
+        "ENTREGA_CARNE": 95
+      }
+    },
+    "rio_pequeno": {
+      "arquivos_processados": 23,
+      "total_registros": 4636,
+      "estatisticas_por_tipo": {
+        "VENDAS": 1310,
+        "RESTANTE_ENTRADA": 2224,
+        "RECEBIMENTO_CARNE": 269,
+        "OS_ENTREGUES_DIA": 782,
+        "ENTREGA_CARNE": 51
+      }
+    },
+    "sao_mateus": {
+      "arquivos_processados": 16,
+      "total_registros": 2537,
+      "estatisticas_por_tipo": {
+        "VENDAS": 509,
+        "RESTANTE_ENTRADA": 1402,
+        "RECEBIMENTO_CARNE": 226,
+        "OS_ENTREGUES_DIA": 355,
+        "ENTREGA_CARNE": 45
+      }
+    },
+    "suzano": {
+      "arquivos_processados": 25,
+      "total_registros": 15785,
+      "estatisticas_por_tipo": {
+        "VENDAS": 5777,
+        "RESTANTE_ENTRADA": 4265,
+        "RECEBIMENTO_CARNE": 1526,
+        "OS_ENTREGUES_DIA": 3900,
+        "ENTREGA_CARNE": 317
+      }
+    },
+    "suzano2": {
+      "arquivos_processados": 27,
+      "total_registros": 3228,
+      "estatisticas_por_tipo": {
+        "VENDAS": 402,
+        "RESTANTE_ENTRADA": 2120,
+        "RECEBIMENTO_CARNE": 313,
+        "OS_ENTREGUES_DIA": 319,
+        "ENTREGA_CARNE": 74
+      }
+    }
+  },
+  "resumo_por_tipo": {
+    "VENDAS": 9906,
+    "RESTANTE_ENTRADA": 14357,
+    "RECEBIMENTO_CARNE": 3295,
+    "OS_ENTREGUES_DIA": 6696,
+    "ENTREGA_CARNE": 718
+  },
+  "detalhes_por_tipo": {
+    "VENDAS": {
+      "total_registros": 9906,
+      "lojas_com_dados": [
+        "maua",
+        "perus",
+        "rio_pequeno",
+        "sao_mateus",
+        "suzano",
+        "suzano2"
+      ],
+      "estrutura_definida": {
+        "celula_base": "E5",
+        "colunas": [
+          "Nº Venda",
+          "Cliente",
+          "Forma de Pgto",
+          "Valor Venda",
+          "Entrada"
+        ],
+        "tipo": "financeiro",
+        "descricao": "Vendas realizadas no dia"
+      },
+      "distribuicao_por_loja": {
+        "maua": 985,
+        "perus": 923,
+        "rio_pequeno": 1310,
+        "sao_mateus": 509,
+        "suzano": 5777,
+        "suzano2": 402
+      }
+    },
+    "RESTANTE_ENTRADA": {
+      "total_registros": 14357,
+      "lojas_com_dados": [
+        "maua",
+        "perus",
+        "rio_pequeno",
+        "sao_mateus",
+        "suzano",
+        "suzano2"
+      ],
+      "estrutura_definida": {
+        "celula_base": "E25",
+        "colunas": [
+          "Nº Venda",
+          "Cliente",
+          "Forma de Pgto",
+          "Valor Venda",
+          "Entrada"
+        ],
+        "tipo": "financeiro",
+        "descricao": "Valores restantes de entrada"
+      },
+      "distribuicao_por_loja": {
+        "maua": 2257,
+        "perus": 2089,
+        "rio_pequeno": 2224,
+        "sao_mateus": 1402,
+        "suzano": 4265,
+        "suzano2": 2120
+      }
+    },
+    "RECEBIMENTO_CARNE": {
+      "total_registros": 3295,
+      "lojas_com_dados": [
+        "maua",
+        "perus",
+        "rio_pequeno",
+        "sao_mateus",
+        "suzano",
+        "suzano2"
+      ],
+      "estrutura_definida": {
+        "celula_base": "E34",
+        "colunas": [
+          "OS",
+          "Cliente",
+          "Forma de Pgto",
+          "Valor Parcela",
+          "Nº Parcela"
+        ],
+        "tipo": "recebimento",
+        "descricao": "Recebimentos de parcelas de carnê"
+      },
+      "distribuicao_por_loja": {
+        "maua": 650,
+        "perus": 311,
+        "rio_pequeno": 269,
+        "sao_mateus": 226,
+        "suzano": 1526,
+        "suzano2": 313
+      }
+    },
+    "OS_ENTREGUES_DIA": {
+      "total_registros": 6696,
+      "lojas_com_dados": [
+        "maua",
+        "perus",
+        "rio_pequeno",
+        "sao_mateus",
+        "suzano",
+        "suzano2"
+      ],
+      "estrutura_definida": {
+        "celula_base": "K14",
+        "colunas": [
+          "OS",
+          "Vendedor",
+          "CARNE"
+        ],
+        "tipo": "operacional",
+        "descricao": "OS entregues no dia"
+      },
+      "distribuicao_por_loja": {
+        "maua": 786,
+        "perus": 554,
+        "rio_pequeno": 782,
+        "sao_mateus": 355,
+        "suzano": 3900,
+        "suzano2": 319
+      }
+    },
+    "ENTREGA_CARNE": {
+      "total_registros": 718,
+      "lojas_com_dados": [
+        "maua",
+        "perus",
+        "rio_pequeno",
+        "sao_mateus",
+        "suzano",
+        "suzano2"
+      ],
+      "estrutura_definida": {
+        "celula_base": "K34",
+        "colunas": [
+          "OS",
+          "Parcelas",
+          "Valor Total"
+        ],
+        "tipo": "entrega",
+        "descricao": "Carnês entregues"
+      },
+      "distribuicao_por_loja": {
+        "maua": 136,
+        "perus": 95,
+        "rio_pequeno": 51,
+        "sao_mateus": 45,
+        "suzano": 317,
+        "suzano2": 74
+      }
+    }
+  }
+}

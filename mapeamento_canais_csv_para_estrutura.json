@@ -1,0 +1,104 @@
+{
+  "data_geracao": "2025-10-29",
+  "total_canais_csv": 13,
+  "total_mapeados": 13,
+  "total_nao_mapeados": 0,
+  "taxa_sucesso": 100.0,
+  "mapeamento": {
+    "01 - REDES SOCIAS": {
+      "uuid": "abe868a2-e462-4d01-969d-338cd1db900e",
+      "codigo": 1,
+      "nome": "REDE SOCIAL",
+      "categoria": "DIGITAL",
+      "match_type": "DIRETO"
+    },
+    "04 CLIENTES": {
+      "uuid": "d8f4935d-6226-484b-a061-816efd307add",
+      "codigo": 4,
+      "nome": "JÁ É CLIENTE",
+      "categoria": "INDICACAO",
+      "match_type": "DIRETO"
+    },
+    "138 - SAÚDE DOS OLHOS": {
+      "uuid": "a14a2eac-53ec-40d5-a1b6-c218006503f6",
+      "codigo": 138,
+      "nome": "SAÚDE DOS OLHOS",
+      "categoria": "MEDICO",
+      "match_type": "DIRETO"
+    },
+    "15 - ORÇAMENTO": {
+      "uuid": "b7c80865-bd26-4253-849f-1932f3feb607",
+      "codigo": 15,
+      "nome": "ORÇAMENTO",
+      "categoria": "OUTROS",
+      "match_type": "DIRETO"
+    },
+    "16 - INDICAÇÃO": {
+      "uuid": "6a71ed7c-0a9a-4c6b-87a1-878292507ab3",
+      "codigo": 16,
+      "nome": "INDICAÇÃO",
+      "categoria": "INDICACAO",
+      "match_type": "DIRETO"
+    },
+    "17 - ABORDAGEM": {
+      "uuid": "0f34df74-93d2-4817-ac1d-d1a2b6f77c78",
+      "codigo": 17,
+      "nome": "ABORDAGEM",
+      "categoria": "ABORDAGEM",
+      "match_type": "DIRETO"
+    },
+    "21 - TELEMARKETING": {
+      "uuid": "48959092-6a20-439c-8fe0-24432e70e385",
+      "codigo": 21,
+      "nome": "TELEMARKETING",
+      "categoria": "ABORDAGEM",
+      "match_type": "DIRETO"
+    },
+    "38 - DIVULGADOR": {
+      "uuid": "120378ae-6cb8-4763-84ee-16c9984c67c1",
+      "codigo": 38,
+      "nome": "DIVULGADOR",
+      "categoria": "DIVULGADOR",
+      "match_type": "DIRETO"
+    },
+    "55 - CARTÃO DE TODOS": {
+      "uuid": "518b9cc8-59de-4887-927e-0bcd4f30c1a1",
+      "codigo": 55,
+      "nome": "CARTAO DE TODOS",
+      "categoria": "OUTROS",
+      "match_type": "DIRETO"
+    },
+    "77 - AMIGO (IND)": {
+      "uuid": "e196578e-2cab-49fc-8ecd-530be7abf70d",
+      "codigo": 77,
+      "nome": "AMIGOS",
+      "categoria": "INDICACAO",
+      "match_type": "DIRETO"
+    },
+    "98 - WHATSAPP": {
+      "uuid": "9d74fc0a-11c1-4a1e-b11d-fd0207cd2f87",
+      "codigo": 98,
+      "nome": "WHATSAPP",
+      "categoria": "DIGITAL",
+      "match_type": "DIRETO"
+    },
+    "GOOGLE": {
+      "uuid": "04ad35d2-cd24-415b-852c-c9203bddd833",
+      "codigo": 152,
+      "nome": "GOOGLE/FACE/INSTA - PATROCÍNIO",
+      "categoria": "DIGITAL",
+      "match_type": "DIRETO"
+    },
+    "NÃO INFORMADO": {
+      "uuid": "6e86d96a-121b-45e6-a1a4-2848e6d59f85",
+      "codigo": 99,
+      "nome": "OUTROS",
+      "categoria": "OUTROS",
+      "match_type": "DIRETO"
+    }
+  },
+  "nao_mapeados": [],
+  "tipos_match": {
+    "DIRETO": 13
+  }
+}

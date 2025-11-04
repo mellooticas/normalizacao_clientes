@@ -1,0 +1,48 @@
+{
+  "data_processamento": "2025-10-30 17:43:28",
+  "lojas_processadas": [
+    "RIO_PEQUENO",
+    "PERUS",
+    "SAO_MATEUS",
+    "SUZANO2"
+  ],
+  "resumo_geral": {
+    "total_registros": 1429,
+    "matches_vixen": 20,
+    "novos_ids": 1032
+  },
+  "detalhes_por_loja": {
+    "RIO_PEQUENO": {
+      "loja": "RIO_PEQUENO",
+      "total_registros": 411,
+      "matches_vixen": 3,
+      "novos_ids": 368,
+      "cobertura": 100.0,
+      "range_ids": "7000001 - 7000368"
+    },
+    "PERUS": {
+      "loja": "PERUS",
+      "total_registros": 609,
+      "matches_vixen": 4,
+      "novos_ids": 344,
+      "cobertura": 100.0,
+      "range_ids": "8000001 - 8000344"
+    },
+    "SAO_MATEUS": {
+      "loja": "SAO_MATEUS",
+      "total_registros": 171,
+      "matches_vixen": 0,
+      "novos_ids": 132,
+      "cobertura": 100.0,
+      "range_ids": "9000001 - 9000132"
+    },
+    "SUZANO2": {
+      "loja": "SUZANO2",
+      "total_registros": 238,
+      "matches_vixen": 13,
+      "novos_ids": 188,
+      "cobertura": 100.0,
+      "range_ids": "10000001 - 10000188"
+    }
+  }
+}

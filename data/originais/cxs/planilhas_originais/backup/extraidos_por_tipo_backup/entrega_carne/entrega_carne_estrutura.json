@@ -1,0 +1,102 @@
+{
+  "tipo_tabela": "ENTREGA_CARNE",
+  "estrutura": {
+    "celula_base": "K34",
+    "colunas": [
+      "OS",
+      "Parcelas",
+      "Valor Total"
+    ],
+    "tipo": "entrega",
+    "descricao": "Carnês entregues"
+  },
+  "total_registros": 718,
+  "lojas_com_dados": [
+    "maua",
+    "suzano",
+    "perus",
+    "sao_mateus",
+    "rio_pequeno",
+    "suzano2"
+  ],
+  "colunas_encontradas": [
+    "os",
+    "parcelas",
+    "valor_total",
+    "linha_origem",
+    "tabela_tipo",
+    "aba_origem",
+    "valores_brutos",
+    "data_movimento",
+    "loja_celula",
+    "loja_arquivo",
+    "arquivo_origem"
+  ],
+  "amostra_dados": [
+    {
+      "os": 4098,
+      "parcelas": 3,
+      "valor_total": 399,
+      "linha_origem": 35,
+      "tabela_tipo": "ENTREGA_CARNE",
+      "aba_origem": "02",
+      "valores_brutos": "[4098, 3, 399]",
+      "data_movimento": "2024-04-02 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 4033,
+      "parcelas": 6,
+      "valor_total": 1884,
+      "linha_origem": 35,
+      "tabela_tipo": "ENTREGA_CARNE",
+      "aba_origem": "05",
+      "valores_brutos": "[4033, 6, 1884]",
+      "data_movimento": "2024-04-05 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 4125,
+      "parcelas": 5,
+      "valor_total": 1000,
+      "linha_origem": 35,
+      "tabela_tipo": "ENTREGA_CARNE",
+      "aba_origem": "13",
+      "valores_brutos": "[4125, 5, 1000]",
+      "data_movimento": "2024-04-13 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 4084,
+      "parcelas": 5,
+      "valor_total": 140,
+      "linha_origem": 35,
+      "tabela_tipo": "ENTREGA_CARNE",
+      "aba_origem": "18",
+      "valores_brutos": "[4084, 5, 140]",
+      "data_movimento": "2024-04-18 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 4168,
+      "parcelas": 1,
+      "valor_total": 130,
+      "linha_origem": 35,
+      "tabela_tipo": "ENTREGA_CARNE",
+      "aba_origem": "20",
+      "valores_brutos": "[4168, 1, 130]",
+      "data_movimento": "2024-04-20 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    }
+  ]
+}

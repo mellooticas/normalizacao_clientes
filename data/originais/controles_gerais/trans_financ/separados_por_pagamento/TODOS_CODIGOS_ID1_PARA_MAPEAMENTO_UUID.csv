@@ -1,0 +1,33 @@
+﻿codigo_id1,principal_tipo_pagamento,total_registros,categoria,uuid_forma_pagamento,observacoes
+CL,CARNE LANCASTER,6353,CARNE_LANCASTER,, não é pagamento são entrega de carnês
+CL          ,CARNE LANCASTER (com espaços),482,CARNE_LANCASTER,, não é pagamento são entrega de carnês
+DI,DINHEIRO,3525,OUTROS,203527b1-d871-4f29-8c81-88fb0efaebd1,
+CM,CREDITO MASTER,2190,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+CV,CREDITO VISA,1476,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+DP,DEP. EM CONTA,1386,OUTROS,cebaa0dd-4784-4ff4-953f-a3ad6b8a6a5d,
+DM,DEBITO MASTER,1238,OUTROS,e80028d4-ddf2-4e4b-9347-78044a6316f1,
+DV,DEBITO VISA,946,OUTROS,e80028d4-ddf2-4e4b-9347-78044a6316f1,
+1,RECEB. PENDENTE,720,OUTROS,, não é pagamento
+ED,ELO DEBITO,691,OUTROS,e80028d4-ddf2-4e4b-9347-78044a6316f1,
+EL,ELO CREDITO,260,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+DI          ,DINHEIRO (com espaços),243,OUTROS,203527b1-d871-4f29-8c81-88fb0efaebd1,
+CV          ,CREDITO VISA (com espaços),182,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+VC,VOUCHER,171,OUTROS,, não é pagamento
+CM          ,CREDITO MASTER (com espaços),169,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+DP          ,DEP. EM CONTA (com espaços),160,OUTROS,cebaa0dd-4784-4ff4-953f-a3ad6b8a6a5d,
+BO,BOLETO BANCARIO,153,OUTROS,cebaa0dd-4784-4ff4-953f-a3ad6b8a6a5d,
+DM          ,DEBITO MASTER (com espaços),102,OUTROS,e80028d4-ddf2-4e4b-9347-78044a6316f1,
+CZ,CREDZ,84,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+1           ,RECEB. PENDENTE (com espaços),83,OUTROS,, não é pagamento
+DV          ,DEBITO VISA (com espaços),83,OUTROS,e80028d4-ddf2-4e4b-9347-78044a6316f1,
+DS,DESC FUNCIONARI,43,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+ED          ,ELO DEBITO (com espaços),35,OUTROS,e80028d4-ddf2-4e4b-9347-78044a6316f1,
+CZ          ,CREDZ (com espaços),19,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+CN,CONVENIO,18,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+AM,AMEX CREDITO,12,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+EL          ,ELO CREDITO (com espaços),12,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+HP,HIPERCARD CRED,9,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+SO,SOROCRED CRED,8,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+VC          ,VOUCHER (com espaços),7,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+CS,MAIS CREDSYSTEM,2,OUTROS,66c4f61d-b264-46c2-a29b-69a1c2e6aba2,
+CA,CORTESIA,1,OUTROS,cebaa0dd-4784-4ff4-953f-a3ad6b8a6a5d,

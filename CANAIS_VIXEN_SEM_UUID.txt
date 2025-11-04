@@ -1,0 +1,18 @@
+# CANAIS VIXEN SEM CORRESPONDÊNCIA NOS 171 EXISTENTES
+# Data: 2025-10-30
+# Total: 6 canais
+# FORMATO: canal_nome | count_clientes | uuid_manual
+#============================================================
+
+CAMPANHA CBA | 7 | [UUID_AQUI] 5b1f187c-6041-4ba4-9197-0351b8b40fdd
+WHATSAPP ROBÔ | 5 | [UUID_AQUI] 9d74fc0a-11c1-4a1e-b11d-fd0207cd2f87
+ | 4 | [UUID_AQUI] 9d74fc0a-11c1-4a1e-b11d-fd0207cd2f87
+CAMPANHA ANIVERSARIANTES | 2 | [UUID_AQUI] 966b912d-2330-43a4-b5ed-1dbf9ace452f
+PROSPECÇÃO MABIO | 1 | [UUID_AQUI] 966b912d-2330-43a4-b5ed-1dbf9ace452f
+CAMPANHA AILTON | 1 | [UUID_AQUI] 966b912d-2330-43a4-b5ed-1dbf9ace452f
+
+
+# INSTRUÇÕES:
+# 1. Para cada canal, encontre o UUID correspondente na tabela marketing.canais_aquisicao
+# 2. Se não existir, deixe [UUID_AQUI] para criar novo
+# 3. Salve o arquivo e execute aplicar_uuids_canais_vixen_manuais.py

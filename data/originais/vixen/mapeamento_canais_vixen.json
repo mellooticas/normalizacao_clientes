@@ -1,0 +1,362 @@
+{
+  "SAÚDE DOS OLHOS               ": {
+    "canal_uuid": "971701a8-7b02-498d-a434-c0666b518259",
+    "canal_codigo": "VIXEN_001",
+    "canal_categoria": "SAUDE"
+  },
+  "ORÇAMENTO                     ": {
+    "canal_uuid": "45eff880-1e00-453c-b1f0-0bdaf27ab7e7",
+    "canal_codigo": "VIXEN_002",
+    "canal_categoria": "COMERCIAL"
+  },
+  "DIVULGADOR                    ": {
+    "canal_uuid": "e005ca7d-09d9-40b8-bfca-c1b3d090a9ad",
+    "canal_codigo": "VIXEN_003",
+    "canal_categoria": "MARKETING"
+  },
+  "ABORDAGEM                     ": {
+    "canal_uuid": "ec653395-88b2-43e9-81e7-e019ac3993e0",
+    "canal_codigo": "VIXEN_004",
+    "canal_categoria": "MARKETING"
+  },
+  "INDICAÇÃO                     ": {
+    "canal_uuid": "3a68b524-3d47-438d-9949-a38575beebf8",
+    "canal_codigo": "VIXEN_005",
+    "canal_categoria": "INDICACAO"
+  },
+  "1ª COMPRA                     ": {
+    "canal_uuid": "0194663b-00cb-4142-81a2-965ead9c7f1c",
+    "canal_codigo": "VIXEN_006",
+    "canal_categoria": "COMERCIAL"
+  },
+  "CLINICA                       ": {
+    "canal_uuid": "bc9cf57c-8c4a-433a-b9ae-3abc52d738d5",
+    "canal_codigo": "VIXEN_007",
+    "canal_categoria": "SAUDE"
+  },
+  "JÁ É CLIENTE                  ": {
+    "canal_uuid": "ee88ee9b-c963-4bc0-a6af-4000f3aee399",
+    "canal_codigo": "VIXEN_008",
+    "canal_categoria": "RETENCAO"
+  },
+  "SUS                           ": {
+    "canal_uuid": "0f7fbcbf-e959-454e-bdb6-5b4f115f811f",
+    "canal_codigo": "VIXEN_009",
+    "canal_categoria": "SAUDE"
+  },
+  "PASSAGEM                      ": {
+    "canal_uuid": "c866de6a-f64b-4cef-8cce-49ca58021f64",
+    "canal_codigo": "VIXEN_010",
+    "canal_categoria": "MARKETING"
+  },
+  "RX DE FORA                    ": {
+    "canal_uuid": "c561c438-af97-42a2-ad84-1fc968ed82ec",
+    "canal_codigo": "VIXEN_011",
+    "canal_categoria": "OUTROS"
+  },
+  "RADIO ATALAIA                 ": {
+    "canal_uuid": "0f002f55-a0d0-4ea7-9a2f-98bc51c210ca",
+    "canal_codigo": "VIXEN_012",
+    "canal_categoria": "OUTROS"
+  },
+  "TELEMARKETING                 ": {
+    "canal_uuid": "b82d8f18-80cc-4de1-9e9a-eff2b502b79f",
+    "canal_codigo": "VIXEN_013",
+    "canal_categoria": "OUTROS"
+  },
+  "RADIO ADORE FM                ": {
+    "canal_uuid": "f49ac552-d447-4940-a8db-ff71e7ac5e75",
+    "canal_codigo": "VIXEN_014",
+    "canal_categoria": "OUTROS"
+  },
+  "AMIGOS                        ": {
+    "canal_uuid": "b979cba2-f8f6-4ac5-9d6b-1b1c6b1a21d2",
+    "canal_codigo": "VIXEN_015",
+    "canal_categoria": "OUTROS"
+  },
+  "WHATSAPP                      ": {
+    "canal_uuid": "3d1307ef-b6ab-4634-80dd-49da7a144866",
+    "canal_codigo": "VIXEN_016",
+    "canal_categoria": "OUTROS"
+  },
+  "DV VICTOR HUGO                ": {
+    "canal_uuid": "d9d78141-0326-4fc4-9dfa-374af4545f69",
+    "canal_codigo": "VIXEN_017",
+    "canal_categoria": "OUTROS"
+  },
+  "REDE SOCIAL                   ": {
+    "canal_uuid": "f5d0e89a-0992-4506-a645-2ffca43e615b",
+    "canal_codigo": "VIXEN_018",
+    "canal_categoria": "OUTROS"
+  },
+  "DROGARIA CAMPEA               ": {
+    "canal_uuid": "fdeaec23-5fe3-4e13-8c56-622f4362a391",
+    "canal_codigo": "VIXEN_019",
+    "canal_categoria": "OUTROS"
+  },
+  "GOOGLE/FACE/INSTA - PATROCÍNIO": {
+    "canal_uuid": "c291de4e-473a-495d-af4b-9d3e6a49e911",
+    "canal_codigo": "VIXEN_020",
+    "canal_categoria": "OUTROS"
+  },
+  "RADIO TROPICAL                ": {
+    "canal_uuid": "fde8c36c-7ee4-468a-bf21-81fb03f013b1",
+    "canal_codigo": "VIXEN_021",
+    "canal_categoria": "OUTROS"
+  },
+  "RADIO FÉ 101.5                ": {
+    "canal_uuid": "d98ed353-a621-459e-a5ff-f7a385d5faba",
+    "canal_codigo": "VIXEN_022",
+    "canal_categoria": "OUTROS"
+  },
+  "CAMPANHA VADO                 ": {
+    "canal_uuid": "117507d7-7c42-4573-a010-f28d3d442abf",
+    "canal_codigo": "VIXEN_023",
+    "canal_categoria": "OUTROS"
+  },
+  "CARTÃO INDICAÇÃO              ": {
+    "canal_uuid": "0dc88278-8b8a-4e4a-a08e-d28d05f5a462",
+    "canal_codigo": "VIXEN_024",
+    "canal_categoria": "INDICACAO"
+  },
+  "DV JOÃO PAULO                 ": {
+    "canal_uuid": "e524b07d-e80b-4070-b7be-b9111798f9c9",
+    "canal_codigo": "VIXEN_025",
+    "canal_categoria": "OUTROS"
+  },
+  "VITRINE                       ": {
+    "canal_uuid": "c0ded652-c550-4cce-992f-88934c81091d",
+    "canal_codigo": "VIXEN_026",
+    "canal_categoria": "OUTROS"
+  },
+  "CAMPANHA CBA                  ": {
+    "canal_uuid": "b203f653-2848-4378-b66d-435d9ff75bd5",
+    "canal_codigo": "VIXEN_027",
+    "canal_categoria": "OUTROS"
+  },
+  "CESTA BÁSICA                  ": {
+    "canal_uuid": "8ecb77ff-f240-4114-ab00-b2a0d0e3f772",
+    "canal_codigo": "VIXEN_028",
+    "canal_categoria": "OUTROS"
+  },
+  "CAMPANHA COMPRE 1 LEVE 3      ": {
+    "canal_uuid": "3e2b1d25-48bc-4242-8cb4-031cd967aa92",
+    "canal_codigo": "VIXEN_029",
+    "canal_categoria": "OUTROS"
+  },
+  "ARKIMEDES CENTRO MÉDICO       ": {
+    "canal_uuid": "133f0f15-58f9-4960-bf0f-8b88935831da",
+    "canal_codigo": "VIXEN_030",
+    "canal_categoria": "OUTROS"
+  },
+  "VISIOTESTE                    ": {
+    "canal_uuid": "2e333b93-50b7-401b-85d9-ea981afce95d",
+    "canal_codigo": "VIXEN_031",
+    "canal_categoria": "OUTROS"
+  },
+  "WHATSAPP ROBÔ                 ": {
+    "canal_uuid": "f08879e4-0c15-40af-bf19-c5ee95077adc",
+    "canal_codigo": "VIXEN_032",
+    "canal_categoria": "OUTROS"
+  },
+  "                              ": {
+    "canal_uuid": "5a136381-afbd-45a5-9dce-6ba04b606d93",
+    "canal_codigo": "VIXEN_033",
+    "canal_categoria": "OUTROS"
+  },
+  "RADIO ÔMEGA                   ": {
+    "canal_uuid": "267e59e9-70d6-4c64-8ccb-744914eb6aa6",
+    "canal_codigo": "VIXEN_034",
+    "canal_categoria": "OUTROS"
+  },
+  "ASSEMBLEIA DE DEUS            ": {
+    "canal_uuid": "063f9f18-0b88-4f8b-99ce-a828933b1345",
+    "canal_codigo": "VIXEN_035",
+    "canal_categoria": "OUTROS"
+  },
+  "BOLIVIANOS                    ": {
+    "canal_uuid": "0f568026-e79a-4911-a249-a7b2cd644086",
+    "canal_codigo": "VIXEN_036",
+    "canal_categoria": "OUTROS"
+  },
+  "CARTÃO COMPLETO               ": {
+    "canal_uuid": "383ca087-b7b2-41e4-910f-695611a69d72",
+    "canal_codigo": "VIXEN_037",
+    "canal_categoria": "OUTROS"
+  },
+  "DV SUELEN RODRIGUES           ": {
+    "canal_uuid": "81d07ce8-4e58-45b9-abf3-031ca341da77",
+    "canal_codigo": "VIXEN_038",
+    "canal_categoria": "OUTROS"
+  },
+  "DV JEAN LEANDRO               ": {
+    "canal_uuid": "c28f2f41-057d-4484-b3fa-84743c33cedf",
+    "canal_codigo": "VIXEN_039",
+    "canal_categoria": "OUTROS"
+  },
+  "DV JACIANE DINIZ              ": {
+    "canal_uuid": "50a4e8bd-7056-49de-9851-574c2492bf1c",
+    "canal_codigo": "VIXEN_040",
+    "canal_categoria": "OUTROS"
+  },
+  "SITE                          ": {
+    "canal_uuid": "e3cb2b6b-b8c1-4f48-917c-3241dae2858a",
+    "canal_codigo": "VIXEN_041",
+    "canal_categoria": "OUTROS"
+  },
+  "PLACA DE LOJA                 ": {
+    "canal_uuid": "7fe1506a-9cbc-47e1-bc83-1c1c44d41f6f",
+    "canal_codigo": "VIXEN_042",
+    "canal_categoria": "OUTROS"
+  },
+  "MAGAZINE LUIZA                ": {
+    "canal_uuid": "06aa876e-d7ee-4fee-ba7b-91f3a41fbbb1",
+    "canal_codigo": "VIXEN_043",
+    "canal_categoria": "OUTROS"
+  },
+  "PANFLETOS                     ": {
+    "canal_uuid": "41f746e8-3c06-47f3-9f2c-b27c14381c41",
+    "canal_codigo": "VIXEN_044",
+    "canal_categoria": "OUTROS"
+  },
+  "CAMPANHA ANIVERSARIANTES      ": {
+    "canal_uuid": "03cc52f6-2982-47c1-945c-849b988c70bd",
+    "canal_codigo": "VIXEN_045",
+    "canal_categoria": "OUTROS"
+  },
+  "AMEPLAN                       ": {
+    "canal_uuid": "e79c1a47-8bd5-4ae8-bf64-d9df631dcc52",
+    "canal_codigo": "VIXEN_046",
+    "canal_categoria": "OUTROS"
+  },
+  "TERMINAL SANTANA              ": {
+    "canal_uuid": "d6b71e1b-8e99-4952-a390-8e5b25e703f6",
+    "canal_codigo": "VIXEN_047",
+    "canal_categoria": "OUTROS"
+  },
+  "SIND SINETROSV                ": {
+    "canal_uuid": "0060ed36-bdb0-47f0-b724-1d76d31ff549",
+    "canal_codigo": "VIXEN_048",
+    "canal_categoria": "OUTROS"
+  },
+  "DV NIKE                       ": {
+    "canal_uuid": "e1583d0c-1aab-4e3c-bccf-29f1a542ea65",
+    "canal_codigo": "VIXEN_049",
+    "canal_categoria": "OUTROS"
+  },
+  "CONVENIO FAN                  ": {
+    "canal_uuid": "9c9b4d41-5f24-460f-9bf5-22b203301070",
+    "canal_codigo": "VIXEN_050",
+    "canal_categoria": "OUTROS"
+  },
+  "PROSPECÇÃO MABIO              ": {
+    "canal_uuid": "649f47e8-f258-4be5-95d6-c88762f0bcb8",
+    "canal_codigo": "VIXEN_051",
+    "canal_categoria": "OUTROS"
+  },
+  "DR RAFAEL PIVATTO             ": {
+    "canal_uuid": "5a568cd7-299c-484b-8a45-ffeb35cf33fb",
+    "canal_codigo": "VIXEN_052",
+    "canal_categoria": "OUTROS"
+  },
+  "CLINICA ALPHA VISION          ": {
+    "canal_uuid": "33f8bffa-0f03-4472-ac75-4b65c6671dc3",
+    "canal_codigo": "VIXEN_053",
+    "canal_categoria": "SAUDE"
+  },
+  "DV DOUGLAS JESUS DA SILVA     ": {
+    "canal_uuid": "0548f06f-6c92-4bd3-b148-862dce786526",
+    "canal_codigo": "VIXEN_054",
+    "canal_categoria": "SAUDE"
+  },
+  "DROGARIA SUPERMED             ": {
+    "canal_uuid": "d31a4fc7-b51b-4c6f-97bc-c0d123edbf7a",
+    "canal_codigo": "VIXEN_055",
+    "canal_categoria": "OUTROS"
+  },
+  "VALE SAUDE JEQUITI            ": {
+    "canal_uuid": "4e755e8a-6b2a-4ede-b576-a81d3787573c",
+    "canal_codigo": "VIXEN_056",
+    "canal_categoria": "SAUDE"
+  },
+  "INSTITUTO SUEL ABUJAMRA       ": {
+    "canal_uuid": "ceae582e-e7d3-4054-b667-e0c29d2ce07e",
+    "canal_codigo": "VIXEN_057",
+    "canal_categoria": "OUTROS"
+  },
+  "RADIO REDE UNÇÃO 96.5         ": {
+    "canal_uuid": "5d9c1b7a-e92c-4d75-a29a-8ead080a0971",
+    "canal_codigo": "VIXEN_058",
+    "canal_categoria": "OUTROS"
+  },
+  "OUTROS                        ": {
+    "canal_uuid": "e557de17-ccb3-4fb3-9887-90294365ce47",
+    "canal_codigo": "VIXEN_059",
+    "canal_categoria": "OUTROS"
+  },
+  "IAMSPE                        ": {
+    "canal_uuid": "62265e61-557e-4bd6-a557-8e0457318830",
+    "canal_codigo": "VIXEN_060",
+    "canal_categoria": "OUTROS"
+  },
+  "CAMPANHA AILTON               ": {
+    "canal_uuid": "14597967-cecd-44c3-b2fe-c197f5548c7e",
+    "canal_codigo": "VIXEN_061",
+    "canal_categoria": "OUTROS"
+  },
+  "FLORIPARK                     ": {
+    "canal_uuid": "f78f90ae-eba3-4a47-af34-7b45280bc07a",
+    "canal_codigo": "VIXEN_062",
+    "canal_categoria": "OUTROS"
+  },
+  "CARTAO DE TODOS               ": {
+    "canal_uuid": "19bce216-9ea2-4adb-86cc-156773712ce4",
+    "canal_codigo": "VIXEN_063",
+    "canal_categoria": "OUTROS"
+  },
+  "ABMED                         ": {
+    "canal_uuid": "e41baad5-c5fe-462b-906e-44bba1cb1aab",
+    "canal_codigo": "VIXEN_064",
+    "canal_categoria": "OUTROS"
+  },
+  "DR AMANDA A VV DE CASTRO      ": {
+    "canal_uuid": "4047bbe3-1696-4867-b14f-67b9b3491f94",
+    "canal_codigo": "VIXEN_065",
+    "canal_categoria": "OUTROS"
+  },
+  "ADEASP                        ": {
+    "canal_uuid": "4a6e8088-f6d4-4cf8-ba75-e2deb64f67c3",
+    "canal_codigo": "VIXEN_066",
+    "canal_categoria": "OUTROS"
+  },
+  "DV GABRIELA SILVA             ": {
+    "canal_uuid": "dd2a5eac-de14-485b-a8bb-a3fd0da026b4",
+    "canal_codigo": "VIXEN_067",
+    "canal_categoria": "OUTROS"
+  },
+  "GUIMA                         ": {
+    "canal_uuid": "a3d2d00e-ddd2-4bd3-ac02-5a2ffcf148f9",
+    "canal_codigo": "VIXEN_068",
+    "canal_categoria": "OUTROS"
+  },
+  "LUIS FIO FOLHETOS             ": {
+    "canal_uuid": "b0ff876b-a34e-4c14-8bc6-b6becd65dbec",
+    "canal_codigo": "VIXEN_069",
+    "canal_categoria": "OUTROS"
+  },
+  "RADIO TERRA                   ": {
+    "canal_uuid": "280acd67-dad9-40c1-826d-39bd2648399a",
+    "canal_codigo": "VIXEN_070",
+    "canal_categoria": "OUTROS"
+  },
+  "BIO SAÚDE                     ": {
+    "canal_uuid": "eb1e6e03-4302-4697-bdfa-bde322f1fda9",
+    "canal_codigo": "VIXEN_071",
+    "canal_categoria": "SAUDE"
+  },
+  "RD ESP                        ": {
+    "canal_uuid": "992da9d8-2f91-45f5-b1c1-effe4f89d4a7",
+    "canal_codigo": "VIXEN_072",
+    "canal_categoria": "OUTROS"
+  }
+}

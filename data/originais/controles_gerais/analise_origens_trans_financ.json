@@ -1,0 +1,733 @@
+{
+  "resumo": {
+    "arquivos_processados": 42,
+    "arquivos_com_erro": 0,
+    "total_origens_unicas": 5,
+    "total_ocorrencias": 29719
+  },
+  "origens_por_arquivo": {
+    "ABR_21.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "ABR_21_Planilha1.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "ABR_22.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "ABR_22_Planilha1.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "ABR_23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "ABR_23_Planilha1.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "AGO_21.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "AGO_22.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "AGO_23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "DEZ_20.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "DEZ_21.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "DEZ_22.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "DEZ_23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA"
+    ],
+    "FEV_21.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "FEV_22.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "FEV_23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "JAN_21.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "JAN_22.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "JAN_23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "JUL_21.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "JUL_22.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "JUL_23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA"
+    ],
+    "JUN_21.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "JUN_22.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "JUN_23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA"
+    ],
+    "MAI_21.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "MAI_22.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "MAI_23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "MAR_21.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "MAR_22.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "MAR_23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "NOV23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "VENDA"
+    ],
+    "NOV_20.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "NOV_21.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "NOV_22.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "OUT_20.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "OUT_21.csv": [
+      "FUNDO DE CAIXA",
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "OUT_22.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "OUT_23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "SET_21.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA"
+    ],
+    "SET_22.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ],
+    "SET_23.csv": [
+      "ORDEM DE SERVIÇO PDV",
+      "REC. CORRENTISTA",
+      "SANGRIA",
+      "VENDA"
+    ]
+  },
+  "estatisticas_arquivos": {
+    "ABR_21.csv": {
+      "total_registros": 703,
+      "registros_com_origem": 703,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 549,
+        "REC. CORRENTISTA": 86,
+        "SANGRIA": 43,
+        "FUNDO DE CAIXA": 24,
+        "VENDA": 1
+      }
+    },
+    "ABR_21_Planilha1.csv": {
+      "total_registros": 703,
+      "registros_com_origem": 703,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 549,
+        "REC. CORRENTISTA": 86,
+        "SANGRIA": 43,
+        "FUNDO DE CAIXA": 24,
+        "VENDA": 1
+      }
+    },
+    "ABR_22.csv": {
+      "total_registros": 992,
+      "registros_com_origem": 992,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 806,
+        "REC. CORRENTISTA": 173,
+        "SANGRIA": 12,
+        "VENDA": 1
+      }
+    },
+    "ABR_22_Planilha1.csv": {
+      "total_registros": 992,
+      "registros_com_origem": 992,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 806,
+        "REC. CORRENTISTA": 173,
+        "SANGRIA": 12,
+        "VENDA": 1
+      }
+    },
+    "ABR_23.csv": {
+      "total_registros": 449,
+      "registros_com_origem": 449,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 367,
+        "REC. CORRENTISTA": 74,
+        "SANGRIA": 7,
+        "VENDA": 1
+      }
+    },
+    "ABR_23_Planilha1.csv": {
+      "total_registros": 449,
+      "registros_com_origem": 449,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 367,
+        "REC. CORRENTISTA": 74,
+        "SANGRIA": 7,
+        "VENDA": 1
+      }
+    },
+    "AGO_21.csv": {
+      "total_registros": 1034,
+      "registros_com_origem": 1034,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 834,
+        "REC. CORRENTISTA": 159,
+        "SANGRIA": 26,
+        "FUNDO DE CAIXA": 13,
+        "VENDA": 2
+      }
+    },
+    "AGO_22.csv": {
+      "total_registros": 973,
+      "registros_com_origem": 973,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 745,
+        "REC. CORRENTISTA": 202,
+        "SANGRIA": 16,
+        "VENDA": 10
+      }
+    },
+    "AGO_23.csv": {
+      "total_registros": 454,
+      "registros_com_origem": 454,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 359,
+        "REC. CORRENTISTA": 92,
+        "SANGRIA": 3
+      }
+    },
+    "DEZ_20.csv": {
+      "total_registros": 591,
+      "registros_com_origem": 591,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 414,
+        "SANGRIA": 120,
+        "FUNDO DE CAIXA": 26,
+        "REC. CORRENTISTA": 17,
+        "VENDA": 14
+      }
+    },
+    "DEZ_21.csv": {
+      "total_registros": 1032,
+      "registros_com_origem": 1032,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 735,
+        "REC. CORRENTISTA": 265,
+        "SANGRIA": 28,
+        "VENDA": 4
+      }
+    },
+    "DEZ_22.csv": {
+      "total_registros": 558,
+      "registros_com_origem": 558,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 358,
+        "REC. CORRENTISTA": 186,
+        "SANGRIA": 8,
+        "VENDA": 6
+      }
+    },
+    "DEZ_23.csv": {
+      "total_registros": 41,
+      "registros_com_origem": 41,
+      "origens_unicas": 2,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 28,
+        "REC. CORRENTISTA": 13
+      }
+    },
+    "FEV_21.csv": {
+      "total_registros": 660,
+      "registros_com_origem": 660,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 472,
+        "SANGRIA": 121,
+        "REC. CORRENTISTA": 39,
+        "FUNDO DE CAIXA": 23,
+        "VENDA": 5
+      }
+    },
+    "FEV_22.csv": {
+      "total_registros": 886,
+      "registros_com_origem": 886,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 672,
+        "REC. CORRENTISTA": 194,
+        "SANGRIA": 17,
+        "VENDA": 2,
+        "FUNDO DE CAIXA": 1
+      }
+    },
+    "FEV_23.csv": {
+      "total_registros": 500,
+      "registros_com_origem": 500,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 390,
+        "REC. CORRENTISTA": 104,
+        "SANGRIA": 6
+      }
+    },
+    "JAN_21.csv": {
+      "total_registros": 696,
+      "registros_com_origem": 696,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 484,
+        "SANGRIA": 142,
+        "REC. CORRENTISTA": 35,
+        "FUNDO DE CAIXA": 28,
+        "VENDA": 7
+      }
+    },
+    "JAN_22.csv": {
+      "total_registros": 858,
+      "registros_com_origem": 858,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 614,
+        "REC. CORRENTISTA": 230,
+        "SANGRIA": 14
+      }
+    },
+    "JAN_23.csv": {
+      "total_registros": 615,
+      "registros_com_origem": 615,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 480,
+        "REC. CORRENTISTA": 125,
+        "SANGRIA": 10
+      }
+    },
+    "JUL_21.csv": {
+      "total_registros": 1084,
+      "registros_com_origem": 1084,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 852,
+        "REC. CORRENTISTA": 138,
+        "SANGRIA": 62,
+        "FUNDO DE CAIXA": 28,
+        "VENDA": 4
+      }
+    },
+    "JUL_22.csv": {
+      "total_registros": 1080,
+      "registros_com_origem": 1080,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 859,
+        "REC. CORRENTISTA": 181,
+        "SANGRIA": 21,
+        "VENDA": 18,
+        "FUNDO DE CAIXA": 1
+      }
+    },
+    "JUL_23.csv": {
+      "total_registros": 514,
+      "registros_com_origem": 514,
+      "origens_unicas": 2,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 421,
+        "REC. CORRENTISTA": 93
+      }
+    },
+    "JUN_21.csv": {
+      "total_registros": 853,
+      "registros_com_origem": 853,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 651,
+        "REC. CORRENTISTA": 125,
+        "SANGRIA": 49,
+        "FUNDO DE CAIXA": 22,
+        "VENDA": 6
+      }
+    },
+    "JUN_22.csv": {
+      "total_registros": 959,
+      "registros_com_origem": 959,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 766,
+        "REC. CORRENTISTA": 190,
+        "SANGRIA": 2,
+        "VENDA": 1
+      }
+    },
+    "JUN_23.csv": {
+      "total_registros": 53,
+      "registros_com_origem": 53,
+      "origens_unicas": 2,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 44,
+        "REC. CORRENTISTA": 9
+      }
+    },
+    "MAI_21.csv": {
+      "total_registros": 774,
+      "registros_com_origem": 774,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 571,
+        "REC. CORRENTISTA": 110,
+        "SANGRIA": 53,
+        "FUNDO DE CAIXA": 25,
+        "VENDA": 15
+      }
+    },
+    "MAI_22.csv": {
+      "total_registros": 960,
+      "registros_com_origem": 960,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 752,
+        "REC. CORRENTISTA": 188,
+        "SANGRIA": 17,
+        "VENDA": 2,
+        "FUNDO DE CAIXA": 1
+      }
+    },
+    "MAI_23.csv": {
+      "total_registros": 468,
+      "registros_com_origem": 468,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 362,
+        "REC. CORRENTISTA": 104,
+        "SANGRIA": 2
+      }
+    },
+    "MAR_21.csv": {
+      "total_registros": 802,
+      "registros_com_origem": 802,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 608,
+        "SANGRIA": 96,
+        "REC. CORRENTISTA": 72,
+        "FUNDO DE CAIXA": 23,
+        "VENDA": 3
+      }
+    },
+    "MAR_22.csv": {
+      "total_registros": 1006,
+      "registros_com_origem": 1006,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 798,
+        "REC. CORRENTISTA": 199,
+        "SANGRIA": 9
+      }
+    },
+    "MAR_23.csv": {
+      "total_registros": 497,
+      "registros_com_origem": 497,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 373,
+        "REC. CORRENTISTA": 113,
+        "SANGRIA": 11
+      }
+    },
+    "NOV23.csv": {
+      "total_registros": 377,
+      "registros_com_origem": 377,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 284,
+        "REC. CORRENTISTA": 92,
+        "VENDA": 1
+      }
+    },
+    "NOV_20.csv": {
+      "total_registros": 607,
+      "registros_com_origem": 607,
+      "origens_unicas": 5,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 423,
+        "SANGRIA": 146,
+        "FUNDO DE CAIXA": 30,
+        "REC. CORRENTISTA": 7,
+        "VENDA": 1
+      }
+    },
+    "NOV_21.csv": {
+      "total_registros": 1037,
+      "registros_com_origem": 1037,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 778,
+        "REC. CORRENTISTA": 232,
+        "SANGRIA": 27
+      }
+    },
+    "NOV_22.csv": {
+      "total_registros": 748,
+      "registros_com_origem": 748,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 579,
+        "REC. CORRENTISTA": 147,
+        "SANGRIA": 17,
+        "VENDA": 5
+      }
+    },
+    "OUT_20.csv": {
+      "total_registros": 442,
+      "registros_com_origem": 442,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 268,
+        "SANGRIA": 123,
+        "FUNDO DE CAIXA": 48,
+        "VENDA": 3
+      }
+    },
+    "OUT_21.csv": {
+      "total_registros": 880,
+      "registros_com_origem": 880,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 637,
+        "REC. CORRENTISTA": 215,
+        "SANGRIA": 24,
+        "FUNDO DE CAIXA": 4
+      }
+    },
+    "OUT_22.csv": {
+      "total_registros": 762,
+      "registros_com_origem": 762,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 572,
+        "REC. CORRENTISTA": 178,
+        "SANGRIA": 12
+      }
+    },
+    "OUT_23.csv": {
+      "total_registros": 466,
+      "registros_com_origem": 466,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 351,
+        "REC. CORRENTISTA": 110,
+        "SANGRIA": 5
+      }
+    },
+    "SET_21.csv": {
+      "total_registros": 816,
+      "registros_com_origem": 816,
+      "origens_unicas": 3,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 577,
+        "REC. CORRENTISTA": 221,
+        "SANGRIA": 18
+      }
+    },
+    "SET_22.csv": {
+      "total_registros": 914,
+      "registros_com_origem": 914,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 687,
+        "REC. CORRENTISTA": 199,
+        "SANGRIA": 25,
+        "VENDA": 3
+      }
+    },
+    "SET_23.csv": {
+      "total_registros": 434,
+      "registros_com_origem": 434,
+      "origens_unicas": 4,
+      "origens_mais_frequentes": {
+        "ORDEM DE SERVIÇO PDV": 343,
+        "REC. CORRENTISTA": 89,
+        "VENDA": 1,
+        "SANGRIA": 1
+      }
+    }
+  },
+  "frequencia_global": {
+    "ORDEM DE SERVIÇO PDV": 22585,
+    "REC. CORRENTISTA": 5339,
+    "SANGRIA": 1355,
+    "FUNDO DE CAIXA": 321,
+    "VENDA": 119
+  },
+  "arquivos_com_erro": [],
+  "top_10_origens": {
+    "ORDEM DE SERVIÇO PDV": 22585,
+    "REC. CORRENTISTA": 5339,
+    "SANGRIA": 1355,
+    "FUNDO DE CAIXA": 321,
+    "VENDA": 119
+  }
+}

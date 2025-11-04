@@ -1,0 +1,93 @@
+# MAPEAMENTO COMPLETO DE VENDEDORES - 100% COBERTURA
+# =====================================================
+# INSTRUÇÕES:
+# 1. Para cada vendedor abaixo, adicione o UUID correspondente
+# 2. Formato: NOME_VENDEDOR = uuid_aqui
+# 3. Se o vendedor não deve ter UUID, escreva: NOME_VENDEDOR = IGNORAR
+# 4. Salve o arquivo e execute o script de aplicação
+
+# TOTAL DE VENDEDORES ÚNICOS ENCONTRADOS: 30
+
+# GRUPO 1 - SÍMBOLOS/CÓDIGOS ESPECIAIS
+# ----------------------------------------
+///////////////////////// = de96b3f7-cf3b-428f-9cd3-c92a6042a110
+
+# GRUPO 2 - ADRIANA
+# ----------------------------------------
+Adriana Anselmo = cd780caa-3cf0-42ac-ada8-17964f7cad60
+
+# GRUPO 3 - CARLA
+# ----------------------------------------
+CARLA CRISTINA = 2cba056b-4da2-486c-a295-485eba8a3d01
+
+# GRUPO 4 - CHINASA
+# ----------------------------------------
+CHINASA DORIS = bf95e71d-a56d-42fc-bef5-5b571f2f8ce7
+
+# GRUPO 5 - GARANTIA (provavelmente não é vendedor)
+# ----------------------------------------
+GARANTIA = 4ac1702f-5344-45c1-9a66-0798042678d6
+Garantia = 4ac1702f-5344-45c1-9a66-0798042678d6
+
+# GRUPO 6 - JOCI
+# ----------------------------------------
+JOCI = 2fec96c8-d492-49ab-b38a-a5d5452af4d2
+
+# GRUPO 7 - KAYLANE
+# ----------------------------------------
+Kaylane = 168483ea-ef4b-4365-bdb4-e3f82c1b5d11
+
+# GRUPO 8 - LARISSA (diferentes formatos)
+# ----------------------------------------
+LARISSA = c6090f60-cb5c-4b0a-8227-31d0ff98c226
+Larissa = c6090f60-cb5c-4b0a-8227-31d0ff98c226
+
+# GRUPO 9 - MARIA (diferentes formatos)
+# ----------------------------------------
+MARIA = c4ee95ea-cbbc-4341-9dec-b5ddae6750f4
+Maria = c4ee95ea-cbbc-4341-9dec-b5ddae6750f4
+
+# GRUPO 10 - ROGERIO/ROGÉRIO (diferentes acentos)
+# ----------------------------------------
+ROGERIO = 22ea8fe8-34cd-4b68-b56c-33e63f5290f8
+ROGÉRIO = 22ea8fe8-34cd-4b68-b56c-33e63f5290f8
+Rogério = 22ea8fe8-34cd-4b68-b56c-33e63f5290f8
+
+# GRUPO 11 - ROSANGELA/ROSÂNGELA (diferentes acentos)
+# ----------------------------------------
+ROSANGELA = b798769b-8ce6-4c9e-8be7-bb46df413eab
+ROSÃNGELA = b798769b-8ce6-4c9e-8be7-bb46df413eab
+ROSÃÑGELA = b798769b-8ce6-4c9e-8be7-bb46df413eab
+Rosagela = b798769b-8ce6-4c9e-8be7-bb46df413eab
+
+# GRUPO 12 - SAMUEL
+# ----------------------------------------
+SAMUEL = 8eedfaa1-c3c5-4d17-90f5-ab6abfa18471
+
+# GRUPO 13 - TATI/TATY (diferentes formatos)
+# ----------------------------------------
+TATI = e1ff66f6-c10e-4601-a4e0-23d2318ff138
+TATY = e1ff66f6-c10e-4601-a4e0-23d2318ff138
+
+# GRUPO 14 - WEVELLY/WEVILLY (diferentes formatos)
+# ----------------------------------------
+WEVELLY = c0023125-cf07-42bc-8462-4ddcbe586ce7
+Wevelly = c0023125-cf07-42bc-8462-4ddcbe586ce7
+Wevilly = c0023125-cf07-42bc-8462-4ddcbe586ce7
+
+# GRUPO 15 - WILLIAM/WILLIAN (diferentes formatos)
+# ----------------------------------------
+WILLIAM = e68a248c-43af-492a-b758-44a56e835e76
+Willam = e68a248c-43af-492a-b758-44a56e835e76
+Willian = e68a248c-43af-492a-b758-44a56e835e76
+
+# GRUPO 16 - ZAINE (diferentes formatos)
+# ----------------------------------------
+ZAINE = 0e9c6cc8-e1b1-47a2-b34d-42895ea5a320
+Zaine = 0e9c6cc8-e1b1-47a2-b34d-42895ea5a320
+
+# OBSERVAÇÕES:
+# - Alguns vendedores aparecem com diferentes acentuações (ROSÃNGELA/ROSÂNGELA)
+# - Alguns aparecem em maiúscula e minúscula
+# - "GARANTIA" provavelmente não é um vendedor real
+# - "/////////////////////////" parece ser um símbolo especial

@@ -1,0 +1,462 @@
+{
+  "data_geracao": "2025-10-30 15:07:16",
+  "canais_mapeados": 7,
+  "canais_novos": 65,
+  "mapeamento_automatico": {
+    "GOOGLE/FACE/INSTA - PATROCÍNIO": {
+      "canal_uuid": "04ad35d2-cd24-415b-852c-c9203bddd833",
+      "canal_codigo": 152,
+      "canal_nome": "GOOGLE/FACE/INSTA - PATROCÍNIO",
+      "canal_categoria": "DIGITAL",
+      "similaridade": 1.0,
+      "mapeamento": "EXISTENTE",
+      "count": 20
+    },
+    "CAMPANHA COMPRE 1 LEVE 3      ": {
+      "canal_uuid": "501e0018-6756-49ff-a461-00da3266e180",
+      "canal_codigo": 164,
+      "canal_nome": "CAMPANHA COMPRE 1 LEVE 3",
+      "canal_categoria": "MARKETING",
+      "similaridade": 0.889,
+      "mapeamento": "EXISTENTE",
+      "count": 7
+    },
+    "ARKIMEDES CENTRO MÉDICO       ": {
+      "canal_uuid": "7a63b302-1ad9-4008-9041-536455668867",
+      "canal_codigo": 151,
+      "canal_nome": "ARKIMEDES CENTRO MÉDICO",
+      "canal_categoria": "MEDICO",
+      "similaridade": 0.868,
+      "mapeamento": "EXISTENTE",
+      "count": 6
+    },
+    "DV DOUGLAS JESUS DA SILVA     ": {
+      "canal_uuid": "4c9995a2-c585-4956-8150-8d1aed4d17ab",
+      "canal_codigo": 169,
+      "canal_nome": "DV DOUGLAS JESUS DA SILVA",
+      "canal_categoria": "DIVULGADOR",
+      "similaridade": 0.909,
+      "mapeamento": "EXISTENTE",
+      "count": 1
+    },
+    "INSTITUTO SUEL ABUJAMRA       ": {
+      "canal_uuid": "439e1731-4e91-49e6-b82d-1f12faf64c31",
+      "canal_codigo": 147,
+      "canal_nome": "INSTITUTO SUEL ABUJAMRA",
+      "canal_categoria": "OUTROS",
+      "similaridade": 0.868,
+      "mapeamento": "EXISTENTE",
+      "count": 1
+    },
+    "RADIO REDE UNÇÃO 96.5         ": {
+      "canal_uuid": "93e45709-a824-4e12-8475-09b7c12c0634",
+      "canal_codigo": 69,
+      "canal_nome": "RADIO REDE UNÇÃO 96.5",
+      "canal_categoria": "RADIO",
+      "similaridade": 0.824,
+      "mapeamento": "EXISTENTE",
+      "count": 1
+    },
+    "DR AMANDA A VV DE CASTRO      ": {
+      "canal_uuid": "7ab9a463-1f01-4b34-86c2-2d2b1639f5a1",
+      "canal_codigo": 142,
+      "canal_nome": "DR AMANDA A VV DE CASTRO",
+      "canal_categoria": "MEDICO",
+      "similaridade": 0.889,
+      "mapeamento": "EXISTENTE",
+      "count": 1
+    }
+  },
+  "canais_para_analise": [
+    {
+      "vixen": "SAÚDE DOS OLHOS               ",
+      "sugestao": "SAÚDE DOS OLHOS",
+      "similaridade": 0.6666666666666666,
+      "count": 2076
+    },
+    {
+      "vixen": "ORÇAMENTO                     ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1756
+    },
+    {
+      "vixen": "DIVULGADOR                    ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1049
+    },
+    {
+      "vixen": "ABORDAGEM                     ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 913
+    },
+    {
+      "vixen": "INDICAÇÃO                     ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 731
+    },
+    {
+      "vixen": "1ª COMPRA                     ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 548
+    },
+    {
+      "vixen": "CLINICA                       ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 379
+    },
+    {
+      "vixen": "JÁ É CLIENTE                  ",
+      "sugestao": "JÁ É CLIENTE",
+      "similaridade": 0.5714285714285714,
+      "count": 314
+    },
+    {
+      "vixen": "SUS                           ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 308
+    },
+    {
+      "vixen": "PASSAGEM                      ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 256
+    },
+    {
+      "vixen": "RX DE FORA                    ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 202
+    },
+    {
+      "vixen": "RADIO ATALAIA                 ",
+      "sugestao": "RADIO ATALAIA",
+      "similaridade": 0.6046511627906976,
+      "count": 150
+    },
+    {
+      "vixen": "TELEMARKETING                 ",
+      "sugestao": "TELEMARKETING",
+      "similaridade": 0.6046511627906976,
+      "count": 137
+    },
+    {
+      "vixen": "RADIO ADORE FM                ",
+      "sugestao": "RADIO ADORE FM",
+      "similaridade": 0.6363636363636364,
+      "count": 57
+    },
+    {
+      "vixen": "AMIGOS                        ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 56
+    },
+    {
+      "vixen": "WHATSAPP                      ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 38
+    },
+    {
+      "vixen": "DV VICTOR HUGO                ",
+      "sugestao": "DV VICTOR HUGO",
+      "similaridade": 0.6363636363636364,
+      "count": 36
+    },
+    {
+      "vixen": "REDE SOCIAL                   ",
+      "sugestao": "REDE SOCIAL",
+      "similaridade": 0.5365853658536586,
+      "count": 25
+    },
+    {
+      "vixen": "DROGARIA CAMPEA               ",
+      "sugestao": "DROGARIA CAMPEA",
+      "similaridade": 0.6666666666666666,
+      "count": 25
+    },
+    {
+      "vixen": "RADIO TROPICAL                ",
+      "sugestao": "RADIO TROPICAL",
+      "similaridade": 0.6363636363636364,
+      "count": 18
+    },
+    {
+      "vixen": "RADIO FÉ 101.5                ",
+      "sugestao": "RADIO FÉ 101.5",
+      "similaridade": 0.6363636363636364,
+      "count": 16
+    },
+    {
+      "vixen": "CAMPANHA VADO                 ",
+      "sugestao": "CAMPANHA VADO",
+      "similaridade": 0.6046511627906976,
+      "count": 16
+    },
+    {
+      "vixen": "CARTÃO INDICAÇÃO              ",
+      "sugestao": "CARTÃO INDICAÇÃO",
+      "similaridade": 0.6956521739130435,
+      "count": 14
+    },
+    {
+      "vixen": "DV JOÃO PAULO                 ",
+      "sugestao": "DV JOÃO PAULO",
+      "similaridade": 0.6046511627906976,
+      "count": 12
+    },
+    {
+      "vixen": "VITRINE                       ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 9
+    },
+    {
+      "vixen": "CAMPANHA CBA                  ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 7
+    },
+    {
+      "vixen": "CESTA BÁSICA                  ",
+      "sugestao": "CESTA BÁSICA",
+      "similaridade": 0.5714285714285714,
+      "count": 7
+    },
+    {
+      "vixen": "VISIOTESTE                    ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 6
+    },
+    {
+      "vixen": "WHATSAPP ROBÔ                 ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 5
+    },
+    {
+      "vixen": "                              ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 4
+    },
+    {
+      "vixen": "RADIO ÔMEGA                   ",
+      "sugestao": "RADIO ÔMEGA",
+      "similaridade": 0.5365853658536586,
+      "count": 3
+    },
+    {
+      "vixen": "ASSEMBLEIA DE DEUS            ",
+      "sugestao": "ASSEMBLEIA DE DEUS",
+      "similaridade": 0.75,
+      "count": 3
+    },
+    {
+      "vixen": "BOLIVIANOS                    ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 3
+    },
+    {
+      "vixen": "CARTÃO COMPLETO               ",
+      "sugestao": "CARTÃO COMPLETO",
+      "similaridade": 0.6666666666666666,
+      "count": 3
+    },
+    {
+      "vixen": "DV SUELEN RODRIGUES           ",
+      "sugestao": "DV SUELEN RODRIGUES",
+      "similaridade": 0.7755102040816326,
+      "count": 3
+    },
+    {
+      "vixen": "DV JEAN LEANDRO               ",
+      "sugestao": "DV JEAN LEANDRO",
+      "similaridade": 0.6666666666666666,
+      "count": 2
+    },
+    {
+      "vixen": "DV JACIANE DINIZ              ",
+      "sugestao": "DV JACIANE DINIZ",
+      "similaridade": 0.6956521739130435,
+      "count": 2
+    },
+    {
+      "vixen": "SITE                          ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 2
+    },
+    {
+      "vixen": "PLACA DE LOJA                 ",
+      "sugestao": "PLACA DE LOJA",
+      "similaridade": 0.6046511627906976,
+      "count": 2
+    },
+    {
+      "vixen": "MAGAZINE LUIZA                ",
+      "sugestao": "MAGAZINE LUIZA",
+      "similaridade": 0.6363636363636364,
+      "count": 2
+    },
+    {
+      "vixen": "PANFLETOS                     ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 2
+    },
+    {
+      "vixen": "CAMPANHA ANIVERSARIANTES      ",
+      "sugestao": "CAMPANHA NINJAS",
+      "similaridade": 0.5333333333333333,
+      "count": 2
+    },
+    {
+      "vixen": "AMEPLAN                       ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 2
+    },
+    {
+      "vixen": "TERMINAL SANTANA              ",
+      "sugestao": "TERMINAL SANTANA",
+      "similaridade": 0.6956521739130435,
+      "count": 1
+    },
+    {
+      "vixen": "SIND SINETROSV                ",
+      "sugestao": "SIND SINETROSV",
+      "similaridade": 0.6363636363636364,
+      "count": 1
+    },
+    {
+      "vixen": "DV NIKE                       ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1
+    },
+    {
+      "vixen": "CONVENIO FAN                  ",
+      "sugestao": "CONVENIO FAN",
+      "similaridade": 0.5714285714285714,
+      "count": 1
+    },
+    {
+      "vixen": "PROSPECÇÃO MABIO              ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1
+    },
+    {
+      "vixen": "DR RAFAEL PIVATTO             ",
+      "sugestao": "DR RAFAEL PIVATTO",
+      "similaridade": 0.723404255319149,
+      "count": 1
+    },
+    {
+      "vixen": "CLINICA ALPHA VISION          ",
+      "sugestao": "CLINICA ALPHA VISION",
+      "similaridade": 0.8,
+      "count": 1
+    },
+    {
+      "vixen": "DROGARIA SUPERMED             ",
+      "sugestao": "DROGARIA SUPERMED",
+      "similaridade": 0.723404255319149,
+      "count": 1
+    },
+    {
+      "vixen": "VALE SAUDE JEQUITI            ",
+      "sugestao": "VALE SAUDE JEQUITI",
+      "similaridade": 0.75,
+      "count": 1
+    },
+    {
+      "vixen": "OUTROS                        ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1
+    },
+    {
+      "vixen": "IAMSPE                        ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1
+    },
+    {
+      "vixen": "CAMPANHA AILTON               ",
+      "sugestao": "CAMPANHA LYOR",
+      "similaridade": 0.5116279069767442,
+      "count": 1
+    },
+    {
+      "vixen": "FLORIPARK                     ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1
+    },
+    {
+      "vixen": "CARTAO DE TODOS               ",
+      "sugestao": "CARTAO DE TODOS",
+      "similaridade": 0.6666666666666666,
+      "count": 1
+    },
+    {
+      "vixen": "ABMED                         ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1
+    },
+    {
+      "vixen": "ADEASP                        ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1
+    },
+    {
+      "vixen": "DV GABRIELA SILVA             ",
+      "sugestao": "DV GABRIELA SILVA",
+      "similaridade": 0.723404255319149,
+      "count": 1
+    },
+    {
+      "vixen": "GUIMA                         ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1
+    },
+    {
+      "vixen": "LUIS FIO FOLHETOS             ",
+      "sugestao": "LUIS FIO FOLHETOS",
+      "similaridade": 0.723404255319149,
+      "count": 1
+    },
+    {
+      "vixen": "RADIO TERRA                   ",
+      "sugestao": "RADIO TERRA",
+      "similaridade": 0.5365853658536586,
+      "count": 1
+    },
+    {
+      "vixen": "BIO SAÚDE                     ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1
+    },
+    {
+      "vixen": "RD ESP                        ",
+      "sugestao": null,
+      "similaridade": 0.0,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+id,codigo,nome,descricao,categoria,ativo,total_clientes,percentual
+971701a8-7b02-498d-a434-c0666b518259,VIXEN_001,SAÚDE DOS OLHOS               ,Canal importado do VIXEN: SAÚDE DOS OLHOS               ,SAUDE,True,2076,22.42
+45eff880-1e00-453c-b1f0-0bdaf27ab7e7,VIXEN_002,ORÇAMENTO                     ,Canal importado do VIXEN: ORÇAMENTO                     ,COMERCIAL,True,1756,18.96
+e005ca7d-09d9-40b8-bfca-c1b3d090a9ad,VIXEN_003,DIVULGADOR                    ,Canal importado do VIXEN: DIVULGADOR                    ,MARKETING,True,1049,11.33
+ec653395-88b2-43e9-81e7-e019ac3993e0,VIXEN_004,ABORDAGEM                     ,Canal importado do VIXEN: ABORDAGEM                     ,MARKETING,True,913,9.86
+3a68b524-3d47-438d-9949-a38575beebf8,VIXEN_005,INDICAÇÃO                     ,Canal importado do VIXEN: INDICAÇÃO                     ,INDICACAO,True,731,7.89
+0194663b-00cb-4142-81a2-965ead9c7f1c,VIXEN_006,1ª COMPRA                     ,Canal importado do VIXEN: 1ª COMPRA                     ,COMERCIAL,True,548,5.92
+bc9cf57c-8c4a-433a-b9ae-3abc52d738d5,VIXEN_007,CLINICA                       ,Canal importado do VIXEN: CLINICA                       ,SAUDE,True,379,4.09
+ee88ee9b-c963-4bc0-a6af-4000f3aee399,VIXEN_008,JÁ É CLIENTE                  ,Canal importado do VIXEN: JÁ É CLIENTE                  ,RETENCAO,True,314,3.39
+0f7fbcbf-e959-454e-bdb6-5b4f115f811f,VIXEN_009,SUS                           ,Canal importado do VIXEN: SUS                           ,SAUDE,True,308,3.33
+c866de6a-f64b-4cef-8cce-49ca58021f64,VIXEN_010,PASSAGEM                      ,Canal importado do VIXEN: PASSAGEM                      ,MARKETING,True,256,2.76
+c561c438-af97-42a2-ad84-1fc968ed82ec,VIXEN_011,RX DE FORA                    ,Canal importado do VIXEN: RX DE FORA                    ,OUTROS,True,202,2.18
+0f002f55-a0d0-4ea7-9a2f-98bc51c210ca,VIXEN_012,RADIO ATALAIA                 ,Canal importado do VIXEN: RADIO ATALAIA                 ,OUTROS,True,150,1.62
+b82d8f18-80cc-4de1-9e9a-eff2b502b79f,VIXEN_013,TELEMARKETING                 ,Canal importado do VIXEN: TELEMARKETING                 ,OUTROS,True,137,1.48
+f49ac552-d447-4940-a8db-ff71e7ac5e75,VIXEN_014,RADIO ADORE FM                ,Canal importado do VIXEN: RADIO ADORE FM                ,OUTROS,True,57,0.62
+b979cba2-f8f6-4ac5-9d6b-1b1c6b1a21d2,VIXEN_015,AMIGOS                        ,Canal importado do VIXEN: AMIGOS                        ,OUTROS,True,56,0.6
+3d1307ef-b6ab-4634-80dd-49da7a144866,VIXEN_016,WHATSAPP                      ,Canal importado do VIXEN: WHATSAPP                      ,OUTROS,True,38,0.41
+d9d78141-0326-4fc4-9dfa-374af4545f69,VIXEN_017,DV VICTOR HUGO                ,Canal importado do VIXEN: DV VICTOR HUGO                ,OUTROS,True,36,0.39
+f5d0e89a-0992-4506-a645-2ffca43e615b,VIXEN_018,REDE SOCIAL                   ,Canal importado do VIXEN: REDE SOCIAL                   ,OUTROS,True,25,0.27
+fdeaec23-5fe3-4e13-8c56-622f4362a391,VIXEN_019,DROGARIA CAMPEA               ,Canal importado do VIXEN: DROGARIA CAMPEA               ,OUTROS,True,25,0.27
+c291de4e-473a-495d-af4b-9d3e6a49e911,VIXEN_020,GOOGLE/FACE/INSTA - PATROCÍNIO,Canal importado do VIXEN: GOOGLE/FACE/INSTA - PATROCÍNIO,OUTROS,True,20,0.22
+fde8c36c-7ee4-468a-bf21-81fb03f013b1,VIXEN_021,RADIO TROPICAL                ,Canal importado do VIXEN: RADIO TROPICAL                ,OUTROS,True,18,0.19
+d98ed353-a621-459e-a5ff-f7a385d5faba,VIXEN_022,RADIO FÉ 101.5                ,Canal importado do VIXEN: RADIO FÉ 101.5                ,OUTROS,True,16,0.17
+117507d7-7c42-4573-a010-f28d3d442abf,VIXEN_023,CAMPANHA VADO                 ,Canal importado do VIXEN: CAMPANHA VADO                 ,OUTROS,True,16,0.17
+0dc88278-8b8a-4e4a-a08e-d28d05f5a462,VIXEN_024,CARTÃO INDICAÇÃO              ,Canal importado do VIXEN: CARTÃO INDICAÇÃO              ,INDICACAO,True,14,0.15
+e524b07d-e80b-4070-b7be-b9111798f9c9,VIXEN_025,DV JOÃO PAULO                 ,Canal importado do VIXEN: DV JOÃO PAULO                 ,OUTROS,True,12,0.13
+c0ded652-c550-4cce-992f-88934c81091d,VIXEN_026,VITRINE                       ,Canal importado do VIXEN: VITRINE                       ,OUTROS,True,9,0.1
+b203f653-2848-4378-b66d-435d9ff75bd5,VIXEN_027,CAMPANHA CBA                  ,Canal importado do VIXEN: CAMPANHA CBA                  ,OUTROS,True,7,0.08
+8ecb77ff-f240-4114-ab00-b2a0d0e3f772,VIXEN_028,CESTA BÁSICA                  ,Canal importado do VIXEN: CESTA BÁSICA                  ,OUTROS,True,7,0.08
+3e2b1d25-48bc-4242-8cb4-031cd967aa92,VIXEN_029,CAMPANHA COMPRE 1 LEVE 3      ,Canal importado do VIXEN: CAMPANHA COMPRE 1 LEVE 3      ,OUTROS,True,7,0.08
+133f0f15-58f9-4960-bf0f-8b88935831da,VIXEN_030,ARKIMEDES CENTRO MÉDICO       ,Canal importado do VIXEN: ARKIMEDES CENTRO MÉDICO       ,OUTROS,True,6,0.06
+2e333b93-50b7-401b-85d9-ea981afce95d,VIXEN_031,VISIOTESTE                    ,Canal importado do VIXEN: VISIOTESTE                    ,OUTROS,True,6,0.06
+f08879e4-0c15-40af-bf19-c5ee95077adc,VIXEN_032,WHATSAPP ROBÔ                 ,Canal importado do VIXEN: WHATSAPP ROBÔ                 ,OUTROS,True,5,0.05
+5a136381-afbd-45a5-9dce-6ba04b606d93,VIXEN_033,                              ,Canal importado do VIXEN:                               ,OUTROS,True,4,0.04
+267e59e9-70d6-4c64-8ccb-744914eb6aa6,VIXEN_034,RADIO ÔMEGA                   ,Canal importado do VIXEN: RADIO ÔMEGA                   ,OUTROS,True,3,0.03
+063f9f18-0b88-4f8b-99ce-a828933b1345,VIXEN_035,ASSEMBLEIA DE DEUS            ,Canal importado do VIXEN: ASSEMBLEIA DE DEUS            ,OUTROS,True,3,0.03
+0f568026-e79a-4911-a249-a7b2cd644086,VIXEN_036,BOLIVIANOS                    ,Canal importado do VIXEN: BOLIVIANOS                    ,OUTROS,True,3,0.03
+383ca087-b7b2-41e4-910f-695611a69d72,VIXEN_037,CARTÃO COMPLETO               ,Canal importado do VIXEN: CARTÃO COMPLETO               ,OUTROS,True,3,0.03
+81d07ce8-4e58-45b9-abf3-031ca341da77,VIXEN_038,DV SUELEN RODRIGUES           ,Canal importado do VIXEN: DV SUELEN RODRIGUES           ,OUTROS,True,3,0.03
+c28f2f41-057d-4484-b3fa-84743c33cedf,VIXEN_039,DV JEAN LEANDRO               ,Canal importado do VIXEN: DV JEAN LEANDRO               ,OUTROS,True,2,0.02
+50a4e8bd-7056-49de-9851-574c2492bf1c,VIXEN_040,DV JACIANE DINIZ              ,Canal importado do VIXEN: DV JACIANE DINIZ              ,OUTROS,True,2,0.02
+e3cb2b6b-b8c1-4f48-917c-3241dae2858a,VIXEN_041,SITE                          ,Canal importado do VIXEN: SITE                          ,OUTROS,True,2,0.02
+7fe1506a-9cbc-47e1-bc83-1c1c44d41f6f,VIXEN_042,PLACA DE LOJA                 ,Canal importado do VIXEN: PLACA DE LOJA                 ,OUTROS,True,2,0.02
+06aa876e-d7ee-4fee-ba7b-91f3a41fbbb1,VIXEN_043,MAGAZINE LUIZA                ,Canal importado do VIXEN: MAGAZINE LUIZA                ,OUTROS,True,2,0.02
+41f746e8-3c06-47f3-9f2c-b27c14381c41,VIXEN_044,PANFLETOS                     ,Canal importado do VIXEN: PANFLETOS                     ,OUTROS,True,2,0.02
+03cc52f6-2982-47c1-945c-849b988c70bd,VIXEN_045,CAMPANHA ANIVERSARIANTES      ,Canal importado do VIXEN: CAMPANHA ANIVERSARIANTES      ,OUTROS,True,2,0.02
+e79c1a47-8bd5-4ae8-bf64-d9df631dcc52,VIXEN_046,AMEPLAN                       ,Canal importado do VIXEN: AMEPLAN                       ,OUTROS,True,2,0.02
+d6b71e1b-8e99-4952-a390-8e5b25e703f6,VIXEN_047,TERMINAL SANTANA              ,Canal importado do VIXEN: TERMINAL SANTANA              ,OUTROS,True,1,0.01
+0060ed36-bdb0-47f0-b724-1d76d31ff549,VIXEN_048,SIND SINETROSV                ,Canal importado do VIXEN: SIND SINETROSV                ,OUTROS,True,1,0.01
+e1583d0c-1aab-4e3c-bccf-29f1a542ea65,VIXEN_049,DV NIKE                       ,Canal importado do VIXEN: DV NIKE                       ,OUTROS,True,1,0.01
+9c9b4d41-5f24-460f-9bf5-22b203301070,VIXEN_050,CONVENIO FAN                  ,Canal importado do VIXEN: CONVENIO FAN                  ,OUTROS,True,1,0.01
+649f47e8-f258-4be5-95d6-c88762f0bcb8,VIXEN_051,PROSPECÇÃO MABIO              ,Canal importado do VIXEN: PROSPECÇÃO MABIO              ,OUTROS,True,1,0.01
+5a568cd7-299c-484b-8a45-ffeb35cf33fb,VIXEN_052,DR RAFAEL PIVATTO             ,Canal importado do VIXEN: DR RAFAEL PIVATTO             ,OUTROS,True,1,0.01
+33f8bffa-0f03-4472-ac75-4b65c6671dc3,VIXEN_053,CLINICA ALPHA VISION          ,Canal importado do VIXEN: CLINICA ALPHA VISION          ,SAUDE,True,1,0.01
+0548f06f-6c92-4bd3-b148-862dce786526,VIXEN_054,DV DOUGLAS JESUS DA SILVA     ,Canal importado do VIXEN: DV DOUGLAS JESUS DA SILVA     ,SAUDE,True,1,0.01
+d31a4fc7-b51b-4c6f-97bc-c0d123edbf7a,VIXEN_055,DROGARIA SUPERMED             ,Canal importado do VIXEN: DROGARIA SUPERMED             ,OUTROS,True,1,0.01
+4e755e8a-6b2a-4ede-b576-a81d3787573c,VIXEN_056,VALE SAUDE JEQUITI            ,Canal importado do VIXEN: VALE SAUDE JEQUITI            ,SAUDE,True,1,0.01
+ceae582e-e7d3-4054-b667-e0c29d2ce07e,VIXEN_057,INSTITUTO SUEL ABUJAMRA       ,Canal importado do VIXEN: INSTITUTO SUEL ABUJAMRA       ,OUTROS,True,1,0.01
+5d9c1b7a-e92c-4d75-a29a-8ead080a0971,VIXEN_058,RADIO REDE UNÇÃO 96.5         ,Canal importado do VIXEN: RADIO REDE UNÇÃO 96.5         ,OUTROS,True,1,0.01
+e557de17-ccb3-4fb3-9887-90294365ce47,VIXEN_059,OUTROS                        ,Canal importado do VIXEN: OUTROS                        ,OUTROS,True,1,0.01
+62265e61-557e-4bd6-a557-8e0457318830,VIXEN_060,IAMSPE                        ,Canal importado do VIXEN: IAMSPE                        ,OUTROS,True,1,0.01
+14597967-cecd-44c3-b2fe-c197f5548c7e,VIXEN_061,CAMPANHA AILTON               ,Canal importado do VIXEN: CAMPANHA AILTON               ,OUTROS,True,1,0.01
+f78f90ae-eba3-4a47-af34-7b45280bc07a,VIXEN_062,FLORIPARK                     ,Canal importado do VIXEN: FLORIPARK                     ,OUTROS,True,1,0.01
+19bce216-9ea2-4adb-86cc-156773712ce4,VIXEN_063,CARTAO DE TODOS               ,Canal importado do VIXEN: CARTAO DE TODOS               ,OUTROS,True,1,0.01
+e41baad5-c5fe-462b-906e-44bba1cb1aab,VIXEN_064,ABMED                         ,Canal importado do VIXEN: ABMED                         ,OUTROS,True,1,0.01
+4047bbe3-1696-4867-b14f-67b9b3491f94,VIXEN_065,DR AMANDA A VV DE CASTRO      ,Canal importado do VIXEN: DR AMANDA A VV DE CASTRO      ,OUTROS,True,1,0.01
+4a6e8088-f6d4-4cf8-ba75-e2deb64f67c3,VIXEN_066,ADEASP                        ,Canal importado do VIXEN: ADEASP                        ,OUTROS,True,1,0.01
+dd2a5eac-de14-485b-a8bb-a3fd0da026b4,VIXEN_067,DV GABRIELA SILVA             ,Canal importado do VIXEN: DV GABRIELA SILVA             ,OUTROS,True,1,0.01
+a3d2d00e-ddd2-4bd3-ac02-5a2ffcf148f9,VIXEN_068,GUIMA                         ,Canal importado do VIXEN: GUIMA                         ,OUTROS,True,1,0.01
+b0ff876b-a34e-4c14-8bc6-b6becd65dbec,VIXEN_069,LUIS FIO FOLHETOS             ,Canal importado do VIXEN: LUIS FIO FOLHETOS             ,OUTROS,True,1,0.01
+280acd67-dad9-40c1-826d-39bd2648399a,VIXEN_070,RADIO TERRA                   ,Canal importado do VIXEN: RADIO TERRA                   ,OUTROS,True,1,0.01
+eb1e6e03-4302-4697-bdfa-bde322f1fda9,VIXEN_071,BIO SAÚDE                     ,Canal importado do VIXEN: BIO SAÚDE                     ,SAUDE,True,1,0.01
+992da9d8-2f91-45f5-b1c1-effe4f89d4a7,VIXEN_072,RD ESP                        ,Canal importado do VIXEN: RD ESP                        ,OUTROS,True,1,0.01

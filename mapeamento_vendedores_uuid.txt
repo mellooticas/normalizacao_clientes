@@ -1,0 +1,216 @@
+# MAPEAMENTO DE UUIDs PARA VENDEDORES
+# ==========================================
+# 
+# INSTRUÇÕES:
+# 1. Para cada vendedor, forneça o UUID correspondente
+# 2. Se for o mesmo vendedor com nomes diferentes, use o mesmo UUID
+# 3. Se for vendedor novo, escreva "NOVO" para gerar UUID automaticamente
+# 4. Se for inválido/deve ser ignorado, escreva "IGNORAR"
+#
+# FORMATO: nome_vendedor = uuid_ou_comando
+#
+# EXEMPLOS:
+# BETH = d2eb5739-5887-4c3f-86e9-822f60469650
+# Maria Elizabeth = d2eb5739-5887-4c3f-86e9-822f60469650  # mesmo UUID da BETH
+# WILLIAM = NOVO  # gerar novo UUID
+# garantia = IGNORAR  # não é vendedor válido
+#
+# ==========================================
+
+# VENDEDORES ENCONTRADOS (82 únicos)
+# Preencha o UUID correto ou comando para cada um:
+
+# ==========================================
+# GRUPO: BETH / MARIA ELIZABETH (parece ser a mesma pessoa)
+# ==========================================
+BETH = d2eb5739-5887-4c3f-86e9-822f60469650
+beth = d2eb5739-5887-4c3f-86e9-822f60469650
+Maria Elizabeth = d2eb5739-5887-4c3f-86e9-822f60469650
+Maria Elizebeth = d2eb5739-5887-4c3f-86e9-822f60469650
+
+# ==========================================
+# GRUPO: WEVILLY / WEVELLY (parece ser a mesma pessoa)
+# ==========================================
+WEVILLY = c0023125-cf07-42bc-8462-4ddcbe586ce7
+WEVILLY = c0023125-cf07-42bc-8462-4ddcbe586ce7
+Wevelly = c0023125-cf07-42bc-8462-4ddcbe586ce7
+Wevelly = c0023125-cf07-42bc-8462-4ddcbe586ce7
+wevilly = c0023125-cf07-42bc-8462-4ddcbe586ce7
+
+# ==========================================
+# GRUPO: ROGERIO / ROGÉRIO (parece ser a mesma pessoa)
+# ==========================================
+R0GERIO = 22ea8fe8-34cd-4b68-b56c-33e63f5290f8
+ROGERIO = 22ea8fe8-34cd-4b68-b56c-33e63f5290f8
+ROGÉRIO = 22ea8fe8-34cd-4b68-b56c-33e63f5290f8
+Rogerio = 22ea8fe8-34cd-4b68-b56c-33e63f5290f8
+Rogério = 22ea8fe8-34cd-4b68-b56c-33e63f5290f8
+
+# ==========================================
+# GRUPO: TATI / TATY (parece ser a mesma pessoa)
+# ==========================================
+TATI = e1ff66f6-c10e-4601-a4e0-23d2318ff138
+TATY = e1ff66f6-c10e-4601-a4e0-23d2318ff138
+Taty = e1ff66f6-c10e-4601-a4e0-23d2318ff138
+tati = e1ff66f6-c10e-4601-a4e0-23d2318ff138
+taty = e1ff66f6-c10e-4601-a4e0-23d2318ff138
+
+# ==========================================
+# GRUPO: WILLIAM / WILLAM / WILLIAN (parece ser a mesma pessoa)
+# ==========================================
+WILLAM = e68a248c-43af-492a-b758-44a56e835e76
+WILLIAM = e68a248c-43af-492a-b758-44a56e835e76
+WILLIAN = e68a248c-43af-492a-b758-44a56e835e76
+Willam = e68a248c-43af-492a-b758-44a56e835e76
+William = e68a248c-43af-492a-b758-44a56e835e76
+Willian = e68a248c-43af-492a-b758-44a56e835e76
+william = e68a248c-43af-492a-b758-44a56e835e76
+willian = e68a248c-43af-492a-b758-44a56e835e76
+
+# ==========================================
+# GRUPO: ROSANGELA / ROSÂNGELA (parece ser a mesma pessoa)
+# ==========================================
+ROSANGELA = b798769b-8ce6-4c9e-8be7-bb46df413eab
+ROSÂNGELA = b798769b-8ce6-4c9e-8be7-bb46df413eab
+ROSÃNGELA = b798769b-8ce6-4c9e-8be7-bb46df413eab
+ROSÃÑGELA = b798769b-8ce6-4c9e-8be7-bb46df413eab
+Rosagela = b798769b-8ce6-4c9e-8be7-bb46df413eab
+Rosangela = b798769b-8ce6-4c9e-8be7-bb46df413eab
+Rosângela = b798769b-8ce6-4c9e-8be7-bb46df413eab
+
+# ==========================================
+# GRUPO: ERICA / ERIKA / ÉRIKA (parece ser a mesma pessoa)
+# ==========================================
+ERICA = 28352073-a532-4304-ae71-811c51cf54ba
+ERIKA = 28352073-a532-4304-ae71-811c51cf54ba
+Erica de Cassia Jesus Silva = 28352073-a532-4304-ae71-811c51cf54ba
+Erika = 28352073-a532-4304-ae71-811c51cf54ba
+ÉRIKA = 28352073-a532-4304-ae71-811c51cf54ba
+Érika = 28352073-a532-4304-ae71-811c51cf54ba
+
+# ==========================================
+# GRUPO: LARISSA (mesma pessoa)
+# ==========================================
+LARISSA = c6090f60-cb5c-4b0a-8227-31d0ff98c226
+Larissa = c6090f60-cb5c-4b0a-8227-31d0ff98c226
+larissa = c6090f60-cb5c-4b0a-8227-31d0ff98c226
+
+# ==========================================
+# GRUPO: LUANA (mesma pessoa)
+# ==========================================
+LUANA = 271075be-1e7b-4cb7-a4f3-adb982ada858
+
+# ==========================================
+# GRUPO: SAMUEL (mesma pessoa)
+# ==========================================
+SAMUEL = 8eedfaa1-c3c5-4d17-90f5-ab6abfa18471
+Samuel = 8eedfaa1-c3c5-4d17-90f5-ab6abfa18471
+
+# ==========================================
+# GRUPO: SANDY (mesma pessoa)
+# ==========================================
+SANDY = d9fb3699-c609-4e9b-b291-022ebe38d3d6
+Sandy = d9fb3699-c609-4e9b-b291-022ebe38d3d6
+
+# ==========================================
+# GRUPO: BRUNO (mesma pessoa)
+# ==========================================
+BRUNO = c9a76e06-f67b-4b36-a44f-a55716679a2a
+Bruno = c9a76e06-f67b-4b36-a44f-a55716679a2a
+bruno = c9a76e06-f67b-4b36-a44f-a55716679a2a
+
+# ==========================================
+# GRUPO: FELIPE (mesma pessoa)
+# ==========================================
+FELIPE = dda060e8-01cd-4843-a97e-75b9887292db
+
+# ==========================================
+# GRUPO: ZAINE (mesma pessoa)
+# ==========================================
+ZAINE = 0e9c6cc8-e1b1-47a2-b34d-42895ea5a320
+Zaine = 0e9c6cc8-e1b1-47a2-b34d-42895ea5a320
+zaine = 0e9c6cc8-e1b1-47a2-b34d-42895ea5a320
+
+# ==========================================
+# GRUPO: JOANA / JOCI / JOCY (podem ser pessoas diferentes)
+# ==========================================
+JOANA = f192ff87-3449-407e-aa30-b7d4e9970b93
+Joana = f192ff87-3449-407e-aa30-b7d4e9970b93
+JOCI = 2fec96c8-d492-49ab-b38a-a5d5452af4d2
+JOCY = 2fec96c8-d492-49ab-b38a-a5d5452af4d2
+joci = 2fec96c8-d492-49ab-b38a-a5d5452af4d2
+jocy = 2fec96c8-d492-49ab-b38a-a5d5452af4d2
+
+# ==========================================
+# GRUPO: MARIA (vários tipos - podem ser pessoas diferentes)
+# ==========================================
+MARIA = c4ee95ea-cbbc-4341-9dec-b5ddae6750f4
+Maria = c4ee95ea-cbbc-4341-9dec-b5ddae6750f4
+Maria Ramos = a430363d-78ed-4f7d-a020-329e0e875d64
+Maria da Silva Ozorio = b6baa62e-93cb-44de-b2d7-db6fe1dc7b8a
+Maria de Lourdes = c18dc70e-4150-4624-b3dc-b6d9c83db5b7
+
+# ==========================================
+# GRUPO: ARIANI (mesma pessoa)
+# ==========================================
+ARIANI = df105bdf-d92b-44e7-86dd-2f486b4eb17b
+ariani = df105bdf-d92b-44e7-86dd-2f486b4eb17b
+
+# ==========================================
+# GRUPO: ANA (mesma pessoa)
+# ==========================================
+ANA = 28382574-3270-4a12-a820-87f03276ef33
+
+# ==========================================
+# GRUPO: CARLA CRISTINA (mesma pessoa)
+# ==========================================
+CARLA CRISTINA = 2cba056b-4da2-486c-a295-485eba8a3d01
+
+# ==========================================
+# GRUPO: CHINASA DORIS (mesma pessoa)
+# ==========================================
+CHINASA DORIS = bf95e71d-a56d-42fc-bef5-5b571f2f8ce7
+
+# ==========================================
+# GRUPO: JULIANA CERA (mesma pessoa)
+# ==========================================
+Juliana Cera = d495c411-a99b-4893-ac9c-69da3e29f518
+
+# ==========================================
+# GRUPO: KEREN / KAYLANE (podem ser pessoas diferentes)
+# ==========================================
+KEREN = 57545079-3f88-4853-890b-ea08f121b981
+Kaylane = 168483ea-ef4b-4365-bdb4-e3f82c1b5d11
+
+# ==========================================
+# GRUPO: COMBINAÇÕES (vendedor + outro)
+# ==========================================
+MARIA / GARANTIA = c4ee95ea-cbbc-4341-9dec-b5ddae6750f4
+Taty/Erika = 28352073-a532-4304-ae71-811c51cf54ba
+Wevilly/Taty = c0023125-cf07-42bc-8462-4ddcbe586ce7
+
+# ==========================================
+# GRUPO: GARANTIA (provavelmente não é vendedor)
+# ==========================================
+GARANTIA = 4ac1702f-5344-45c1-9a66-0798042678d6
+Garantia = 4ac1702f-5344-45c1-9a66-0798042678d6
+garantia = 4ac1702f-5344-45c1-9a66-0798042678d6
+
+# ==========================================
+# GRUPO: CARACTERES ESPECIAIS (provavelmente inválido)
+# ==========================================
+///////////////////////// = 
+
+# ==========================================
+# INSTRUÇÕES APÓS PREENCHIMENTO:
+# ==========================================
+# 1. Salve este arquivo
+# 2. Execute o script de aplicação dos UUIDs
+# 3. Verifique os resultados
+# 4. Ajuste conforme necessário
+#
+# NOTAS:
+# - Use o mesmo UUID para nomes que representem a mesma pessoa
+# - Use "NOVO" para gerar UUID automaticamente para vendedores novos
+# - Use "IGNORAR" para entradas que não são vendedores válidos
+# - Mantenha a formatação: nome = valor

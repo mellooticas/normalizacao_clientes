@@ -1,0 +1,116 @@
+{
+  "tipo_tabela": "RESTANTE_ENTRADA",
+  "estrutura": {
+    "celula_base": "E25",
+    "colunas": [
+      "Nº Venda",
+      "Cliente",
+      "Forma de Pgto",
+      "Valor Venda",
+      "Entrada"
+    ],
+    "tipo": "financeiro",
+    "descricao": "Valores restantes de entrada"
+  },
+  "total_registros": 14357,
+  "lojas_com_dados": [
+    "maua",
+    "suzano",
+    "perus",
+    "sao_mateus",
+    "rio_pequeno",
+    "suzano2"
+  ],
+  "colunas_encontradas": [
+    "nn_venda",
+    "cliente",
+    "forma_de_pgto",
+    "valor_venda",
+    "entrada",
+    "linha_origem",
+    "tabela_tipo",
+    "aba_origem",
+    "valores_brutos",
+    "data_movimento",
+    "loja_celula",
+    "loja_arquivo",
+    "arquivo_origem"
+  ],
+  "amostra_dados": [
+    {
+      "nn_venda": "Recebimento de Carnê",
+      "cliente": "",
+      "forma_de_pgto": "",
+      "valor_venda": "",
+      "entrada": "",
+      "linha_origem": 33,
+      "tabela_tipo": "RESTANTE_ENTRADA",
+      "aba_origem": "01",
+      "valores_brutos": "['Recebimento de Carnê', '', '', '', '']",
+      "data_movimento": "2024-04-01 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "nn_venda": "OS",
+      "cliente": "Cliente",
+      "forma_de_pgto": "Forma de Pgto",
+      "valor_venda": "Valor Parcela",
+      "entrada": "Nº Parcela",
+      "linha_origem": 34,
+      "tabela_tipo": "RESTANTE_ENTRADA",
+      "aba_origem": "01",
+      "valores_brutos": "['OS', 'Cliente', 'Forma de Pgto', 'Valor Parcela', 'Nº Parcela']",
+      "data_movimento": "2024-04-01 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "nn_venda": 4098,
+      "cliente": "FABIO GONÇALVES",
+      "forma_de_pgto": "DN",
+      "valor_venda": 0,
+      "entrada": 100,
+      "linha_origem": 26,
+      "tabela_tipo": "RESTANTE_ENTRADA",
+      "aba_origem": "02",
+      "valores_brutos": "[4098, 'FABIO GONÇALVES', 'DN', 0, 100]",
+      "data_movimento": "2024-04-02 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "nn_venda": "Recebimento de Carnê",
+      "cliente": "",
+      "forma_de_pgto": "",
+      "valor_venda": "",
+      "entrada": "",
+      "linha_origem": 33,
+      "tabela_tipo": "RESTANTE_ENTRADA",
+      "aba_origem": "02",
+      "valores_brutos": "['Recebimento de Carnê', '', '', '', '']",
+      "data_movimento": "2024-04-02 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "nn_venda": "OS",
+      "cliente": "Cliente",
+      "forma_de_pgto": "Forma de Pgto",
+      "valor_venda": "Valor Parcela",
+      "entrada": "Nº Parcela",
+      "linha_origem": 34,
+      "tabela_tipo": "RESTANTE_ENTRADA",
+      "aba_origem": "02",
+      "valores_brutos": "['OS', 'Cliente', 'Forma de Pgto', 'Valor Parcela', 'Nº Parcela']",
+      "data_movimento": "2024-04-02 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    }
+  ]
+}

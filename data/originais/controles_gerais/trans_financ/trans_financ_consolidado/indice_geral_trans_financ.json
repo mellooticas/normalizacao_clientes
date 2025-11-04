@@ -1,0 +1,71 @@
+{
+  "resumo_geral": {
+    "data_criacao": "2025-10-30 20:59:03",
+    "total_registros_originais": 27575,
+    "periodo_abrangido": "2020-10 a 2023-12",
+    "colunas_totais": 69
+  },
+  "estrutura_criada": {
+    "por_origem": {
+      "total_arquivos": 5,
+      "arquivos": [
+        "FUNDO DE CAIXA.csv",
+        "ORDEM DE SERVIÇO PDV.csv",
+        "REC. CORRENTISTA.csv",
+        "SANGRIA.csv",
+        "VENDA.csv"
+      ]
+    },
+    "por_ano": {
+      "total_arquivos": 4,
+      "arquivos": [
+        "trans_financ_2020.csv",
+        "trans_financ_2021.csv",
+        "trans_financ_2022.csv",
+        "trans_financ_2023.csv"
+      ]
+    },
+    "por_trimestre": {
+      "total_arquivos": 13,
+      "arquivos": [
+        "trans_financ_2020_Q4.csv",
+        "trans_financ_2021_Q1.csv",
+        "trans_financ_2021_Q2.csv",
+        "trans_financ_2021_Q3.csv",
+        "trans_financ_2021_Q4.csv",
+        "trans_financ_2022_Q1.csv",
+        "trans_financ_2022_Q2.csv",
+        "trans_financ_2022_Q3.csv",
+        "trans_financ_2022_Q4.csv",
+        "trans_financ_2023_Q1.csv",
+        "trans_financ_2023_Q2.csv",
+        "trans_financ_2023_Q3.csv",
+        "trans_financ_2023_Q4.csv"
+      ]
+    },
+    "por_tipo_operacao": {
+      "total_arquivos": 5,
+      "arquivos": [
+        "tipo_controle_caixa.csv",
+        "tipo_fundos.csv",
+        "tipo_recebimentos.csv",
+        "tipo_vendas.csv",
+        "tipo_vendas_diretas.csv"
+      ]
+    },
+    "amostras": {
+      "total_arquivos": 4,
+      "arquivos": [
+        "amostra_1000_registros.csv",
+        "amostra_por_mes.csv",
+        "amostra_valores_altos.csv",
+        "amostra_vendas_recentes.csv"
+      ]
+    }
+  },
+  "estatisticas_resumidas": {
+    "origens_unicas": 9,
+    "anos_abrangidos": 4,
+    "valor_total": 5729439.21
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "tipo_tabela": "VENDAS",
+  "estrutura": {
+    "celula_base": "E5",
+    "colunas": [
+      "Nº Venda",
+      "Cliente",
+      "Forma de Pgto",
+      "Valor Venda",
+      "Entrada"
+    ],
+    "tipo": "financeiro",
+    "descricao": "Vendas realizadas no dia"
+  },
+  "total_registros": 9906,
+  "lojas_com_dados": [
+    "maua",
+    "suzano",
+    "perus",
+    "sao_mateus",
+    "rio_pequeno",
+    "suzano2"
+  ],
+  "colunas_encontradas": [
+    "nn_venda",
+    "cliente",
+    "forma_de_pgto",
+    "valor_venda",
+    "entrada",
+    "linha_origem",
+    "tabela_tipo",
+    "aba_origem",
+    "valores_brutos",
+    "data_movimento",
+    "loja_celula",
+    "loja_arquivo",
+    "arquivo_origem"
+  ],
+  "amostra_dados": [
+    {
+      "nn_venda": 4153,
+      "cliente": "FATIMA PAULO ",
+      "forma_de_pgto": "GARANTIA",
+      "valor_venda": 0,
+      "entrada": 0,
+      "linha_origem": 6,
+      "tabela_tipo": "VENDAS",
+      "aba_origem": "01",
+      "valores_brutos": "[4153, 'FATIMA PAULO ', 'GARANTIA', 0, 0]",
+      "data_movimento": "2024-04-01 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "nn_venda": 4154,
+      "cliente": "ANTONIO CARLOS DE CARVALHO",
+      "forma_de_pgto": "CTD",
+      "valor_venda": 800,
+      "entrada": 800,
+      "linha_origem": 7,
+      "tabela_tipo": "VENDAS",
+      "aba_origem": "01",
+      "valores_brutos": "[4154, 'ANTONIO CARLOS DE CARVALHO', 'CTD', 800, 800]",
+      "data_movimento": "2024-04-01 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "nn_venda": 4155,
+      "cliente": "JOAO JOAQUIM",
+      "forma_de_pgto": "CTC",
+      "valor_venda": 657,
+      "entrada": 657,
+      "linha_origem": 8,
+      "tabela_tipo": "VENDAS",
+      "aba_origem": "01",
+      "valores_brutos": "[4155, 'JOAO JOAQUIM', 'CTC', 657, 657]",
+      "data_movimento": "2024-04-01 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "nn_venda": 4156,
+      "cliente": "JOSIANA APARECIDA",
+      "forma_de_pgto": "SS",
+      "valor_venda": 30,
+      "entrada": 0,
+      "linha_origem": 9,
+      "tabela_tipo": "VENDAS",
+      "aba_origem": "01",
+      "valores_brutos": "[4156, 'JOSIANA APARECIDA', 'SS', 30, 0]",
+      "data_movimento": "2024-04-01 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "nn_venda": 4157,
+      "cliente": "JACINTO FERNANDES",
+      "forma_de_pgto": "DN",
+      "valor_venda": 1050,
+      "entrada": 25,
+      "linha_origem": 6,
+      "tabela_tipo": "VENDAS",
+      "aba_origem": "02",
+      "valores_brutos": "[4157, 'JACINTO FERNANDES', 'DN', 1050, 25]",
+      "data_movimento": "2024-04-02 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data_processamento": "2025-10-31T00:17:16.489310",
+  "arquivo_origem": "VENDA.csv",
+  "total_registros_original": 116,
+  "carne_lancaster": {
+    "registros": 14,
+    "os_unicas": 3,
+    "valor_total": 1065.0,
+    "uuids_aplicados": 0
+  },
+  "outros_pagamentos": {
+    "registros": 102,
+    "os_unicas": 99,
+    "valor_total": 20368.999999999996,
+    "uuids_aplicados": 102,
+    "tipos_pagamento": {
+      "DINHEIRO": 49,
+      "DEP. EM CONTA": 19,
+      "DEBITO MASTER": 8,
+      "CREDITO VISA": 6,
+      "CREDITO MASTER": 6,
+      "DEP. EM CONTA                           ": 5,
+      "ELO DEBITO": 3,
+      "ELO CREDITO": 3,
+      "DEBITO VISA": 2,
+      "DINHEIRO                                ": 1
+    }
+  },
+  "normalizacao": {
+    "prefixos_removidos": [
+      "420-",
+      "480-"
+    ],
+    "total_normalizados": 116
+  }
+}

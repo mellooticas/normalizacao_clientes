@@ -1,0 +1,127 @@
+{
+  "canais_unicos": [
+    "  ",
+    "01 - REDES SOCIAS",
+    "04 CLIENTES",
+    "04 CLIENTES ",
+    "138 - SAÚDE DOS OLHOS",
+    "15 - ORÇAMENTO",
+    "16 - INDICAÇÃO",
+    "17 - ABORDAGEM",
+    "21 - TELEMARKETING",
+    "38 - DIVULGADOR",
+    "55 - CARTÃO DE TODOS",
+    "77 - AMIGO (IND)",
+    "98 - WHATSAPP",
+    "GOOGLE"
+  ],
+  "contador_geral": {
+    "04 CLIENTES": 6,
+    "17 - ABORDAGEM": 6,
+    "16 - INDICAÇÃO": 6,
+    "15 - ORÇAMENTO": 6,
+    "21 - TELEMARKETING": 5,
+    "138 - SAÚDE DOS OLHOS": 5,
+    "38 - DIVULGADOR": 4,
+    "01 - REDES SOCIAS": 4,
+    "98 - WHATSAPP": 4,
+    "77 - AMIGO (IND)": 3,
+    "55 - CARTÃO DE TODOS": 2,
+    "04 CLIENTES ": 1,
+    "GOOGLE": 1,
+    "  ": 1
+  },
+  "estatisticas_por_loja": {
+    "MAUA": {
+      "total_registros": 737,
+      "canais_unicos": 9,
+      "top_canais": {
+        "04 CLIENTES": 331,
+        "16 - INDICAÇÃO": 109,
+        "15 - ORÇAMENTO": 107,
+        "17 - ABORDAGEM": 89,
+        "138 - SAÚDE DOS OLHOS": 71,
+        "21 - TELEMARKETING": 5,
+        "01 - REDES SOCIAS": 5,
+        "38 - DIVULGADOR": 3,
+        "98 - WHATSAPP": 1
+      }
+    },
+    "PERUS": {
+      "total_registros": 609,
+      "canais_unicos": 9,
+      "top_canais": {
+        "138 - SAÚDE DOS OLHOS": 190,
+        "04 CLIENTES": 150,
+        "16 - INDICAÇÃO": 80,
+        "15 - ORÇAMENTO": 66,
+        "17 - ABORDAGEM": 50,
+        "01 - REDES SOCIAS": 32,
+        "77 - AMIGO (IND)": 22,
+        "38 - DIVULGADOR": 11,
+        "21 - TELEMARKETING": 6
+      }
+    },
+    "RIO_PEQUENO": {
+      "total_registros": 411,
+      "canais_unicos": 9,
+      "top_canais": {
+        "04 CLIENTES": 161,
+        "138 - SAÚDE DOS OLHOS": 90,
+        "16 - INDICAÇÃO": 71,
+        "17 - ABORDAGEM": 37,
+        "15 - ORÇAMENTO": 27,
+        "01 - REDES SOCIAS": 10,
+        "55 - CARTÃO DE TODOS": 5,
+        "21 - TELEMARKETING": 3,
+        "04 CLIENTES ": 1
+      }
+    },
+    "SAO_MATEUS": {
+      "total_registros": 171,
+      "canais_unicos": 8,
+      "top_canais": {
+        "04 CLIENTES": 60,
+        "138 - SAÚDE DOS OLHOS": 39,
+        "17 - ABORDAGEM": 37,
+        "15 - ORÇAMENTO": 14,
+        "16 - INDICAÇÃO": 13,
+        "21 - TELEMARKETING": 5,
+        "98 - WHATSAPP": 2,
+        "GOOGLE": 1
+      }
+    },
+    "SUZANO2": {
+      "total_registros": 238,
+      "canais_unicos": 9,
+      "top_canais": {
+        "15 - ORÇAMENTO": 81,
+        "17 - ABORDAGEM": 56,
+        "04 CLIENTES": 32,
+        "77 - AMIGO (IND)": 27,
+        "38 - DIVULGADOR": 23,
+        "16 - INDICAÇÃO": 12,
+        "98 - WHATSAPP": 3,
+        "21 - TELEMARKETING": 2,
+        "  ": 1
+      }
+    },
+    "SUZANO": {
+      "total_registros": 3062,
+      "canais_unicos": 10,
+      "top_canais": {
+        "04 CLIENTES": 1492,
+        "15 - ORÇAMENTO": 1097,
+        "16 - INDICAÇÃO": 322,
+        "138 - SAÚDE DOS OLHOS": 106,
+        "17 - ABORDAGEM": 11,
+        "01 - REDES SOCIAS": 9,
+        "98 - WHATSAPP": 8,
+        "38 - DIVULGADOR": 8,
+        "55 - CARTÃO DE TODOS": 3,
+        "77 - AMIGO (IND)": 3
+      }
+    }
+  },
+  "total_canais_unicos": 14
+}

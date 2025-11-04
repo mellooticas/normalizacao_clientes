@@ -1,0 +1,567 @@
+{
+  "data_processamento": "2025-10-30 15:15:52",
+  "canais_mapeados": 66,
+  "canais_novos": 5,
+  "mapeamento_limpo": {
+    "SAÚDE DOS OLHOS": {
+      "canal_uuid": "a14a2eac-53ec-40d5-a1b6-c218006503f6",
+      "canal_codigo": 138,
+      "canal_nome": "SAÚDE DOS OLHOS",
+      "canal_categoria": "MEDICO",
+      "match_type": "EXATO",
+      "count": 2076
+    },
+    "ORÇAMENTO": {
+      "canal_uuid": "b7c80865-bd26-4253-849f-1932f3feb607",
+      "canal_codigo": 15,
+      "canal_nome": "ORÇAMENTO",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1756
+    },
+    "DIVULGADOR": {
+      "canal_uuid": "120378ae-6cb8-4763-84ee-16c9984c67c1",
+      "canal_codigo": 38,
+      "canal_nome": "DIVULGADOR",
+      "canal_categoria": "DIVULGADOR",
+      "match_type": "EXATO",
+      "count": 1049
+    },
+    "ABORDAGEM": {
+      "canal_uuid": "0f34df74-93d2-4817-ac1d-d1a2b6f77c78",
+      "canal_codigo": 17,
+      "canal_nome": "ABORDAGEM",
+      "canal_categoria": "ABORDAGEM",
+      "match_type": "EXATO",
+      "count": 913
+    },
+    "INDICAÇÃO": {
+      "canal_uuid": "6a71ed7c-0a9a-4c6b-87a1-878292507ab3",
+      "canal_codigo": 16,
+      "canal_nome": "INDICAÇÃO",
+      "canal_categoria": "INDICACAO",
+      "match_type": "EXATO",
+      "count": 731
+    },
+    "1ª COMPRA": {
+      "canal_uuid": "f6a931ec-21db-4f11-9f9a-774cf43a01e9",
+      "canal_codigo": 63,
+      "canal_nome": "1ª COMPRA",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 548
+    },
+    "CLINICA": {
+      "canal_uuid": "5d26b48f-0d65-4c64-8310-138d4c4ce5e6",
+      "canal_codigo": 24,
+      "canal_nome": "CLINICA",
+      "canal_categoria": "MEDICO",
+      "match_type": "EXATO",
+      "count": 379
+    },
+    "JÁ É CLIENTE": {
+      "canal_uuid": "d8f4935d-6226-484b-a061-816efd307add",
+      "canal_codigo": 4,
+      "canal_nome": "JÁ É CLIENTE",
+      "canal_categoria": "INDICACAO",
+      "match_type": "EXATO",
+      "count": 314
+    },
+    "SUS": {
+      "canal_uuid": "64922d96-e0b9-4a26-944c-5ae17417a995",
+      "canal_codigo": 79,
+      "canal_nome": "SUS",
+      "canal_categoria": "INSTITUCIONAL",
+      "match_type": "EXATO",
+      "count": 308
+    },
+    "PASSAGEM": {
+      "canal_uuid": "68e0f96d-f0a8-4279-86fd-28f33326ba47",
+      "canal_codigo": 11,
+      "canal_nome": "PASSAGEM",
+      "canal_categoria": "ABORDAGEM",
+      "match_type": "EXATO",
+      "count": 256
+    },
+    "RX DE FORA": {
+      "canal_uuid": "f74db1ab-c63c-4b7a-bc5b-7422875aab35",
+      "canal_codigo": 48,
+      "canal_nome": "RX DE FORA",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 202
+    },
+    "RADIO ATALAIA": {
+      "canal_uuid": "be1dcad0-3881-4ed1-b343-69d9a5cbd03c",
+      "canal_codigo": 73,
+      "canal_nome": "RADIO ATALAIA",
+      "canal_categoria": "RADIO",
+      "match_type": "EXATO",
+      "count": 150
+    },
+    "TELEMARKETING": {
+      "canal_uuid": "48959092-6a20-439c-8fe0-24432e70e385",
+      "canal_codigo": 21,
+      "canal_nome": "TELEMARKETING",
+      "canal_categoria": "ABORDAGEM",
+      "match_type": "EXATO",
+      "count": 137
+    },
+    "RADIO ADORE FM": {
+      "canal_uuid": "8983f4f5-fec5-4d80-8082-8dcac4c4ee23",
+      "canal_codigo": 45,
+      "canal_nome": "RADIO ADORE FM",
+      "canal_categoria": "RADIO",
+      "match_type": "EXATO",
+      "count": 57
+    },
+    "AMIGOS": {
+      "canal_uuid": "e196578e-2cab-49fc-8ecd-530be7abf70d",
+      "canal_codigo": 77,
+      "canal_nome": "AMIGOS",
+      "canal_categoria": "INDICACAO",
+      "match_type": "EXATO",
+      "count": 56
+    },
+    "WHATSAPP": {
+      "canal_uuid": "9d74fc0a-11c1-4a1e-b11d-fd0207cd2f87",
+      "canal_codigo": 98,
+      "canal_nome": "WHATSAPP",
+      "canal_categoria": "DIGITAL",
+      "match_type": "EXATO",
+      "count": 38
+    },
+    "DV VICTOR HUGO": {
+      "canal_uuid": "2c3d43eb-6792-4857-a384-8b2eb2019e84",
+      "canal_codigo": 88,
+      "canal_nome": "DV VICTOR HUGO",
+      "canal_categoria": "DIVULGADOR",
+      "match_type": "EXATO",
+      "count": 36
+    },
+    "REDE SOCIAL": {
+      "canal_uuid": "abe868a2-e462-4d01-969d-338cd1db900e",
+      "canal_codigo": 1,
+      "canal_nome": "REDE SOCIAL",
+      "canal_categoria": "DIGITAL",
+      "match_type": "EXATO",
+      "count": 25
+    },
+    "DROGARIA CAMPEA": {
+      "canal_uuid": "8e169657-e3f3-498f-9c40-309711cd293e",
+      "canal_codigo": 52,
+      "canal_nome": "DROGARIA CAMPEA",
+      "canal_categoria": "FARMACIA",
+      "match_type": "EXATO",
+      "count": 25
+    },
+    "GOOGLE/FACE/INSTA - PATROCÍNIO": {
+      "canal_uuid": "04ad35d2-cd24-415b-852c-c9203bddd833",
+      "canal_codigo": 152,
+      "canal_nome": "GOOGLE/FACE/INSTA - PATROCÍNIO",
+      "canal_categoria": "DIGITAL",
+      "match_type": "EXATO",
+      "count": 20
+    },
+    "RADIO TROPICAL": {
+      "canal_uuid": "ccd54f11-c9b8-47f5-8b1b-b2023e5f2b01",
+      "canal_codigo": 18,
+      "canal_nome": "RADIO TROPICAL",
+      "canal_categoria": "RADIO",
+      "match_type": "EXATO",
+      "count": 18
+    },
+    "RADIO FÉ 101.5": {
+      "canal_uuid": "eaa240d6-bd79-49ad-a498-2125f752f6be",
+      "canal_codigo": 89,
+      "canal_nome": "RADIO FÉ 101.5",
+      "canal_categoria": "RADIO",
+      "match_type": "EXATO",
+      "count": 16
+    },
+    "CAMPANHA VADO": {
+      "canal_uuid": "5b1f187c-6041-4ba4-9197-0351b8b40fdd",
+      "canal_codigo": 23,
+      "canal_nome": "CAMPANHA VADO",
+      "canal_categoria": "MARKETING",
+      "match_type": "EXATO",
+      "count": 16
+    },
+    "CARTÃO INDICAÇÃO": {
+      "canal_uuid": "966b912d-2330-43a4-b5ed-1dbf9ace452f",
+      "canal_codigo": 58,
+      "canal_nome": "CARTÃO INDICAÇÃO",
+      "canal_categoria": "INDICACAO",
+      "match_type": "EXATO",
+      "count": 14
+    },
+    "DV JOÃO PAULO": {
+      "canal_uuid": "5495f595-2d64-4e26-b8b7-69d22be870c5",
+      "canal_codigo": 67,
+      "canal_nome": "DV JOÃO PAULO",
+      "canal_categoria": "DIVULGADOR",
+      "match_type": "EXATO",
+      "count": 12
+    },
+    "VITRINE": {
+      "canal_uuid": "bbdeefdb-eefb-474c-86db-98576299ca97",
+      "canal_codigo": 13,
+      "canal_nome": "VITRINE",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 9
+    },
+    "CESTA BÁSICA": {
+      "canal_uuid": "e3cbad79-42dc-4968-8ad0-a7d6b0219c00",
+      "canal_codigo": 80,
+      "canal_nome": "CESTA BÁSICA",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 7
+    },
+    "CAMPANHA COMPRE 1 LEVE 3": {
+      "canal_uuid": "501e0018-6756-49ff-a461-00da3266e180",
+      "canal_codigo": 164,
+      "canal_nome": "CAMPANHA COMPRE 1 LEVE 3",
+      "canal_categoria": "MARKETING",
+      "match_type": "EXATO",
+      "count": 7
+    },
+    "ARKIMEDES CENTRO MÉDICO": {
+      "canal_uuid": "7a63b302-1ad9-4008-9041-536455668867",
+      "canal_codigo": 151,
+      "canal_nome": "ARKIMEDES CENTRO MÉDICO",
+      "canal_categoria": "MEDICO",
+      "match_type": "EXATO",
+      "count": 6
+    },
+    "VISIOTESTE": {
+      "canal_uuid": "708b0b04-42e7-41e6-a924-8407d47e12bb",
+      "canal_codigo": 65,
+      "canal_nome": "VISIOTESTE",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 6
+    },
+    "RADIO ÔMEGA": {
+      "canal_uuid": "ddb9b0a3-1171-46e6-a96c-b44bd4028a2b",
+      "canal_codigo": 149,
+      "canal_nome": "RADIO ÔMEGA",
+      "canal_categoria": "RADIO",
+      "match_type": "EXATO",
+      "count": 3
+    },
+    "ASSEMBLEIA DE DEUS": {
+      "canal_uuid": "70349148-fbf1-4ed2-9d61-44a398bb0bb1",
+      "canal_codigo": 60,
+      "canal_nome": "ASSEMBLEIA DE DEUS",
+      "canal_categoria": "RELIGIOSO",
+      "match_type": "EXATO",
+      "count": 3
+    },
+    "BOLIVIANOS": {
+      "canal_uuid": "0b0f23d6-1546-48bd-9d75-22ae3997b28d",
+      "canal_codigo": 111,
+      "canal_nome": "BOLIVIANOS",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 3
+    },
+    "CARTÃO COMPLETO": {
+      "canal_uuid": "036ef220-07da-4e79-af43-a54573e8eb38",
+      "canal_codigo": 87,
+      "canal_nome": "CARTÃO COMPLETO",
+      "canal_categoria": "MARKETING",
+      "match_type": "EXATO",
+      "count": 3
+    },
+    "DV SUELEN RODRIGUES": {
+      "canal_uuid": "a7bb9956-54f1-4f0d-84c3-ee8bee798eda",
+      "canal_codigo": 70,
+      "canal_nome": "DV SUELEN RODRIGUES",
+      "canal_categoria": "DIVULGADOR",
+      "match_type": "EXATO",
+      "count": 3
+    },
+    "DV JEAN LEANDRO": {
+      "canal_uuid": "9f1dc73c-eef3-4223-99d2-e264dfded512",
+      "canal_codigo": 130,
+      "canal_nome": "DV JEAN LEANDRO",
+      "canal_categoria": "DIVULGADOR",
+      "match_type": "EXATO",
+      "count": 2
+    },
+    "DV JACIANE DINIZ": {
+      "canal_uuid": "a0fb4bf4-6e5b-4c15-9c95-789b183bf0a0",
+      "canal_codigo": 101,
+      "canal_nome": "DV JACIANE DINIZ",
+      "canal_categoria": "DIVULGADOR",
+      "match_type": "EXATO",
+      "count": 2
+    },
+    "SITE": {
+      "canal_uuid": "06ab4dc9-11ab-416e-91a1-e51b3c02d16d",
+      "canal_codigo": 2,
+      "canal_nome": "SITE",
+      "canal_categoria": "DIGITAL",
+      "match_type": "EXATO",
+      "count": 2
+    },
+    "PLACA DE LOJA": {
+      "canal_uuid": "25e79af4-17e9-4235-8e6d-90a6bfd75540",
+      "canal_codigo": 14,
+      "canal_nome": "PLACA DE LOJA",
+      "canal_categoria": "MARKETING",
+      "match_type": "EXATO",
+      "count": 2
+    },
+    "MAGAZINE LUIZA": {
+      "canal_uuid": "15d63509-98fb-4c3e-ac73-d544f89fb505",
+      "canal_codigo": 10,
+      "canal_nome": "MAGAZINE LUIZA",
+      "canal_categoria": "PARCERIA",
+      "match_type": "EXATO",
+      "count": 2
+    },
+    "PANFLETOS": {
+      "canal_uuid": "f7856afe-c69f-402d-8e81-a8b890ca1b73",
+      "canal_codigo": 5,
+      "canal_nome": "PANFLETOS",
+      "canal_categoria": "MARKETING",
+      "match_type": "EXATO",
+      "count": 2
+    },
+    "AMEPLAN": {
+      "canal_uuid": "a7ad8056-8c5e-4d4a-a8d2-1df24bd441d1",
+      "canal_codigo": 42,
+      "canal_nome": "AMEPLAN",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 2
+    },
+    "TERMINAL SANTANA": {
+      "canal_uuid": "709242cb-4d7d-45db-be68-e6f23c6ffc77",
+      "canal_codigo": 8,
+      "canal_nome": "TERMINAL SANTANA",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "SIND SINETROSV": {
+      "canal_uuid": "658d82fd-4819-4c32-a02e-3fe3a5d16654",
+      "canal_codigo": 29,
+      "canal_nome": "SIND SINETROSV",
+      "canal_categoria": "INSTITUCIONAL",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "DV NIKE": {
+      "canal_uuid": "cfdd63ec-e949-4c8c-b24b-7b5759296435",
+      "canal_codigo": 131,
+      "canal_nome": "DV NIKE",
+      "canal_categoria": "DIVULGADOR",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "CONVENIO FAN": {
+      "canal_uuid": "9f73eeff-22ed-4283-865c-a3c2833d3795",
+      "canal_codigo": 64,
+      "canal_nome": "CONVENIO FAN",
+      "canal_categoria": "CONVENIO",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "DR RAFAEL PIVATTO": {
+      "canal_uuid": "dff22673-5a5c-4444-ba71-a4b9f7c21c30",
+      "canal_codigo": 78,
+      "canal_nome": "DR RAFAEL PIVATTO",
+      "canal_categoria": "MEDICO",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "CLINICA ALPHA VISION": {
+      "canal_uuid": "153b0222-2948-432d-b26b-9b633d1428b7",
+      "canal_codigo": 66,
+      "canal_nome": "CLINICA ALPHA VISION",
+      "canal_categoria": "MEDICO",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "DV DOUGLAS JESUS DA SILVA": {
+      "canal_uuid": "4c9995a2-c585-4956-8150-8d1aed4d17ab",
+      "canal_codigo": 169,
+      "canal_nome": "DV DOUGLAS JESUS DA SILVA",
+      "canal_categoria": "DIVULGADOR",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "DROGARIA SUPERMED": {
+      "canal_uuid": "5ac12c06-6f1b-4063-8253-103ab54e7160",
+      "canal_codigo": 27,
+      "canal_nome": "DROGARIA SUPERMED",
+      "canal_categoria": "FARMACIA",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "VALE SAUDE JEQUITI": {
+      "canal_uuid": "8d0b0865-6bcf-489b-980e-5478c56b72e8",
+      "canal_codigo": 36,
+      "canal_nome": "VALE SAUDE JEQUITI",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "INSTITUTO SUEL ABUJAMRA": {
+      "canal_uuid": "439e1731-4e91-49e6-b82d-1f12faf64c31",
+      "canal_codigo": 147,
+      "canal_nome": "INSTITUTO SUEL ABUJAMRA",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "RADIO REDE UNÇÃO 96.5": {
+      "canal_uuid": "93e45709-a824-4e12-8475-09b7c12c0634",
+      "canal_codigo": 69,
+      "canal_nome": "RADIO REDE UNÇÃO 96.5",
+      "canal_categoria": "RADIO",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "OUTROS": {
+      "canal_uuid": "6e86d96a-121b-45e6-a1a4-2848e6d59f85",
+      "canal_codigo": 99,
+      "canal_nome": "OUTROS",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "IAMSPE": {
+      "canal_uuid": "e9295138-93dd-4766-b0df-1e246bfe79d5",
+      "canal_codigo": 32,
+      "canal_nome": "IAMSPE",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "FLORIPARK": {
+      "canal_uuid": "eda29104-94ef-4860-b56f-c999bc9c0c4c",
+      "canal_codigo": 115,
+      "canal_nome": "FLORIPARK",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "CARTAO DE TODOS": {
+      "canal_uuid": "518b9cc8-59de-4887-927e-0bcd4f30c1a1",
+      "canal_codigo": 55,
+      "canal_nome": "CARTAO DE TODOS",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "ABMED": {
+      "canal_uuid": "437e3806-dfcf-4891-b003-5d2eff82c3d2",
+      "canal_codigo": 34,
+      "canal_nome": "ABMED",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "DR AMANDA A VV DE CASTRO": {
+      "canal_uuid": "7ab9a463-1f01-4b34-86c2-2d2b1639f5a1",
+      "canal_codigo": 142,
+      "canal_nome": "DR AMANDA A VV DE CASTRO",
+      "canal_categoria": "MEDICO",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "ADEASP": {
+      "canal_uuid": "4ff53bf6-7f5c-4e5d-9880-2fb5603ba169",
+      "canal_codigo": 81,
+      "canal_nome": "ADEASP",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "DV GABRIELA SILVA": {
+      "canal_uuid": "b8f6a97c-b862-4ee9-b774-e978cc8ea0be",
+      "canal_codigo": 71,
+      "canal_nome": "DV GABRIELA SILVA",
+      "canal_categoria": "DIVULGADOR",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "GUIMA": {
+      "canal_uuid": "771809e6-0ed5-4981-ac23-4b116fe58f9f",
+      "canal_codigo": 118,
+      "canal_nome": "GUIMA",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "LUIS FIO FOLHETOS": {
+      "canal_uuid": "9541dc6b-79e8-4952-83ef-a4817781cff7",
+      "canal_codigo": 107,
+      "canal_nome": "LUIS FIO FOLHETOS",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "RADIO TERRA": {
+      "canal_uuid": "b1da2af4-4aad-4a7e-bb6c-583ff08b156a",
+      "canal_codigo": 83,
+      "canal_nome": "RADIO TERRA",
+      "canal_categoria": "RADIO",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "BIO SAÚDE": {
+      "canal_uuid": "61bbfd37-5bf9-41ac-86ff-59acd1a6357c",
+      "canal_codigo": 86,
+      "canal_nome": "BIO SAÚDE",
+      "canal_categoria": "MEDICO",
+      "match_type": "EXATO",
+      "count": 1
+    },
+    "RD ESP": {
+      "canal_uuid": "5bb60fc5-d779-436a-92ef-e09bc365cc4c",
+      "canal_codigo": 116,
+      "canal_nome": "RD ESP",
+      "canal_categoria": "OUTROS",
+      "match_type": "EXATO",
+      "count": 1
+    }
+  },
+  "canais_novos_detalhes": [
+    {
+      "nome": "CAMPANHA CBA",
+      "count": 7,
+      "melhor_similar": "CAMPANHA VADO",
+      "similaridade": 0.8
+    },
+    {
+      "nome": "WHATSAPP ROBÔ",
+      "count": 5,
+      "melhor_similar": "WHATSAPP",
+      "similaridade": 0.7619047619047619
+    },
+    {
+      "nome": "CAMPANHA ANIVERSARIANTES",
+      "count": 2,
+      "melhor_similar": "CAMPANHA NINJAS",
+      "similaridade": 0.6153846153846154
+    },
+    {
+      "nome": "PROSPECÇÃO MABIO",
+      "count": 1,
+      "melhor_similar": "DROGARIA SÃO PAULO",
+      "similaridade": 0.47058823529411764
+    },
+    {
+      "nome": "CAMPANHA AILTON",
+      "count": 1,
+      "melhor_similar": "CAMPANHA LYOR",
+      "similaridade": 0.7857142857142857
+    }
+  ]
+}

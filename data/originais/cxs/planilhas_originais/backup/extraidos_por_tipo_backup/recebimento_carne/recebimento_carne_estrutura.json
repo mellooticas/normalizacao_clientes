@@ -1,0 +1,116 @@
+{
+  "tipo_tabela": "RECEBIMENTO_CARNE",
+  "estrutura": {
+    "celula_base": "E34",
+    "colunas": [
+      "OS",
+      "Cliente",
+      "Forma de Pgto",
+      "Valor Parcela",
+      "Nº Parcela"
+    ],
+    "tipo": "recebimento",
+    "descricao": "Recebimentos de parcelas de carnê"
+  },
+  "total_registros": 3295,
+  "lojas_com_dados": [
+    "maua",
+    "suzano",
+    "perus",
+    "sao_mateus",
+    "rio_pequeno",
+    "suzano2"
+  ],
+  "colunas_encontradas": [
+    "os",
+    "cliente",
+    "forma_de_pgto",
+    "valor_parcela",
+    "nn_parcela",
+    "linha_origem",
+    "tabela_tipo",
+    "aba_origem",
+    "valores_brutos",
+    "data_movimento",
+    "loja_celula",
+    "loja_arquivo",
+    "arquivo_origem"
+  ],
+  "amostra_dados": [
+    {
+      "os": 3787,
+      "cliente": "LEUDIMAR OLIVEIRA ",
+      "forma_de_pgto": "PIX",
+      "valor_parcela": 85,
+      "nn_parcela": "PARC. 4/4",
+      "linha_origem": 35,
+      "tabela_tipo": "RECEBIMENTO_CARNE",
+      "aba_origem": "02",
+      "valores_brutos": "[3787, 'LEUDIMAR OLIVEIRA ', 'PIX', 85, 'PARC. 4/4']",
+      "data_movimento": "2024-04-02 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 3969,
+      "cliente": "ROSELI VIEIRA",
+      "forma_de_pgto": "PIX",
+      "valor_parcela": 70,
+      "nn_parcela": "PARC. 3/5",
+      "linha_origem": 36,
+      "tabela_tipo": "RECEBIMENTO_CARNE",
+      "aba_origem": "02",
+      "valores_brutos": "[3969, 'ROSELI VIEIRA', 'PIX', 70, 'PARC. 3/5']",
+      "data_movimento": "2024-04-02 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 3970,
+      "cliente": "ROSELI VIEIRA",
+      "forma_de_pgto": "PIX",
+      "valor_parcela": 70,
+      "nn_parcela": "PARC. 3/5",
+      "linha_origem": 37,
+      "tabela_tipo": "RECEBIMENTO_CARNE",
+      "aba_origem": "02",
+      "valores_brutos": "[3970, 'ROSELI VIEIRA', 'PIX', 70, 'PARC. 3/5']",
+      "data_movimento": "2024-04-02 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 2105210,
+      "cliente": "EDMAR COQUEIRO",
+      "forma_de_pgto": "DN",
+      "valor_parcela": 136,
+      "nn_parcela": "PARC. 4/4",
+      "linha_origem": 38,
+      "tabela_tipo": "RECEBIMENTO_CARNE",
+      "aba_origem": "02",
+      "valores_brutos": "[2105210, 'EDMAR COQUEIRO', 'DN', 136, 'PARC. 4/4']",
+      "data_movimento": "2024-04-02 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 3106,
+      "cliente": "LUZILENE DA SILVA",
+      "forma_de_pgto": "PIX",
+      "valor_parcela": 150,
+      "nn_parcela": "PARC. 7/10",
+      "linha_origem": 35,
+      "tabela_tipo": "RECEBIMENTO_CARNE",
+      "aba_origem": "03",
+      "valores_brutos": "[3106, 'LUZILENE DA SILVA', 'PIX', 150, 'PARC. 7/10']",
+      "data_movimento": "2024-04-03 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    }
+  ]
+}

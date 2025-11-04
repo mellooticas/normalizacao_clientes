@@ -1,0 +1,21 @@
+{
+  "arquivos_processados": 0,
+  "total_vendas": 10455,
+  "vendas_com_uuid": 0,
+  "vendas_sem_uuid": 0,
+  "consultores_mapeados": {},
+  "erros": [
+    "Erro ao processar MAUA_normalizado.csv: 'consultor'",
+    "Erro ao processar MAUA_normalizado_uuid.csv: 'consultor'",
+    "Erro ao processar PERUS_normalizado.csv: 'consultor'",
+    "Erro ao processar PERUS_normalizado_uuid.csv: 'consultor'",
+    "Erro ao processar RIO_PEQUENO_normalizado.csv: 'consultor'",
+    "Erro ao processar RIO_PEQUENO_normalizado_uuid.csv: 'consultor'",
+    "Erro ao processar SAO_MATEUS_normalizado.csv: 'consultor'",
+    "Erro ao processar SAO_MATEUS_normalizado_uuid.csv: 'consultor'",
+    "Erro ao processar SUZANO2_normalizado.csv: 'consultor'",
+    "Erro ao processar SUZANO2_normalizado_uuid.csv: 'consultor'",
+    "Erro ao processar SUZANO_normalizado.csv: 'consultor'",
+    "Erro ao processar SUZANO_normalizado_uuid.csv: 'consultor'"
+  ]
+}

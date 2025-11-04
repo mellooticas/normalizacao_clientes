@@ -1,0 +1,218 @@
+{
+  "total_registros": 9906,
+  "total_formas_unicas": 23,
+  "formas_por_frequencia": {
+    "CTC": 2156,
+    "CTD": 1626,
+    "PIX": 1580,
+    "DN": 1419,
+    "PCTC": 724,
+    "SS": 636,
+    "GARANTIA": 594,
+    "SEM_INFORMACAO": 555,
+    "Forma de Pgto": 481,
+    "dn": 26,
+    "ctd": 25,
+    "pctc": 24,
+    "ss": 21,
+    "pix": 19,
+    "ctc": 6,
+    "Pix": 4,
+    "Dn": 3,
+    "CARNE": 2,
+    "Garantia": 1,
+    "PERMUTA": 1,
+    "CTD/PCTC": 1,
+    "Coluna3": 1,
+    "*": 1
+  },
+  "formas_completas": [
+    "*",
+    "CARNE",
+    "CTC",
+    "CTD",
+    "CTD/PCTC",
+    "Coluna3",
+    "DN",
+    "Dn",
+    "Forma de Pgto",
+    "GARANTIA",
+    "Garantia",
+    "PCTC",
+    "PERMUTA",
+    "PIX",
+    "Pix",
+    "SEM_INFORMACAO",
+    "SS",
+    "ctc",
+    "ctd",
+    "dn",
+    "pctc",
+    "pix",
+    "ss"
+  ],
+  "analise_por_loja": {
+    "maua": {
+      "total_vendas": 985,
+      "formas_unicas": 9,
+      "formas_lista": [
+        "CTC",
+        "CTD",
+        "DN",
+        "Forma de Pgto",
+        "GARANTIA",
+        "PCTC",
+        "PIX",
+        "SEM_INFORMACAO",
+        "SS"
+      ],
+      "top_5_formas": {
+        "CTC": 229,
+        "CTD": 189,
+        "PIX": 177,
+        "DN": 157,
+        "GARANTIA": 87
+      }
+    },
+    "perus": {
+      "total_vendas": 923,
+      "formas_unicas": 18,
+      "formas_lista": [
+        "CTC",
+        "CTD",
+        "DN",
+        "Dn",
+        "Forma de Pgto",
+        "GARANTIA",
+        "Garantia",
+        "PCTC",
+        "PIX",
+        "Pix",
+        "SEM_INFORMACAO",
+        "SS",
+        "ctc",
+        "ctd",
+        "dn",
+        "pctc",
+        "pix",
+        "ss"
+      ],
+      "top_5_formas": {
+        "DN": 142,
+        "PIX": 124,
+        "CTD": 120,
+        "PCTC": 113,
+        "CTC": 98
+      }
+    },
+    "rio_pequeno": {
+      "total_vendas": 1310,
+      "formas_unicas": 15,
+      "formas_lista": [
+        "CTC",
+        "CTD",
+        "CTD/PCTC",
+        "DN",
+        "Forma de Pgto",
+        "GARANTIA",
+        "PCTC",
+        "PERMUTA",
+        "PIX",
+        "Pix",
+        "SEM_INFORMACAO",
+        "SS",
+        "dn",
+        "pix",
+        "ss"
+      ],
+      "top_5_formas": {
+        "CTD": 273,
+        "PCTC": 232,
+        "CTC": 218,
+        "PIX": 179,
+        "DN": 178
+      }
+    },
+    "sao_mateus": {
+      "total_vendas": 509,
+      "formas_unicas": 12,
+      "formas_lista": [
+        "CTC",
+        "CTD",
+        "DN",
+        "Forma de Pgto",
+        "GARANTIA",
+        "PCTC",
+        "PIX",
+        "SEM_INFORMACAO",
+        "SS",
+        "pctc",
+        "pix",
+        "ss"
+      ],
+      "top_5_formas": {
+        "PCTC": 87,
+        "DN": 85,
+        "CTD": 85,
+        "SS": 82,
+        "PIX": 67
+      }
+    },
+    "suzano": {
+      "total_vendas": 5777,
+      "formas_unicas": 13,
+      "formas_lista": [
+        "*",
+        "CTC",
+        "CTD",
+        "Coluna3",
+        "DN",
+        "Forma de Pgto",
+        "GARANTIA",
+        "PCTC",
+        "PIX",
+        "Pix",
+        "SEM_INFORMACAO",
+        "SS",
+        "ctd"
+      ],
+      "top_5_formas": {
+        "CTC": 1485,
+        "PIX": 975,
+        "CTD": 877,
+        "DN": 783,
+        "SEM_INFORMACAO": 399
+      }
+    },
+    "suzano2": {
+      "total_vendas": 402,
+      "formas_unicas": 17,
+      "formas_lista": [
+        "CARNE",
+        "CTC",
+        "CTD",
+        "DN",
+        "Dn",
+        "Forma de Pgto",
+        "GARANTIA",
+        "PCTC",
+        "PIX",
+        "Pix",
+        "SEM_INFORMACAO",
+        "SS",
+        "ctd",
+        "dn",
+        "pctc",
+        "pix",
+        "ss"
+      ],
+      "top_5_formas": {
+        "CTD": 82,
+        "CTC": 80,
+        "DN": 74,
+        "PIX": 58,
+        "PCTC": 29
+      }
+    }
+  }
+}

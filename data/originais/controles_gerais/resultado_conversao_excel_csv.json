@@ -1,0 +1,2639 @@
+{
+  "data_conversao": "2025-10-30 18:33:19",
+  "pastas_processadas": {
+    "conf_dav": {
+      "descricao": "Configurações DAV",
+      "excel_encontrados": 82,
+      "csvs_criados": 88,
+      "arquivos_com_erro": 0,
+      "detalhes_conversao": [
+        {
+          "arquivo_excel": "ABR21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR21.csv",
+          "registros": 440,
+          "colunas": 11,
+          "tamanho_kb": 33.62
+        },
+        {
+          "arquivo_excel": "ABR22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR22.csv",
+          "registros": 954,
+          "colunas": 11,
+          "tamanho_kb": 69.75
+        },
+        {
+          "arquivo_excel": "ABR23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR23.csv",
+          "registros": 825,
+          "colunas": 11,
+          "tamanho_kb": 54.1
+        },
+        {
+          "arquivo_excel": "AGO21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO21.csv",
+          "registros": 859,
+          "colunas": 11,
+          "tamanho_kb": 64.08
+        },
+        {
+          "arquivo_excel": "AGO22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO22.csv",
+          "registros": 914,
+          "colunas": 11,
+          "tamanho_kb": 66.08
+        },
+        {
+          "arquivo_excel": "AGO23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO23.csv",
+          "registros": 733,
+          "colunas": 11,
+          "tamanho_kb": 48.55
+        },
+        {
+          "arquivo_excel": "DEZ20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ20.csv",
+          "registros": 413,
+          "colunas": 11,
+          "tamanho_kb": 31.48
+        },
+        {
+          "arquivo_excel": "DEZ21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ21.csv",
+          "registros": 786,
+          "colunas": 11,
+          "tamanho_kb": 56.4
+        },
+        {
+          "arquivo_excel": "DEZ22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ22.csv",
+          "registros": 570,
+          "colunas": 11,
+          "tamanho_kb": 41.12
+        },
+        {
+          "arquivo_excel": "DEZ_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_23_Planilha1.csv",
+          "registros": 589,
+          "colunas": 11,
+          "tamanho_kb": 36.6
+        },
+        {
+          "arquivo_excel": "DEZ_23.XLSX",
+          "aba": "Planilha2",
+          "arquivo_csv": "DEZ_23_Planilha2.csv",
+          "registros": 0,
+          "colunas": 0,
+          "tamanho_kb": 0.0
+        },
+        {
+          "arquivo_excel": "FEV21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV21.csv",
+          "registros": 413,
+          "colunas": 11,
+          "tamanho_kb": 31.29
+        },
+        {
+          "arquivo_excel": "FEV22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV22.csv",
+          "registros": 830,
+          "colunas": 11,
+          "tamanho_kb": 60.53
+        },
+        {
+          "arquivo_excel": "FEV23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV23.csv",
+          "registros": 566,
+          "colunas": 11,
+          "tamanho_kb": 40.67
+        },
+        {
+          "arquivo_excel": "FEV_24.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_24.csv",
+          "registros": 93,
+          "colunas": 11,
+          "tamanho_kb": 5.39
+        },
+        {
+          "arquivo_excel": "JAN21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN21.csv",
+          "registros": 450,
+          "colunas": 11,
+          "tamanho_kb": 34.09
+        },
+        {
+          "arquivo_excel": "JAN22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN22.csv",
+          "registros": 827,
+          "colunas": 11,
+          "tamanho_kb": 60.39
+        },
+        {
+          "arquivo_excel": "JAN23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN23_Planilha1.csv",
+          "registros": 2629,
+          "colunas": 11,
+          "tamanho_kb": 182.19
+        },
+        {
+          "arquivo_excel": "JAN23.XLSX",
+          "aba": "base",
+          "arquivo_csv": "JAN23_base.csv",
+          "registros": 989,
+          "colunas": 2,
+          "tamanho_kb": 21.52
+        },
+        {
+          "arquivo_excel": "JAN24.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN24_Planilha1.csv",
+          "registros": 2629,
+          "colunas": 11,
+          "tamanho_kb": 92.2
+        },
+        {
+          "arquivo_excel": "JAN24.XLSX",
+          "aba": "base",
+          "arquivo_csv": "JAN24_base.csv",
+          "registros": 276,
+          "colunas": 2,
+          "tamanho_kb": 4.82
+        },
+        {
+          "arquivo_excel": "JUL21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL21.csv",
+          "registros": 1052,
+          "colunas": 11,
+          "tamanho_kb": 77.64
+        },
+        {
+          "arquivo_excel": "JUL22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL22.csv",
+          "registros": 1035,
+          "colunas": 11,
+          "tamanho_kb": 75.36
+        },
+        {
+          "arquivo_excel": "JUL23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL23.csv",
+          "registros": 852,
+          "colunas": 11,
+          "tamanho_kb": 56.33
+        },
+        {
+          "arquivo_excel": "JUN 23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN 23.csv",
+          "registros": 718,
+          "colunas": 11,
+          "tamanho_kb": 48.24
+        },
+        {
+          "arquivo_excel": "JUN21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN21.csv",
+          "registros": 865,
+          "colunas": 11,
+          "tamanho_kb": 65.48
+        },
+        {
+          "arquivo_excel": "JUN22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN22.csv",
+          "registros": 907,
+          "colunas": 11,
+          "tamanho_kb": 66.46
+        },
+        {
+          "arquivo_excel": "MAI21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI21.csv",
+          "registros": 394,
+          "colunas": 11,
+          "tamanho_kb": 29.81
+        },
+        {
+          "arquivo_excel": "MAI22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI22.csv",
+          "registros": 892,
+          "colunas": 11,
+          "tamanho_kb": 65.17
+        },
+        {
+          "arquivo_excel": "MAI23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI23.csv",
+          "registros": 749,
+          "colunas": 11,
+          "tamanho_kb": 50.58
+        },
+        {
+          "arquivo_excel": "MAR21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR21.csv",
+          "registros": 517,
+          "colunas": 11,
+          "tamanho_kb": 39.42
+        },
+        {
+          "arquivo_excel": "MAR22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR22.csv",
+          "registros": 1029,
+          "colunas": 11,
+          "tamanho_kb": 423.31
+        },
+        {
+          "arquivo_excel": "MAR23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR23.csv",
+          "registros": 860,
+          "colunas": 11,
+          "tamanho_kb": 58.24
+        },
+        {
+          "arquivo_excel": "NOV20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV20.csv",
+          "registros": 381,
+          "colunas": 11,
+          "tamanho_kb": 28.74
+        },
+        {
+          "arquivo_excel": "NOV21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV21.csv",
+          "registros": 903,
+          "colunas": 11,
+          "tamanho_kb": 63.78
+        },
+        {
+          "arquivo_excel": "NOV22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV22.csv",
+          "registros": 823,
+          "colunas": 11,
+          "tamanho_kb": 60.21
+        },
+        {
+          "arquivo_excel": "NOV23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV23.csv",
+          "registros": 760,
+          "colunas": 11,
+          "tamanho_kb": 145.7
+        },
+        {
+          "arquivo_excel": "OUT20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT20.csv",
+          "registros": 381,
+          "colunas": 11,
+          "tamanho_kb": 28.87
+        },
+        {
+          "arquivo_excel": "OUT21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT21.csv",
+          "registros": 677,
+          "colunas": 11,
+          "tamanho_kb": 50.3
+        },
+        {
+          "arquivo_excel": "OUT22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT22.csv",
+          "registros": 757,
+          "colunas": 11,
+          "tamanho_kb": 55.3
+        },
+        {
+          "arquivo_excel": "OUT_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_23.csv",
+          "registros": 595,
+          "colunas": 11,
+          "tamanho_kb": 42.89
+        },
+        {
+          "arquivo_excel": "SET21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET21.csv",
+          "registros": 650,
+          "colunas": 11,
+          "tamanho_kb": 48.03
+        },
+        {
+          "arquivo_excel": "SET22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET22.csv",
+          "registros": 808,
+          "colunas": 11,
+          "tamanho_kb": 59.16
+        },
+        {
+          "arquivo_excel": "SET23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET23.csv",
+          "registros": 661,
+          "colunas": 11,
+          "tamanho_kb": 42.68
+        },
+        {
+          "arquivo_excel": "ABR21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR21.csv",
+          "registros": 440,
+          "colunas": 11,
+          "tamanho_kb": 33.62
+        },
+        {
+          "arquivo_excel": "ABR22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR22.csv",
+          "registros": 954,
+          "colunas": 11,
+          "tamanho_kb": 69.75
+        },
+        {
+          "arquivo_excel": "ABR23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR23.csv",
+          "registros": 825,
+          "colunas": 11,
+          "tamanho_kb": 54.1
+        },
+        {
+          "arquivo_excel": "AGO21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO21.csv",
+          "registros": 859,
+          "colunas": 11,
+          "tamanho_kb": 64.08
+        },
+        {
+          "arquivo_excel": "AGO22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO22.csv",
+          "registros": 914,
+          "colunas": 11,
+          "tamanho_kb": 66.08
+        },
+        {
+          "arquivo_excel": "AGO23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO23.csv",
+          "registros": 733,
+          "colunas": 11,
+          "tamanho_kb": 48.55
+        },
+        {
+          "arquivo_excel": "DEZ20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ20.csv",
+          "registros": 413,
+          "colunas": 11,
+          "tamanho_kb": 31.48
+        },
+        {
+          "arquivo_excel": "DEZ21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ21.csv",
+          "registros": 786,
+          "colunas": 11,
+          "tamanho_kb": 56.4
+        },
+        {
+          "arquivo_excel": "DEZ22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ22.csv",
+          "registros": 570,
+          "colunas": 11,
+          "tamanho_kb": 41.12
+        },
+        {
+          "arquivo_excel": "DEZ_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_23_Planilha1.csv",
+          "registros": 589,
+          "colunas": 11,
+          "tamanho_kb": 36.6
+        },
+        {
+          "arquivo_excel": "DEZ_23.XLSX",
+          "aba": "Planilha2",
+          "arquivo_csv": "DEZ_23_Planilha2.csv",
+          "registros": 0,
+          "colunas": 0,
+          "tamanho_kb": 0.0
+        },
+        {
+          "arquivo_excel": "FEV21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV21.csv",
+          "registros": 413,
+          "colunas": 11,
+          "tamanho_kb": 31.29
+        },
+        {
+          "arquivo_excel": "FEV22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV22.csv",
+          "registros": 830,
+          "colunas": 11,
+          "tamanho_kb": 60.53
+        },
+        {
+          "arquivo_excel": "FEV23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV23.csv",
+          "registros": 566,
+          "colunas": 11,
+          "tamanho_kb": 40.67
+        },
+        {
+          "arquivo_excel": "FEV_24.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_24.csv",
+          "registros": 93,
+          "colunas": 11,
+          "tamanho_kb": 5.39
+        },
+        {
+          "arquivo_excel": "JAN21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN21.csv",
+          "registros": 450,
+          "colunas": 11,
+          "tamanho_kb": 34.09
+        },
+        {
+          "arquivo_excel": "JAN22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN22.csv",
+          "registros": 827,
+          "colunas": 11,
+          "tamanho_kb": 60.39
+        },
+        {
+          "arquivo_excel": "JAN23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN23_Planilha1.csv",
+          "registros": 2629,
+          "colunas": 11,
+          "tamanho_kb": 182.19
+        },
+        {
+          "arquivo_excel": "JAN23.XLSX",
+          "aba": "base",
+          "arquivo_csv": "JAN23_base.csv",
+          "registros": 989,
+          "colunas": 2,
+          "tamanho_kb": 21.52
+        },
+        {
+          "arquivo_excel": "JAN24.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN24_Planilha1.csv",
+          "registros": 2629,
+          "colunas": 11,
+          "tamanho_kb": 92.2
+        },
+        {
+          "arquivo_excel": "JAN24.XLSX",
+          "aba": "base",
+          "arquivo_csv": "JAN24_base.csv",
+          "registros": 276,
+          "colunas": 2,
+          "tamanho_kb": 4.82
+        },
+        {
+          "arquivo_excel": "JUL21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL21.csv",
+          "registros": 1052,
+          "colunas": 11,
+          "tamanho_kb": 77.64
+        },
+        {
+          "arquivo_excel": "JUL22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL22.csv",
+          "registros": 1035,
+          "colunas": 11,
+          "tamanho_kb": 75.36
+        },
+        {
+          "arquivo_excel": "JUL23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL23.csv",
+          "registros": 852,
+          "colunas": 11,
+          "tamanho_kb": 56.33
+        },
+        {
+          "arquivo_excel": "JUN 23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN 23.csv",
+          "registros": 718,
+          "colunas": 11,
+          "tamanho_kb": 48.24
+        },
+        {
+          "arquivo_excel": "JUN21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN21.csv",
+          "registros": 865,
+          "colunas": 11,
+          "tamanho_kb": 65.48
+        },
+        {
+          "arquivo_excel": "JUN22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN22.csv",
+          "registros": 907,
+          "colunas": 11,
+          "tamanho_kb": 66.46
+        },
+        {
+          "arquivo_excel": "MAI21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI21.csv",
+          "registros": 394,
+          "colunas": 11,
+          "tamanho_kb": 29.81
+        },
+        {
+          "arquivo_excel": "MAI22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI22.csv",
+          "registros": 892,
+          "colunas": 11,
+          "tamanho_kb": 65.17
+        },
+        {
+          "arquivo_excel": "MAI23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI23.csv",
+          "registros": 749,
+          "colunas": 11,
+          "tamanho_kb": 50.58
+        },
+        {
+          "arquivo_excel": "MAR21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR21.csv",
+          "registros": 517,
+          "colunas": 11,
+          "tamanho_kb": 39.42
+        },
+        {
+          "arquivo_excel": "MAR22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR22.csv",
+          "registros": 1029,
+          "colunas": 11,
+          "tamanho_kb": 423.31
+        },
+        {
+          "arquivo_excel": "MAR23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR23.csv",
+          "registros": 860,
+          "colunas": 11,
+          "tamanho_kb": 58.24
+        },
+        {
+          "arquivo_excel": "NOV20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV20.csv",
+          "registros": 381,
+          "colunas": 11,
+          "tamanho_kb": 28.74
+        },
+        {
+          "arquivo_excel": "NOV21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV21.csv",
+          "registros": 903,
+          "colunas": 11,
+          "tamanho_kb": 63.78
+        },
+        {
+          "arquivo_excel": "NOV22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV22.csv",
+          "registros": 823,
+          "colunas": 11,
+          "tamanho_kb": 60.21
+        },
+        {
+          "arquivo_excel": "NOV23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV23.csv",
+          "registros": 760,
+          "colunas": 11,
+          "tamanho_kb": 145.7
+        },
+        {
+          "arquivo_excel": "OUT20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT20.csv",
+          "registros": 381,
+          "colunas": 11,
+          "tamanho_kb": 28.87
+        },
+        {
+          "arquivo_excel": "OUT21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT21.csv",
+          "registros": 677,
+          "colunas": 11,
+          "tamanho_kb": 50.3
+        },
+        {
+          "arquivo_excel": "OUT22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT22.csv",
+          "registros": 757,
+          "colunas": 11,
+          "tamanho_kb": 55.3
+        },
+        {
+          "arquivo_excel": "OUT_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_23.csv",
+          "registros": 595,
+          "colunas": 11,
+          "tamanho_kb": 42.89
+        },
+        {
+          "arquivo_excel": "SET21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET21.csv",
+          "registros": 650,
+          "colunas": 11,
+          "tamanho_kb": 48.03
+        },
+        {
+          "arquivo_excel": "SET22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET22.csv",
+          "registros": 808,
+          "colunas": 11,
+          "tamanho_kb": 59.16
+        },
+        {
+          "arquivo_excel": "SET23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET23.csv",
+          "registros": 661,
+          "colunas": 11,
+          "tamanho_kb": 42.68
+        }
+      ],
+      "erros": []
+    },
+    "lista_dav": {
+      "descricao": "Listas DAV",
+      "excel_encontrados": 80,
+      "csvs_criados": 80,
+      "arquivos_com_erro": 0,
+      "detalhes_conversao": [
+        {
+          "arquivo_excel": "ABR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_21.csv",
+          "registros": 152,
+          "colunas": 27,
+          "tamanho_kb": 34.83
+        },
+        {
+          "arquivo_excel": "ABR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_22.csv",
+          "registros": 329,
+          "colunas": 27,
+          "tamanho_kb": 72.18
+        },
+        {
+          "arquivo_excel": "ABR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_23.csv",
+          "registros": 387,
+          "colunas": 27,
+          "tamanho_kb": 69.8
+        },
+        {
+          "arquivo_excel": "AGO_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_21.csv",
+          "registros": 294,
+          "colunas": 27,
+          "tamanho_kb": 110.44
+        },
+        {
+          "arquivo_excel": "AGO_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_22.csv",
+          "registros": 306,
+          "colunas": 27,
+          "tamanho_kb": 66.61
+        },
+        {
+          "arquivo_excel": "AGO_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_23.csv",
+          "registros": 335,
+          "colunas": 27,
+          "tamanho_kb": 63.58
+        },
+        {
+          "arquivo_excel": "DEZ 23.xlsx",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ 23.csv",
+          "registros": 360,
+          "colunas": 27,
+          "tamanho_kb": 53.21
+        },
+        {
+          "arquivo_excel": "DEZ_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_20.csv",
+          "registros": 138,
+          "colunas": 27,
+          "tamanho_kb": 31.79
+        },
+        {
+          "arquivo_excel": "DEZ_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_21.csv",
+          "registros": 294,
+          "colunas": 27,
+          "tamanho_kb": 64.83
+        },
+        {
+          "arquivo_excel": "DEZ_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_22.csv",
+          "registros": 355,
+          "colunas": 24,
+          "tamanho_kb": 54.41
+        },
+        {
+          "arquivo_excel": "FEV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_21.csv",
+          "registros": 130,
+          "colunas": 27,
+          "tamanho_kb": 29.57
+        },
+        {
+          "arquivo_excel": "FEV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_22.csv",
+          "registros": 302,
+          "colunas": 27,
+          "tamanho_kb": 65.38
+        },
+        {
+          "arquivo_excel": "FEV_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_23.csv",
+          "registros": 472,
+          "colunas": 27,
+          "tamanho_kb": 105.36
+        },
+        {
+          "arquivo_excel": "JAN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_21.csv",
+          "registros": 152,
+          "colunas": 27,
+          "tamanho_kb": 34.66
+        },
+        {
+          "arquivo_excel": "JAN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_22.csv",
+          "registros": 292,
+          "colunas": 27,
+          "tamanho_kb": 63.24
+        },
+        {
+          "arquivo_excel": "JAN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_23.csv",
+          "registros": 478,
+          "colunas": 27,
+          "tamanho_kb": 67.47
+        },
+        {
+          "arquivo_excel": "JAN_24.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_24.csv",
+          "registros": 1490,
+          "colunas": 27,
+          "tamanho_kb": 561.63
+        },
+        {
+          "arquivo_excel": "JUL_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_21.csv",
+          "registros": 303,
+          "colunas": 27,
+          "tamanho_kb": 68.32
+        },
+        {
+          "arquivo_excel": "JUL_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_22.csv",
+          "registros": 537,
+          "colunas": 26,
+          "tamanho_kb": 97.1
+        },
+        {
+          "arquivo_excel": "JUL_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_23.csv",
+          "registros": 423,
+          "colunas": 27,
+          "tamanho_kb": 77.9
+        },
+        {
+          "arquivo_excel": "JUN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_21.csv",
+          "registros": 261,
+          "colunas": 27,
+          "tamanho_kb": 59.22
+        },
+        {
+          "arquivo_excel": "JUN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_22.csv",
+          "registros": 312,
+          "colunas": 27,
+          "tamanho_kb": 68.09
+        },
+        {
+          "arquivo_excel": "JUN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_23.csv",
+          "registros": 374,
+          "colunas": 27,
+          "tamanho_kb": 69.7
+        },
+        {
+          "arquivo_excel": "MAI_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_21.csv",
+          "registros": 129,
+          "colunas": 27,
+          "tamanho_kb": 29.2
+        },
+        {
+          "arquivo_excel": "MAI_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_22.csv",
+          "registros": 310,
+          "colunas": 27,
+          "tamanho_kb": 67.73
+        },
+        {
+          "arquivo_excel": "MAI_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_23.csv",
+          "registros": 360,
+          "colunas": 27,
+          "tamanho_kb": 65.08
+        },
+        {
+          "arquivo_excel": "MAR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_21.csv",
+          "registros": 182,
+          "colunas": 27,
+          "tamanho_kb": 41.51
+        },
+        {
+          "arquivo_excel": "MAR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_22.csv",
+          "registros": 336,
+          "colunas": 27,
+          "tamanho_kb": 73.25
+        },
+        {
+          "arquivo_excel": "MAR_23.xlsx",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_23.csv",
+          "registros": 354,
+          "colunas": 27,
+          "tamanho_kb": 68.78
+        },
+        {
+          "arquivo_excel": "NOV_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_20.csv",
+          "registros": 119,
+          "colunas": 27,
+          "tamanho_kb": 27.03
+        },
+        {
+          "arquivo_excel": "NOV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_21.csv",
+          "registros": 298,
+          "colunas": 27,
+          "tamanho_kb": 65.87
+        },
+        {
+          "arquivo_excel": "NOV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_22.csv",
+          "registros": 412,
+          "colunas": 27,
+          "tamanho_kb": 75.43
+        },
+        {
+          "arquivo_excel": "NOV_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_23.csv",
+          "registros": 417,
+          "colunas": 27,
+          "tamanho_kb": 69.61
+        },
+        {
+          "arquivo_excel": "OUT_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_20.csv",
+          "registros": 168,
+          "colunas": 27,
+          "tamanho_kb": 32.85
+        },
+        {
+          "arquivo_excel": "OUT_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_21.csv",
+          "registros": 228,
+          "colunas": 27,
+          "tamanho_kb": 51.0
+        },
+        {
+          "arquivo_excel": "OUT_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_22.csv",
+          "registros": 268,
+          "colunas": 27,
+          "tamanho_kb": 58.17
+        },
+        {
+          "arquivo_excel": "OUT_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_23.csv",
+          "registros": 296,
+          "colunas": 27,
+          "tamanho_kb": 55.68
+        },
+        {
+          "arquivo_excel": "SET_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_21.csv",
+          "registros": 226,
+          "colunas": 27,
+          "tamanho_kb": 50.48
+        },
+        {
+          "arquivo_excel": "SET_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_22.csv",
+          "registros": 286,
+          "colunas": 27,
+          "tamanho_kb": 62.93
+        },
+        {
+          "arquivo_excel": "SET_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_23.csv",
+          "registros": 318,
+          "colunas": 27,
+          "tamanho_kb": 59.49
+        },
+        {
+          "arquivo_excel": "ABR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_21.csv",
+          "registros": 152,
+          "colunas": 27,
+          "tamanho_kb": 34.83
+        },
+        {
+          "arquivo_excel": "ABR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_22.csv",
+          "registros": 329,
+          "colunas": 27,
+          "tamanho_kb": 72.18
+        },
+        {
+          "arquivo_excel": "ABR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_23.csv",
+          "registros": 387,
+          "colunas": 27,
+          "tamanho_kb": 69.8
+        },
+        {
+          "arquivo_excel": "AGO_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_21.csv",
+          "registros": 294,
+          "colunas": 27,
+          "tamanho_kb": 110.44
+        },
+        {
+          "arquivo_excel": "AGO_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_22.csv",
+          "registros": 306,
+          "colunas": 27,
+          "tamanho_kb": 66.61
+        },
+        {
+          "arquivo_excel": "AGO_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_23.csv",
+          "registros": 335,
+          "colunas": 27,
+          "tamanho_kb": 63.58
+        },
+        {
+          "arquivo_excel": "DEZ 23.xlsx",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ 23.csv",
+          "registros": 360,
+          "colunas": 27,
+          "tamanho_kb": 53.21
+        },
+        {
+          "arquivo_excel": "DEZ_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_20.csv",
+          "registros": 138,
+          "colunas": 27,
+          "tamanho_kb": 31.79
+        },
+        {
+          "arquivo_excel": "DEZ_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_21.csv",
+          "registros": 294,
+          "colunas": 27,
+          "tamanho_kb": 64.83
+        },
+        {
+          "arquivo_excel": "DEZ_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_22.csv",
+          "registros": 355,
+          "colunas": 24,
+          "tamanho_kb": 54.41
+        },
+        {
+          "arquivo_excel": "FEV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_21.csv",
+          "registros": 130,
+          "colunas": 27,
+          "tamanho_kb": 29.57
+        },
+        {
+          "arquivo_excel": "FEV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_22.csv",
+          "registros": 302,
+          "colunas": 27,
+          "tamanho_kb": 65.38
+        },
+        {
+          "arquivo_excel": "FEV_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_23.csv",
+          "registros": 472,
+          "colunas": 27,
+          "tamanho_kb": 105.36
+        },
+        {
+          "arquivo_excel": "JAN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_21.csv",
+          "registros": 152,
+          "colunas": 27,
+          "tamanho_kb": 34.66
+        },
+        {
+          "arquivo_excel": "JAN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_22.csv",
+          "registros": 292,
+          "colunas": 27,
+          "tamanho_kb": 63.24
+        },
+        {
+          "arquivo_excel": "JAN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_23.csv",
+          "registros": 478,
+          "colunas": 27,
+          "tamanho_kb": 67.47
+        },
+        {
+          "arquivo_excel": "JAN_24.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_24.csv",
+          "registros": 1490,
+          "colunas": 27,
+          "tamanho_kb": 561.63
+        },
+        {
+          "arquivo_excel": "JUL_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_21.csv",
+          "registros": 303,
+          "colunas": 27,
+          "tamanho_kb": 68.32
+        },
+        {
+          "arquivo_excel": "JUL_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_22.csv",
+          "registros": 537,
+          "colunas": 26,
+          "tamanho_kb": 97.1
+        },
+        {
+          "arquivo_excel": "JUL_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_23.csv",
+          "registros": 423,
+          "colunas": 27,
+          "tamanho_kb": 77.9
+        },
+        {
+          "arquivo_excel": "JUN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_21.csv",
+          "registros": 261,
+          "colunas": 27,
+          "tamanho_kb": 59.22
+        },
+        {
+          "arquivo_excel": "JUN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_22.csv",
+          "registros": 312,
+          "colunas": 27,
+          "tamanho_kb": 68.09
+        },
+        {
+          "arquivo_excel": "JUN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_23.csv",
+          "registros": 374,
+          "colunas": 27,
+          "tamanho_kb": 69.7
+        },
+        {
+          "arquivo_excel": "MAI_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_21.csv",
+          "registros": 129,
+          "colunas": 27,
+          "tamanho_kb": 29.2
+        },
+        {
+          "arquivo_excel": "MAI_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_22.csv",
+          "registros": 310,
+          "colunas": 27,
+          "tamanho_kb": 67.73
+        },
+        {
+          "arquivo_excel": "MAI_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_23.csv",
+          "registros": 360,
+          "colunas": 27,
+          "tamanho_kb": 65.08
+        },
+        {
+          "arquivo_excel": "MAR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_21.csv",
+          "registros": 182,
+          "colunas": 27,
+          "tamanho_kb": 41.51
+        },
+        {
+          "arquivo_excel": "MAR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_22.csv",
+          "registros": 336,
+          "colunas": 27,
+          "tamanho_kb": 73.25
+        },
+        {
+          "arquivo_excel": "MAR_23.xlsx",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_23.csv",
+          "registros": 354,
+          "colunas": 27,
+          "tamanho_kb": 68.78
+        },
+        {
+          "arquivo_excel": "NOV_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_20.csv",
+          "registros": 119,
+          "colunas": 27,
+          "tamanho_kb": 27.03
+        },
+        {
+          "arquivo_excel": "NOV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_21.csv",
+          "registros": 298,
+          "colunas": 27,
+          "tamanho_kb": 65.87
+        },
+        {
+          "arquivo_excel": "NOV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_22.csv",
+          "registros": 412,
+          "colunas": 27,
+          "tamanho_kb": 75.43
+        },
+        {
+          "arquivo_excel": "NOV_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_23.csv",
+          "registros": 417,
+          "colunas": 27,
+          "tamanho_kb": 69.61
+        },
+        {
+          "arquivo_excel": "OUT_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_20.csv",
+          "registros": 168,
+          "colunas": 27,
+          "tamanho_kb": 32.85
+        },
+        {
+          "arquivo_excel": "OUT_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_21.csv",
+          "registros": 228,
+          "colunas": 27,
+          "tamanho_kb": 51.0
+        },
+        {
+          "arquivo_excel": "OUT_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_22.csv",
+          "registros": 268,
+          "colunas": 27,
+          "tamanho_kb": 58.17
+        },
+        {
+          "arquivo_excel": "OUT_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_23.csv",
+          "registros": 296,
+          "colunas": 27,
+          "tamanho_kb": 55.68
+        },
+        {
+          "arquivo_excel": "SET_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_21.csv",
+          "registros": 226,
+          "colunas": 27,
+          "tamanho_kb": 50.48
+        },
+        {
+          "arquivo_excel": "SET_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_22.csv",
+          "registros": 286,
+          "colunas": 27,
+          "tamanho_kb": 62.93
+        },
+        {
+          "arquivo_excel": "SET_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_23.csv",
+          "registros": 318,
+          "colunas": 27,
+          "tamanho_kb": 59.49
+        }
+      ],
+      "erros": []
+    },
+    "mov_cx": {
+      "descricao": "Movimentações Caixa",
+      "excel_encontrados": 78,
+      "csvs_criados": 78,
+      "arquivos_com_erro": 0,
+      "detalhes_conversao": [
+        {
+          "arquivo_excel": "ABR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_21.csv",
+          "registros": 151,
+          "colunas": 13,
+          "tamanho_kb": 19.09
+        },
+        {
+          "arquivo_excel": "ABR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_22.csv",
+          "registros": 184,
+          "colunas": 13,
+          "tamanho_kb": 20.24
+        },
+        {
+          "arquivo_excel": "ABR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_23.csv",
+          "registros": 81,
+          "colunas": 13,
+          "tamanho_kb": 9.01
+        },
+        {
+          "arquivo_excel": "AGO_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_21.csv",
+          "registros": 198,
+          "colunas": 13,
+          "tamanho_kb": 25.32
+        },
+        {
+          "arquivo_excel": "AGO_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_22.csv",
+          "registros": 219,
+          "colunas": 13,
+          "tamanho_kb": 24.06
+        },
+        {
+          "arquivo_excel": "AGO_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_23.csv",
+          "registros": 95,
+          "colunas": 13,
+          "tamanho_kb": 10.46
+        },
+        {
+          "arquivo_excel": "DEZ_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_20.csv",
+          "registros": 163,
+          "colunas": 13,
+          "tamanho_kb": 18.98
+        },
+        {
+          "arquivo_excel": "DEZ_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_21.csv",
+          "registros": 292,
+          "colunas": 13,
+          "tamanho_kb": 31.63
+        },
+        {
+          "arquivo_excel": "DEZ_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_22.csv",
+          "registros": 193,
+          "colunas": 13,
+          "tamanho_kb": 21.2
+        },
+        {
+          "arquivo_excel": "DEZ_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_23.csv",
+          "registros": 13,
+          "colunas": 13,
+          "tamanho_kb": 5.04
+        },
+        {
+          "arquivo_excel": "FEV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_21.csv",
+          "registros": 182,
+          "colunas": 13,
+          "tamanho_kb": 21.04
+        },
+        {
+          "arquivo_excel": "FEV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_22.csv",
+          "registros": 210,
+          "colunas": 13,
+          "tamanho_kb": 23.06
+        },
+        {
+          "arquivo_excel": "FEV_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_23.csv",
+          "registros": 110,
+          "colunas": 13,
+          "tamanho_kb": 12.12
+        },
+        {
+          "arquivo_excel": "JAN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_21.csv",
+          "registros": 205,
+          "colunas": 13,
+          "tamanho_kb": 23.35
+        },
+        {
+          "arquivo_excel": "JAN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_22.csv",
+          "registros": 246,
+          "colunas": 13,
+          "tamanho_kb": 26.88
+        },
+        {
+          "arquivo_excel": "JAN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_23.csv",
+          "registros": 135,
+          "colunas": 13,
+          "tamanho_kb": 14.93
+        },
+        {
+          "arquivo_excel": "JUL_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_21.csv",
+          "registros": 227,
+          "colunas": 13,
+          "tamanho_kb": 28.87
+        },
+        {
+          "arquivo_excel": "JUL_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_22.csv",
+          "registros": 200,
+          "colunas": 13,
+          "tamanho_kb": 21.94
+        },
+        {
+          "arquivo_excel": "JUL_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_23.csv",
+          "registros": 93,
+          "colunas": 13,
+          "tamanho_kb": 35.17
+        },
+        {
+          "arquivo_excel": "JUN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_21.csv",
+          "registros": 196,
+          "colunas": 13,
+          "tamanho_kb": 24.63
+        },
+        {
+          "arquivo_excel": "JUN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_22.csv",
+          "registros": 193,
+          "colunas": 13,
+          "tamanho_kb": 21.18
+        },
+        {
+          "arquivo_excel": "JUN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_23.csv",
+          "registros": 131,
+          "colunas": 13,
+          "tamanho_kb": 14.52
+        },
+        {
+          "arquivo_excel": "MAI_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_21.csv",
+          "registros": 185,
+          "colunas": 13,
+          "tamanho_kb": 23.42
+        },
+        {
+          "arquivo_excel": "MAI_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_22.csv",
+          "registros": 203,
+          "colunas": 13,
+          "tamanho_kb": 22.35
+        },
+        {
+          "arquivo_excel": "MAI_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_23.csv",
+          "registros": 108,
+          "colunas": 13,
+          "tamanho_kb": 11.94
+        },
+        {
+          "arquivo_excel": "MAR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_21.csv",
+          "registros": 191,
+          "colunas": 13,
+          "tamanho_kb": 23.18
+        },
+        {
+          "arquivo_excel": "MAR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_22.csv",
+          "registros": 212,
+          "colunas": 13,
+          "tamanho_kb": 23.29
+        },
+        {
+          "arquivo_excel": "MAR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_23.csv",
+          "registros": 124,
+          "colunas": 13,
+          "tamanho_kb": 13.64
+        },
+        {
+          "arquivo_excel": "NOV23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV23.csv",
+          "registros": 94,
+          "colunas": 13,
+          "tamanho_kb": 35.58
+        },
+        {
+          "arquivo_excel": "NOV_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_20.csv",
+          "registros": 183,
+          "colunas": 13,
+          "tamanho_kb": 21.62
+        },
+        {
+          "arquivo_excel": "NOV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_21.csv",
+          "registros": 259,
+          "colunas": 13,
+          "tamanho_kb": 28.3
+        },
+        {
+          "arquivo_excel": "NOV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_22.csv",
+          "registros": 162,
+          "colunas": 13,
+          "tamanho_kb": 17.9
+        },
+        {
+          "arquivo_excel": "OUT_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_20.csv",
+          "registros": 172,
+          "colunas": 13,
+          "tamanho_kb": 21.39
+        },
+        {
+          "arquivo_excel": "OUT_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_21.csv",
+          "registros": 236,
+          "colunas": 13,
+          "tamanho_kb": 28.61
+        },
+        {
+          "arquivo_excel": "OUT_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_22.csv",
+          "registros": 191,
+          "colunas": 13,
+          "tamanho_kb": 21.18
+        },
+        {
+          "arquivo_excel": "OUT_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_23.csv",
+          "registros": 115,
+          "colunas": 13,
+          "tamanho_kb": 12.62
+        },
+        {
+          "arquivo_excel": "SET_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_21.csv",
+          "registros": 235,
+          "colunas": 13,
+          "tamanho_kb": 29.78
+        },
+        {
+          "arquivo_excel": "SET_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_22.csv",
+          "registros": 224,
+          "colunas": 13,
+          "tamanho_kb": 24.73
+        },
+        {
+          "arquivo_excel": "SET_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_23.csv",
+          "registros": 92,
+          "colunas": 13,
+          "tamanho_kb": 34.81
+        },
+        {
+          "arquivo_excel": "ABR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_21.csv",
+          "registros": 151,
+          "colunas": 13,
+          "tamanho_kb": 19.09
+        },
+        {
+          "arquivo_excel": "ABR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_22.csv",
+          "registros": 184,
+          "colunas": 13,
+          "tamanho_kb": 20.24
+        },
+        {
+          "arquivo_excel": "ABR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_23.csv",
+          "registros": 81,
+          "colunas": 13,
+          "tamanho_kb": 9.01
+        },
+        {
+          "arquivo_excel": "AGO_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_21.csv",
+          "registros": 198,
+          "colunas": 13,
+          "tamanho_kb": 25.32
+        },
+        {
+          "arquivo_excel": "AGO_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_22.csv",
+          "registros": 219,
+          "colunas": 13,
+          "tamanho_kb": 24.06
+        },
+        {
+          "arquivo_excel": "AGO_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_23.csv",
+          "registros": 95,
+          "colunas": 13,
+          "tamanho_kb": 10.46
+        },
+        {
+          "arquivo_excel": "DEZ_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_20.csv",
+          "registros": 163,
+          "colunas": 13,
+          "tamanho_kb": 18.98
+        },
+        {
+          "arquivo_excel": "DEZ_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_21.csv",
+          "registros": 292,
+          "colunas": 13,
+          "tamanho_kb": 31.63
+        },
+        {
+          "arquivo_excel": "DEZ_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_22.csv",
+          "registros": 193,
+          "colunas": 13,
+          "tamanho_kb": 21.2
+        },
+        {
+          "arquivo_excel": "DEZ_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_23.csv",
+          "registros": 13,
+          "colunas": 13,
+          "tamanho_kb": 5.04
+        },
+        {
+          "arquivo_excel": "FEV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_21.csv",
+          "registros": 182,
+          "colunas": 13,
+          "tamanho_kb": 21.04
+        },
+        {
+          "arquivo_excel": "FEV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_22.csv",
+          "registros": 210,
+          "colunas": 13,
+          "tamanho_kb": 23.06
+        },
+        {
+          "arquivo_excel": "FEV_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_23.csv",
+          "registros": 110,
+          "colunas": 13,
+          "tamanho_kb": 12.12
+        },
+        {
+          "arquivo_excel": "JAN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_21.csv",
+          "registros": 205,
+          "colunas": 13,
+          "tamanho_kb": 23.35
+        },
+        {
+          "arquivo_excel": "JAN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_22.csv",
+          "registros": 246,
+          "colunas": 13,
+          "tamanho_kb": 26.88
+        },
+        {
+          "arquivo_excel": "JAN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_23.csv",
+          "registros": 135,
+          "colunas": 13,
+          "tamanho_kb": 14.93
+        },
+        {
+          "arquivo_excel": "JUL_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_21.csv",
+          "registros": 227,
+          "colunas": 13,
+          "tamanho_kb": 28.87
+        },
+        {
+          "arquivo_excel": "JUL_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_22.csv",
+          "registros": 200,
+          "colunas": 13,
+          "tamanho_kb": 21.94
+        },
+        {
+          "arquivo_excel": "JUL_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_23.csv",
+          "registros": 93,
+          "colunas": 13,
+          "tamanho_kb": 35.17
+        },
+        {
+          "arquivo_excel": "JUN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_21.csv",
+          "registros": 196,
+          "colunas": 13,
+          "tamanho_kb": 24.63
+        },
+        {
+          "arquivo_excel": "JUN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_22.csv",
+          "registros": 193,
+          "colunas": 13,
+          "tamanho_kb": 21.18
+        },
+        {
+          "arquivo_excel": "JUN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_23.csv",
+          "registros": 131,
+          "colunas": 13,
+          "tamanho_kb": 14.52
+        },
+        {
+          "arquivo_excel": "MAI_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_21.csv",
+          "registros": 185,
+          "colunas": 13,
+          "tamanho_kb": 23.42
+        },
+        {
+          "arquivo_excel": "MAI_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_22.csv",
+          "registros": 203,
+          "colunas": 13,
+          "tamanho_kb": 22.35
+        },
+        {
+          "arquivo_excel": "MAI_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_23.csv",
+          "registros": 108,
+          "colunas": 13,
+          "tamanho_kb": 11.94
+        },
+        {
+          "arquivo_excel": "MAR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_21.csv",
+          "registros": 191,
+          "colunas": 13,
+          "tamanho_kb": 23.18
+        },
+        {
+          "arquivo_excel": "MAR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_22.csv",
+          "registros": 212,
+          "colunas": 13,
+          "tamanho_kb": 23.29
+        },
+        {
+          "arquivo_excel": "MAR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_23.csv",
+          "registros": 124,
+          "colunas": 13,
+          "tamanho_kb": 13.64
+        },
+        {
+          "arquivo_excel": "NOV23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV23.csv",
+          "registros": 94,
+          "colunas": 13,
+          "tamanho_kb": 35.58
+        },
+        {
+          "arquivo_excel": "NOV_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_20.csv",
+          "registros": 183,
+          "colunas": 13,
+          "tamanho_kb": 21.62
+        },
+        {
+          "arquivo_excel": "NOV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_21.csv",
+          "registros": 259,
+          "colunas": 13,
+          "tamanho_kb": 28.3
+        },
+        {
+          "arquivo_excel": "NOV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_22.csv",
+          "registros": 162,
+          "colunas": 13,
+          "tamanho_kb": 17.9
+        },
+        {
+          "arquivo_excel": "OUT_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_20.csv",
+          "registros": 172,
+          "colunas": 13,
+          "tamanho_kb": 21.39
+        },
+        {
+          "arquivo_excel": "OUT_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_21.csv",
+          "registros": 236,
+          "colunas": 13,
+          "tamanho_kb": 28.61
+        },
+        {
+          "arquivo_excel": "OUT_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_22.csv",
+          "registros": 191,
+          "colunas": 13,
+          "tamanho_kb": 21.18
+        },
+        {
+          "arquivo_excel": "OUT_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_23.csv",
+          "registros": 115,
+          "colunas": 13,
+          "tamanho_kb": 12.62
+        },
+        {
+          "arquivo_excel": "SET_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_21.csv",
+          "registros": 235,
+          "colunas": 13,
+          "tamanho_kb": 29.78
+        },
+        {
+          "arquivo_excel": "SET_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_22.csv",
+          "registros": 224,
+          "colunas": 13,
+          "tamanho_kb": 24.73
+        },
+        {
+          "arquivo_excel": "SET_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_23.csv",
+          "registros": 92,
+          "colunas": 13,
+          "tamanho_kb": 34.81
+        }
+      ],
+      "erros": []
+    },
+    "trans_financ": {
+      "descricao": "Transações Financeiras",
+      "excel_encontrados": 78,
+      "csvs_criados": 78,
+      "arquivos_com_erro": 0,
+      "detalhes_conversao": [
+        {
+          "arquivo_excel": "ABR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_21.csv",
+          "registros": 703,
+          "colunas": 62,
+          "tamanho_kb": 244.12
+        },
+        {
+          "arquivo_excel": "ABR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_22.csv",
+          "registros": 992,
+          "colunas": 62,
+          "tamanho_kb": 342.02
+        },
+        {
+          "arquivo_excel": "ABR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_23.csv",
+          "registros": 449,
+          "colunas": 62,
+          "tamanho_kb": 153.76
+        },
+        {
+          "arquivo_excel": "AGO_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_21.csv",
+          "registros": 1034,
+          "colunas": 62,
+          "tamanho_kb": 357.64
+        },
+        {
+          "arquivo_excel": "AGO_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_22.csv",
+          "registros": 973,
+          "colunas": 62,
+          "tamanho_kb": 333.16
+        },
+        {
+          "arquivo_excel": "AGO_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_23.csv",
+          "registros": 454,
+          "colunas": 62,
+          "tamanho_kb": 155.29
+        },
+        {
+          "arquivo_excel": "DEZ_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_20.csv",
+          "registros": 591,
+          "colunas": 62,
+          "tamanho_kb": 197.07
+        },
+        {
+          "arquivo_excel": "DEZ_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_21.csv",
+          "registros": 1032,
+          "colunas": 62,
+          "tamanho_kb": 346.67
+        },
+        {
+          "arquivo_excel": "DEZ_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_22.csv",
+          "registros": 558,
+          "colunas": 62,
+          "tamanho_kb": 778.52
+        },
+        {
+          "arquivo_excel": "DEZ_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_23.csv",
+          "registros": 41,
+          "colunas": 62,
+          "tamanho_kb": 13.25
+        },
+        {
+          "arquivo_excel": "FEV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_21.csv",
+          "registros": 660,
+          "colunas": 62,
+          "tamanho_kb": 219.74
+        },
+        {
+          "arquivo_excel": "FEV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_22.csv",
+          "registros": 886,
+          "colunas": 62,
+          "tamanho_kb": 298.54
+        },
+        {
+          "arquivo_excel": "FEV_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_23.csv",
+          "registros": 500,
+          "colunas": 62,
+          "tamanho_kb": 169.43
+        },
+        {
+          "arquivo_excel": "JAN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_21.csv",
+          "registros": 696,
+          "colunas": 62,
+          "tamanho_kb": 228.07
+        },
+        {
+          "arquivo_excel": "JAN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_22.csv",
+          "registros": 858,
+          "colunas": 62,
+          "tamanho_kb": 285.5
+        },
+        {
+          "arquivo_excel": "JAN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_23.csv",
+          "registros": 615,
+          "colunas": 62,
+          "tamanho_kb": 207.51
+        },
+        {
+          "arquivo_excel": "JUL_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_21.csv",
+          "registros": 1084,
+          "colunas": 62,
+          "tamanho_kb": 372.8
+        },
+        {
+          "arquivo_excel": "JUL_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_22.csv",
+          "registros": 1080,
+          "colunas": 62,
+          "tamanho_kb": 370.84
+        },
+        {
+          "arquivo_excel": "JUL_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_23.csv",
+          "registros": 514,
+          "colunas": 62,
+          "tamanho_kb": 718.76
+        },
+        {
+          "arquivo_excel": "JUN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_21.csv",
+          "registros": 853,
+          "colunas": 62,
+          "tamanho_kb": 291.55
+        },
+        {
+          "arquivo_excel": "JUN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_22.csv",
+          "registros": 959,
+          "colunas": 62,
+          "tamanho_kb": 328.47
+        },
+        {
+          "arquivo_excel": "JUN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_23.csv",
+          "registros": 53,
+          "colunas": 62,
+          "tamanho_kb": 18.95
+        },
+        {
+          "arquivo_excel": "MAI_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_21.csv",
+          "registros": 774,
+          "colunas": 62,
+          "tamanho_kb": 263.36
+        },
+        {
+          "arquivo_excel": "MAI_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_22.csv",
+          "registros": 960,
+          "colunas": 62,
+          "tamanho_kb": 327.27
+        },
+        {
+          "arquivo_excel": "MAI_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_23.csv",
+          "registros": 468,
+          "colunas": 62,
+          "tamanho_kb": 158.83
+        },
+        {
+          "arquivo_excel": "MAR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_21.csv",
+          "registros": 802,
+          "colunas": 62,
+          "tamanho_kb": 271.22
+        },
+        {
+          "arquivo_excel": "MAR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_22.csv",
+          "registros": 1006,
+          "colunas": 62,
+          "tamanho_kb": 1403.6
+        },
+        {
+          "arquivo_excel": "MAR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_23.csv",
+          "registros": 497,
+          "colunas": 62,
+          "tamanho_kb": 166.34
+        },
+        {
+          "arquivo_excel": "NOV23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV23.csv",
+          "registros": 377,
+          "colunas": 62,
+          "tamanho_kb": 127.94
+        },
+        {
+          "arquivo_excel": "NOV_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_20.csv",
+          "registros": 607,
+          "colunas": 62,
+          "tamanho_kb": 195.86
+        },
+        {
+          "arquivo_excel": "NOV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_21.csv",
+          "registros": 1037,
+          "colunas": 62,
+          "tamanho_kb": 349.59
+        },
+        {
+          "arquivo_excel": "NOV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_22.csv",
+          "registros": 748,
+          "colunas": 62,
+          "tamanho_kb": 249.11
+        },
+        {
+          "arquivo_excel": "OUT_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_20.csv",
+          "registros": 442,
+          "colunas": 62,
+          "tamanho_kb": 140.43
+        },
+        {
+          "arquivo_excel": "OUT_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_21.csv",
+          "registros": 880,
+          "colunas": 62,
+          "tamanho_kb": 302.73
+        },
+        {
+          "arquivo_excel": "OUT_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_22.csv",
+          "registros": 762,
+          "colunas": 62,
+          "tamanho_kb": 255.4
+        },
+        {
+          "arquivo_excel": "OUT_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_23.csv",
+          "registros": 466,
+          "colunas": 62,
+          "tamanho_kb": 158.81
+        },
+        {
+          "arquivo_excel": "SET_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_21.csv",
+          "registros": 816,
+          "colunas": 62,
+          "tamanho_kb": 276.38
+        },
+        {
+          "arquivo_excel": "SET_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_22.csv",
+          "registros": 914,
+          "colunas": 62,
+          "tamanho_kb": 307.19
+        },
+        {
+          "arquivo_excel": "SET_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_23.csv",
+          "registros": 434,
+          "colunas": 62,
+          "tamanho_kb": 149.07
+        },
+        {
+          "arquivo_excel": "ABR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_21.csv",
+          "registros": 703,
+          "colunas": 62,
+          "tamanho_kb": 244.12
+        },
+        {
+          "arquivo_excel": "ABR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_22.csv",
+          "registros": 992,
+          "colunas": 62,
+          "tamanho_kb": 342.02
+        },
+        {
+          "arquivo_excel": "ABR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_23.csv",
+          "registros": 449,
+          "colunas": 62,
+          "tamanho_kb": 153.76
+        },
+        {
+          "arquivo_excel": "AGO_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_21.csv",
+          "registros": 1034,
+          "colunas": 62,
+          "tamanho_kb": 357.64
+        },
+        {
+          "arquivo_excel": "AGO_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_22.csv",
+          "registros": 973,
+          "colunas": 62,
+          "tamanho_kb": 333.16
+        },
+        {
+          "arquivo_excel": "AGO_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "AGO_23.csv",
+          "registros": 454,
+          "colunas": 62,
+          "tamanho_kb": 155.29
+        },
+        {
+          "arquivo_excel": "DEZ_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_20.csv",
+          "registros": 591,
+          "colunas": 62,
+          "tamanho_kb": 197.07
+        },
+        {
+          "arquivo_excel": "DEZ_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_21.csv",
+          "registros": 1032,
+          "colunas": 62,
+          "tamanho_kb": 346.67
+        },
+        {
+          "arquivo_excel": "DEZ_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_22.csv",
+          "registros": 558,
+          "colunas": 62,
+          "tamanho_kb": 778.52
+        },
+        {
+          "arquivo_excel": "DEZ_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "DEZ_23.csv",
+          "registros": 41,
+          "colunas": 62,
+          "tamanho_kb": 13.25
+        },
+        {
+          "arquivo_excel": "FEV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_21.csv",
+          "registros": 660,
+          "colunas": 62,
+          "tamanho_kb": 219.74
+        },
+        {
+          "arquivo_excel": "FEV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_22.csv",
+          "registros": 886,
+          "colunas": 62,
+          "tamanho_kb": 298.54
+        },
+        {
+          "arquivo_excel": "FEV_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "FEV_23.csv",
+          "registros": 500,
+          "colunas": 62,
+          "tamanho_kb": 169.43
+        },
+        {
+          "arquivo_excel": "JAN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_21.csv",
+          "registros": 696,
+          "colunas": 62,
+          "tamanho_kb": 228.07
+        },
+        {
+          "arquivo_excel": "JAN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_22.csv",
+          "registros": 858,
+          "colunas": 62,
+          "tamanho_kb": 285.5
+        },
+        {
+          "arquivo_excel": "JAN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JAN_23.csv",
+          "registros": 615,
+          "colunas": 62,
+          "tamanho_kb": 207.51
+        },
+        {
+          "arquivo_excel": "JUL_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_21.csv",
+          "registros": 1084,
+          "colunas": 62,
+          "tamanho_kb": 372.8
+        },
+        {
+          "arquivo_excel": "JUL_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_22.csv",
+          "registros": 1080,
+          "colunas": 62,
+          "tamanho_kb": 370.84
+        },
+        {
+          "arquivo_excel": "JUL_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUL_23.csv",
+          "registros": 514,
+          "colunas": 62,
+          "tamanho_kb": 718.76
+        },
+        {
+          "arquivo_excel": "JUN_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_21.csv",
+          "registros": 853,
+          "colunas": 62,
+          "tamanho_kb": 291.55
+        },
+        {
+          "arquivo_excel": "JUN_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_22.csv",
+          "registros": 959,
+          "colunas": 62,
+          "tamanho_kb": 328.47
+        },
+        {
+          "arquivo_excel": "JUN_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "JUN_23.csv",
+          "registros": 53,
+          "colunas": 62,
+          "tamanho_kb": 18.95
+        },
+        {
+          "arquivo_excel": "MAI_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_21.csv",
+          "registros": 774,
+          "colunas": 62,
+          "tamanho_kb": 263.36
+        },
+        {
+          "arquivo_excel": "MAI_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_22.csv",
+          "registros": 960,
+          "colunas": 62,
+          "tamanho_kb": 327.27
+        },
+        {
+          "arquivo_excel": "MAI_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAI_23.csv",
+          "registros": 468,
+          "colunas": 62,
+          "tamanho_kb": 158.83
+        },
+        {
+          "arquivo_excel": "MAR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_21.csv",
+          "registros": 802,
+          "colunas": 62,
+          "tamanho_kb": 271.22
+        },
+        {
+          "arquivo_excel": "MAR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_22.csv",
+          "registros": 1006,
+          "colunas": 62,
+          "tamanho_kb": 1403.6
+        },
+        {
+          "arquivo_excel": "MAR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "MAR_23.csv",
+          "registros": 497,
+          "colunas": 62,
+          "tamanho_kb": 166.34
+        },
+        {
+          "arquivo_excel": "NOV23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV23.csv",
+          "registros": 377,
+          "colunas": 62,
+          "tamanho_kb": 127.94
+        },
+        {
+          "arquivo_excel": "NOV_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_20.csv",
+          "registros": 607,
+          "colunas": 62,
+          "tamanho_kb": 195.86
+        },
+        {
+          "arquivo_excel": "NOV_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_21.csv",
+          "registros": 1037,
+          "colunas": 62,
+          "tamanho_kb": 349.59
+        },
+        {
+          "arquivo_excel": "NOV_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "NOV_22.csv",
+          "registros": 748,
+          "colunas": 62,
+          "tamanho_kb": 249.11
+        },
+        {
+          "arquivo_excel": "OUT_20.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_20.csv",
+          "registros": 442,
+          "colunas": 62,
+          "tamanho_kb": 140.43
+        },
+        {
+          "arquivo_excel": "OUT_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_21.csv",
+          "registros": 880,
+          "colunas": 62,
+          "tamanho_kb": 302.73
+        },
+        {
+          "arquivo_excel": "OUT_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_22.csv",
+          "registros": 762,
+          "colunas": 62,
+          "tamanho_kb": 255.4
+        },
+        {
+          "arquivo_excel": "OUT_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "OUT_23.csv",
+          "registros": 466,
+          "colunas": 62,
+          "tamanho_kb": 158.81
+        },
+        {
+          "arquivo_excel": "SET_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_21.csv",
+          "registros": 816,
+          "colunas": 62,
+          "tamanho_kb": 276.38
+        },
+        {
+          "arquivo_excel": "SET_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_22.csv",
+          "registros": 914,
+          "colunas": 62,
+          "tamanho_kb": 307.19
+        },
+        {
+          "arquivo_excel": "SET_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "SET_23.csv",
+          "registros": 434,
+          "colunas": 62,
+          "tamanho_kb": 149.07
+        }
+      ],
+      "erros": []
+    }
+  },
+  "totais": {
+    "arquivos_excel_encontrados": 318,
+    "arquivos_convertidos": 318,
+    "arquivos_com_erro": 0,
+    "csvs_criados": 324
+  }
+}

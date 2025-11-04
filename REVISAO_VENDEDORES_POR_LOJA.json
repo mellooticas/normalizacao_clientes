@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "criado_em": "2025-10-29T14:20:32.912474",
+    "objetivo": "Revisão e correção do mapeamento de vendedores por loja",
+    "instrucoes": [
+      "Para cada loja, revise os vendedores listados",
+      "Corrija os vendedores conforme a realidade",
+      "Adicione ou remova vendedores conforme necessário",
+      "Mantenha apenas os vendedores que realmente trabalham em cada loja"
+    ]
+  },
+  "lojas": {
+    "048_MAUA": {
+      "nome_loja": "Mauá",
+      "codigo": "048",
+      "vendedores_supabase": [
+        "BETH",
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "vendedores_nossos_dados": [
+        "BETH",
+        "FELIPE",
+        "WEVILLY",
+        "TATY",
+        "LARISSA"
+      ],
+      "discrepancias": {
+        "apenas_supabase": [
+          "ROGÉRIO"
+        ],
+        "apenas_nossos": [
+          "FELIPE"
+        ]
+      },
+      "vendedores_corretos": [
+        "BETH",
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "observacoes": ""
+    },
+    "009_PERUS": {
+      "nome_loja": "Perus",
+      "codigo": "009",
+      "vendedores_supabase": [
+        "ERIKA",
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "vendedores_nossos_dados": [
+        "ERIKA",
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "discrepancias": {
+        "apenas_supabase": [],
+        "apenas_nossos": []
+      },
+      "vendedores_corretos": [
+        "ERIKA",
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "observacoes": ""
+    },
+    "011_RIO_PEQUENO": {
+      "nome_loja": "Rio Pequeno",
+      "codigo": "011",
+      "vendedores_supabase": [
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "vendedores_nossos_dados": [
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "discrepancias": {
+        "apenas_supabase": [],
+        "apenas_nossos": []
+      },
+      "vendedores_corretos": [
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "observacoes": ""
+    },
+    "012_SAO_MATEUS": {
+      "nome_loja": "São Mateus",
+      "codigo": "012",
+      "vendedores_supabase": [
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "vendedores_nossos_dados": [
+        "ARIANI DIAS FERNANDES CARDOSO",
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "discrepancias": {
+        "apenas_supabase": [],
+        "apenas_nossos": [
+          "ARIANI DIAS FERNANDES CARDOSO"
+        ]
+      },
+      "vendedores_corretos": [
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "observacoes": ""
+    },
+    "042_SUZANO": {
+      "nome_loja": "Suzano",
+      "codigo": "042",
+      "vendedores_supabase": [
+        "BETH",
+        "FELIPE",
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY"
+      ],
+      "vendedores_nossos_dados": [
+        "ARIANI DIAS FERNANDES CARDOSO",
+        "BETH",
+        "BRUNA",
+        "ERIKA",
+        "FELIPE",
+        "JOCICREIDE BARBOSA",
+        "ROGÉRIO",
+        "ROSÂNGELA",
+        "THIAGO VINICIUS"
+      ],
+      "discrepancias": {
+        "apenas_supabase": [
+          "TATY",
+          "LARISSA"
+        ],
+        "apenas_nossos": [
+          "BRUNA",
+          "JOCICREIDE BARBOSA",
+          "ERIKA",
+          "ARIANI DIAS FERNANDES CARDOSO",
+          "THIAGO VINICIUS",
+          "ROSÂNGELA"
+        ]
+      },
+      "vendedores_corretos": [
+        "BETH",
+        "FELIPE",
+        "LARISSA",
+        "ROGÉRIO",
+        "TATY"
+      ],
+      "observacoes": ""
+    },
+    "010_SUZANO2": {
+      "nome_loja": "Suzano 2",
+      "codigo": "010",
+      "vendedores_supabase": [
+        "ERIKA",
+        "FELIPE",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "vendedores_nossos_dados": [
+        "BETH",
+        "FELIPE",
+        "TATY",
+        "WEVILLY"
+      ],
+      "discrepancias": {
+        "apenas_supabase": [
+          "ERIKA",
+          "ROGÉRIO"
+        ],
+        "apenas_nossos": [
+          "BETH"
+        ]
+      },
+      "vendedores_corretos": [
+        "ERIKA",
+        "FELIPE",
+        "ROGÉRIO",
+        "TATY",
+        "WEVILLY"
+      ],
+      "observacoes": ""
+    }
+  }
+}

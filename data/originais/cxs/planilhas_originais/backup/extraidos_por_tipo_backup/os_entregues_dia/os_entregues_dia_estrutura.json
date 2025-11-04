@@ -1,0 +1,102 @@
+{
+  "tipo_tabela": "OS_ENTREGUES_DIA",
+  "estrutura": {
+    "celula_base": "K14",
+    "colunas": [
+      "OS",
+      "Vendedor",
+      "CARNE"
+    ],
+    "tipo": "operacional",
+    "descricao": "OS entregues no dia"
+  },
+  "total_registros": 6696,
+  "lojas_com_dados": [
+    "maua",
+    "suzano",
+    "perus",
+    "sao_mateus",
+    "rio_pequeno",
+    "suzano2"
+  ],
+  "colunas_encontradas": [
+    "os",
+    "vendedor",
+    "carne",
+    "linha_origem",
+    "tabela_tipo",
+    "aba_origem",
+    "valores_brutos",
+    "data_movimento",
+    "loja_celula",
+    "loja_arquivo",
+    "arquivo_origem"
+  ],
+  "amostra_dados": [
+    {
+      "os": 4110,
+      "vendedor": "BETH",
+      "carne": "Não",
+      "linha_origem": 15,
+      "tabela_tipo": "OS_ENTREGUES_DIA",
+      "aba_origem": "01",
+      "valores_brutos": "[4110, 'BETH', 'Não']",
+      "data_movimento": "2024-04-01 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 4117,
+      "vendedor": "BETH",
+      "carne": "Não",
+      "linha_origem": 16,
+      "tabela_tipo": "OS_ENTREGUES_DIA",
+      "aba_origem": "01",
+      "valores_brutos": "[4117, 'BETH', 'Não']",
+      "data_movimento": "2024-04-01 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 4098,
+      "vendedor": "BETH",
+      "carne": "Sim",
+      "linha_origem": 15,
+      "tabela_tipo": "OS_ENTREGUES_DIA",
+      "aba_origem": "02",
+      "valores_brutos": "[4098, 'BETH', 'Sim']",
+      "data_movimento": "2024-04-02 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 4156,
+      "vendedor": "BETH",
+      "carne": "Não",
+      "linha_origem": 15,
+      "tabela_tipo": "OS_ENTREGUES_DIA",
+      "aba_origem": "03",
+      "valores_brutos": "[4156, 'BETH', 'Não']",
+      "data_movimento": "2024-04-03 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    },
+    {
+      "os": 4136,
+      "vendedor": "BETH",
+      "carne": "Não",
+      "linha_origem": 15,
+      "tabela_tipo": "OS_ENTREGUES_DIA",
+      "aba_origem": "04",
+      "valores_brutos": "[4136, 'BETH', 'Não']",
+      "data_movimento": "2024-04-04 00:00:00",
+      "loja_celula": "",
+      "loja_arquivo": "maua",
+      "arquivo_origem": "abr_24.xlsx"
+    }
+  ]
+}

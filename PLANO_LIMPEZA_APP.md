@@ -1,10 +1,19 @@
-# 🧹 PLANO DE LIMPEZA E ORGANIZAÇÃO DO APP
+# ============================================================================
+# PLANO DE LIMPEZA COMPLETA - Carnê Fácil
+# Recomeçar do zero com Supabase direto
+# ============================================================================
 
-## 📊 SITUAÇÃO ATUAL
-- ✅ **Banco de dados**: Profissional, enterprise-ready (OK!)
-- ❌ **App Python**: 60+ scripts desorganizados na raiz (PROBLEMA!)
+## 🎯 SITUAÇÃO ATUAL IDENTIFICADA
 
-## 🎯 NOVA ESTRUTURA PROPOSTA
+Após análise detalhada:
+- ❌ **1,749 clientes** vs **25,706 OS esperadas** (dados dramáticamente incompletos)
+- ❌ Scripts de importação complexos e conflitantes
+- ❌ Múltiplos arquivos de povoamento problemáticos  
+- ❌ Arquivos originais Excel não localizados claramente
+- ❌ Conexão Supabase com credenciais possivelmente desatualizadas
+- ❌ Docker travado e sendo desinstalado
+
+## 🧹 ESTRATÉGIA DE LIMPEZA COMPLETA
 
 ```
 D:/projetos/carne_facil/

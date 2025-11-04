@@ -1,0 +1,852 @@
+{
+  "data_organizacao": "2025-10-30 18:03:36",
+  "origem": "D:\\OneDrive - Óticas Taty Mello\\VENDAS\\oticas\\vendasprojecoes",
+  "destino": "data/originais/controles_gerais",
+  "pastas_processadas": {
+    "conf_dav": {
+      "descricao": "Configurações DAV",
+      "origem": "D:\\OneDrive - Óticas Taty Mello\\VENDAS\\oticas\\vendasprojecoes\\conf_dav",
+      "destino": "data/originais/controles_gerais\\conf_dav",
+      "arquivos_encontrados": 41,
+      "arquivos_copiados": 41,
+      "arquivos_csv": 0,
+      "arquivos_com_erro": 0,
+      "lista_arquivos": [
+        {
+          "nome": "ABR21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 35.18
+        },
+        {
+          "nome": "ABR22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 63.26
+        },
+        {
+          "nome": "ABR23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 52.58
+        },
+        {
+          "nome": "AGO21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 57.99
+        },
+        {
+          "nome": "AGO22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 60.65
+        },
+        {
+          "nome": "AGO23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 50.22
+        },
+        {
+          "nome": "DEZ20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 34.34
+        },
+        {
+          "nome": "DEZ21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 54.04
+        },
+        {
+          "nome": "DEZ22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 41.69
+        },
+        {
+          "nome": "DEZ_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 37.64
+        },
+        {
+          "nome": "FEV21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 34.39
+        },
+        {
+          "nome": "FEV22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 55.41
+        },
+        {
+          "nome": "FEV23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 41.77
+        },
+        {
+          "nome": "FEV_24.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 32.14
+        },
+        {
+          "nome": "JAN21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 36.43
+        },
+        {
+          "nome": "JAN22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 55.93
+        },
+        {
+          "nome": "JAN23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 172.69
+        },
+        {
+          "nome": "JAN24.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 142.88
+        },
+        {
+          "nome": "JUL21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 68.21
+        },
+        {
+          "nome": "JUL22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 67.4
+        },
+        {
+          "nome": "JUL23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 51.73
+        },
+        {
+          "nome": "JUN 23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 49.71
+        },
+        {
+          "nome": "JUN21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 58.38
+        },
+        {
+          "nome": "JUN22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 60.36
+        },
+        {
+          "nome": "MAI21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 32.79
+        },
+        {
+          "nome": "MAI22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 59.51
+        },
+        {
+          "nome": "MAI23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 51.92
+        },
+        {
+          "nome": "MAR21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 39.46
+        },
+        {
+          "nome": "MAR22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 68.52
+        },
+        {
+          "nome": "MAR23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 53.74
+        },
+        {
+          "nome": "NOV20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 32.55
+        },
+        {
+          "nome": "NOV21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 59.75
+        },
+        {
+          "nome": "NOV22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 55.68
+        },
+        {
+          "nome": "NOV23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 52.33
+        },
+        {
+          "nome": "OUT20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 32.29
+        },
+        {
+          "nome": "OUT21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 48.0
+        },
+        {
+          "nome": "OUT22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 52.47
+        },
+        {
+          "nome": "OUT_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 52.95
+        },
+        {
+          "nome": "SET21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 46.54
+        },
+        {
+          "nome": "SET22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 55.64
+        },
+        {
+          "nome": "SET23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 51.07
+        }
+      ]
+    },
+    "lista_dav": {
+      "descricao": "Listas DAV",
+      "origem": "D:\\OneDrive - Óticas Taty Mello\\VENDAS\\oticas\\vendasprojecoes\\lista_dav",
+      "destino": "data/originais/controles_gerais\\lista_dav",
+      "arquivos_encontrados": 40,
+      "arquivos_copiados": 40,
+      "arquivos_csv": 0,
+      "arquivos_com_erro": 0,
+      "lista_arquivos": [
+        {
+          "nome": "ABR_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 34.46
+        },
+        {
+          "nome": "ABR_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 61.82
+        },
+        {
+          "nome": "ABR_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 65.12
+        },
+        {
+          "nome": "AGO_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 57.58
+        },
+        {
+          "nome": "AGO_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 58.33
+        },
+        {
+          "nome": "AGO_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 67.21
+        },
+        {
+          "nome": "DEZ 23.xlsx",
+          "tipo": "Excel",
+          "tamanho_kb": 40.9
+        },
+        {
+          "nome": "DEZ_20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 32.26
+        },
+        {
+          "nome": "DEZ_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 56.37
+        },
+        {
+          "nome": "DEZ_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 48.68
+        },
+        {
+          "nome": "FEV_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 30.77
+        },
+        {
+          "nome": "FEV_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 57.84
+        },
+        {
+          "nome": "FEV_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 83.46
+        },
+        {
+          "nome": "JAN_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 34.44
+        },
+        {
+          "nome": "JAN_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 55.85
+        },
+        {
+          "nome": "JAN_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 61.05
+        },
+        {
+          "nome": "JAN_24.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 242.6
+        },
+        {
+          "nome": "JUL_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 57.78
+        },
+        {
+          "nome": "JUL_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 79.93
+        },
+        {
+          "nome": "JUL_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 66.78
+        },
+        {
+          "nome": "JUN_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 51.51
+        },
+        {
+          "nome": "JUN_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 59.45
+        },
+        {
+          "nome": "JUN_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 60.54
+        },
+        {
+          "nome": "MAI_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 30.8
+        },
+        {
+          "nome": "MAI_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 59.29
+        },
+        {
+          "nome": "MAI_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 61.71
+        },
+        {
+          "nome": "MAR_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 38.74
+        },
+        {
+          "nome": "MAR_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 63.1
+        },
+        {
+          "nome": "MAR_23.xlsx",
+          "tipo": "Excel",
+          "tamanho_kb": 2651.52
+        },
+        {
+          "nome": "NOV_20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 29.32
+        },
+        {
+          "nome": "NOV_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 57.21
+        },
+        {
+          "nome": "NOV_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 62.66
+        },
+        {
+          "nome": "NOV_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 74.16
+        },
+        {
+          "nome": "OUT_20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 35.19
+        },
+        {
+          "nome": "OUT_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 46.1
+        },
+        {
+          "nome": "OUT_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 52.53
+        },
+        {
+          "nome": "OUT_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 61.87
+        },
+        {
+          "nome": "SET_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 45.78
+        },
+        {
+          "nome": "SET_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 54.48
+        },
+        {
+          "nome": "SET_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 48.76
+        }
+      ]
+    },
+    "mov_cx": {
+      "descricao": "Movimentações Caixa",
+      "origem": "D:\\OneDrive - Óticas Taty Mello\\VENDAS\\oticas\\vendasprojecoes\\mov_cx",
+      "destino": "data/originais/controles_gerais\\mov_cx",
+      "arquivos_encontrados": 39,
+      "arquivos_copiados": 39,
+      "arquivos_csv": 0,
+      "arquivos_com_erro": 0,
+      "lista_arquivos": [
+        {
+          "nome": "ABR_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 23.64
+        },
+        {
+          "nome": "ABR_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 26.93
+        },
+        {
+          "nome": "ABR_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 17.58
+        },
+        {
+          "nome": "AGO_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 28.49
+        },
+        {
+          "nome": "AGO_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 29.98
+        },
+        {
+          "nome": "AGO_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 17.8
+        },
+        {
+          "nome": "DEZ_20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 24.0
+        },
+        {
+          "nome": "DEZ_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 35.99
+        },
+        {
+          "nome": "DEZ_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 27.34
+        },
+        {
+          "nome": "DEZ_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 10.58
+        },
+        {
+          "nome": "FEV_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 26.01
+        },
+        {
+          "nome": "FEV_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 28.94
+        },
+        {
+          "nome": "FEV_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 20.27
+        },
+        {
+          "nome": "JAN_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 27.71
+        },
+        {
+          "nome": "JAN_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 32.17
+        },
+        {
+          "nome": "JAN_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 22.57
+        },
+        {
+          "nome": "JUL_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 30.61
+        },
+        {
+          "nome": "JUL_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 28.33
+        },
+        {
+          "nome": "JUL_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 18.9
+        },
+        {
+          "nome": "JUN_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 27.83
+        },
+        {
+          "nome": "JUN_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 27.49
+        },
+        {
+          "nome": "JUN_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 22.07
+        },
+        {
+          "nome": "MAI_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 26.73
+        },
+        {
+          "nome": "MAI_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 28.5
+        },
+        {
+          "nome": "MAI_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 19.89
+        },
+        {
+          "nome": "MAR_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 26.87
+        },
+        {
+          "nome": "MAR_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 29.21
+        },
+        {
+          "nome": "MAR_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 21.72
+        },
+        {
+          "nome": "NOV23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 18.05
+        },
+        {
+          "nome": "NOV_20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 25.42
+        },
+        {
+          "nome": "NOV_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 33.39
+        },
+        {
+          "nome": "NOV_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 25.17
+        },
+        {
+          "nome": "OUT_20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 24.1
+        },
+        {
+          "nome": "OUT_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 32.08
+        },
+        {
+          "nome": "OUT_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 27.81
+        },
+        {
+          "nome": "OUT_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 19.33
+        },
+        {
+          "nome": "SET_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 31.91
+        },
+        {
+          "nome": "SET_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 30.37
+        },
+        {
+          "nome": "SET_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 18.13
+        }
+      ]
+    },
+    "trans_financ": {
+      "descricao": "Transações Financeiras",
+      "origem": "D:\\OneDrive - Óticas Taty Mello\\VENDAS\\oticas\\vendasprojecoes\\trans_financ",
+      "destino": "data/originais/controles_gerais\\trans_financ",
+      "arquivos_encontrados": 39,
+      "arquivos_copiados": 39,
+      "arquivos_csv": 0,
+      "arquivos_com_erro": 0,
+      "lista_arquivos": [
+        {
+          "nome": "ABR_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 214.06
+        },
+        {
+          "nome": "ABR_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 296.68
+        },
+        {
+          "nome": "ABR_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 140.58
+        },
+        {
+          "nome": "AGO_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 304.99
+        },
+        {
+          "nome": "AGO_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 291.63
+        },
+        {
+          "nome": "AGO_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 141.77
+        },
+        {
+          "nome": "DEZ_20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 180.75
+        },
+        {
+          "nome": "DEZ_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 306.71
+        },
+        {
+          "nome": "DEZ_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 187.17
+        },
+        {
+          "nome": "DEZ_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 21.89
+        },
+        {
+          "nome": "FEV_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 200.2
+        },
+        {
+          "nome": "FEV_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 266.55
+        },
+        {
+          "nome": "FEV_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 157.07
+        },
+        {
+          "nome": "JAN_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 212.9
+        },
+        {
+          "nome": "JAN_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 258.42
+        },
+        {
+          "nome": "JAN_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 191.63
+        },
+        {
+          "nome": "JUL_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 321.14
+        },
+        {
+          "nome": "JUL_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 324.38
+        },
+        {
+          "nome": "JUL_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 171.82
+        },
+        {
+          "nome": "JUN_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 255.7
+        },
+        {
+          "nome": "JUN_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 286.84
+        },
+        {
+          "nome": "JUN_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 25.87
+        },
+        {
+          "nome": "MAI_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 230.68
+        },
+        {
+          "nome": "MAI_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 287.67
+        },
+        {
+          "nome": "MAI_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 145.89
+        },
+        {
+          "nome": "MAR_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 239.83
+        },
+        {
+          "nome": "MAR_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 322.89
+        },
+        {
+          "nome": "MAR_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 155.51
+        },
+        {
+          "nome": "NOV23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 117.3
+        },
+        {
+          "nome": "NOV_20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 186.35
+        },
+        {
+          "nome": "NOV_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 307.22
+        },
+        {
+          "nome": "NOV_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 228.85
+        },
+        {
+          "nome": "OUT_20.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 137.46
+        },
+        {
+          "nome": "OUT_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 262.66
+        },
+        {
+          "nome": "OUT_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 233.03
+        },
+        {
+          "nome": "OUT_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 143.69
+        },
+        {
+          "nome": "SET_21.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 244.61
+        },
+        {
+          "nome": "SET_22.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 273.25
+        },
+        {
+          "nome": "SET_23.XLSX",
+          "tipo": "Excel",
+          "tamanho_kb": 134.44
+        }
+      ]
+    }
+  },
+  "totais": {
+    "pastas_criadas": 4,
+    "arquivos_copiados": 159,
+    "arquivos_csv": 0,
+    "erro_arquivos": 0
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "data_analise": "2025-10-30 18:04:41",
+  "pastas_analisadas": {
+    "conf_dav": {
+      "descricao": "Configurações DAV",
+      "total_arquivos": 41,
+      "arquivos_analisados": 3,
+      "estruturas_encontradas": {
+        "1_abas": [
+          {
+            "nome": "ABR21.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 440,
+                "colunas": 11,
+                "colunas_nomes": [
+                  "Inativo",
+                  "Emp.",
+                  "Dt.DAV",
+                  "Nro.DAV",
+                  "Item",
+                  "Produto",
+                  "Modelo",
+                  "Qtd.",
+                  "Vl.Total",
+                  "Grupo"
+                ],
+                "tem_dados": true
+              }
+            }
+          },
+          {
+            "nome": "ABR22.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 954,
+                "colunas": 11,
+                "colunas_nomes": [
+                  "Inativo",
+                  "Emp.",
+                  "Dt.DAV",
+                  "Nro.DAV",
+                  "Item",
+                  "Produto",
+                  "Modelo",
+                  "Qtd.",
+                  "Vl.Total",
+                  "Grupo"
+                ],
+                "tem_dados": true
+              }
+            }
+          },
+          {
+            "nome": "ABR23.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 825,
+                "colunas": 11,
+                "colunas_nomes": [
+                  "Inativo",
+                  "Emp.",
+                  "Dt.DAV",
+                  "Nro.DAV",
+                  "Item",
+                  "Produto",
+                  "Modelo",
+                  "Qtd.",
+                  "Vl.Total",
+                  "Grupo"
+                ],
+                "tem_dados": true
+              }
+            }
+          }
+        ]
+      },
+      "amostras_convertidas": [
+        {
+          "arquivo_original": "ABR21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR21_Planilha1.csv",
+          "linhas": 440,
+          "colunas": 11
+        },
+        {
+          "arquivo_original": "ABR22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR22_Planilha1.csv",
+          "linhas": 954,
+          "colunas": 11
+        },
+        {
+          "arquivo_original": "ABR23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR23_Planilha1.csv",
+          "linhas": 825,
+          "colunas": 11
+        }
+      ],
+      "erros": []
+    },
+    "lista_dav": {
+      "descricao": "Listas DAV",
+      "total_arquivos": 40,
+      "arquivos_analisados": 3,
+      "estruturas_encontradas": {
+        "1_abas": [
+          {
+            "nome": "ABR_21.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 152,
+                "colunas": 27,
+                "colunas_nomes": [
+                  "Inativo",
+                  "ID DAV",
+                  "Nro.DAV",
+                  "Meios de Contato",
+                  "Descrição",
+                  "Dh.DAV",
+                  "Origem",
+                  "Dt.prev.entrega",
+                  "Dt.entrega",
+                  "Status"
+                ],
+                "tem_dados": true
+              }
+            }
+          },
+          {
+            "nome": "ABR_22.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 329,
+                "colunas": 27,
+                "colunas_nomes": [
+                  "Inativo",
+                  "ID DAV",
+                  "Nro.DAV",
+                  "Meios de Contato",
+                  "Descrição",
+                  "Dh.DAV",
+                  "Origem",
+                  "Dt.prev.entrega",
+                  "Dt.entrega",
+                  "Status"
+                ],
+                "tem_dados": true
+              }
+            }
+          },
+          {
+            "nome": "ABR_23.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 387,
+                "colunas": 27,
+                "colunas_nomes": [
+                  "Inativo",
+                  "ID DAV",
+                  "Nro.DAV",
+                  "Meios de Contato",
+                  "Descrição",
+                  "Dh.DAV",
+                  "Origem",
+                  "Dt.prev.entrega",
+                  "Dt.entrega",
+                  "Status"
+                ],
+                "tem_dados": true
+              }
+            }
+          }
+        ]
+      },
+      "amostras_convertidas": [
+        {
+          "arquivo_original": "ABR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_21_Planilha1.csv",
+          "linhas": 152,
+          "colunas": 27
+        },
+        {
+          "arquivo_original": "ABR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_22_Planilha1.csv",
+          "linhas": 329,
+          "colunas": 27
+        },
+        {
+          "arquivo_original": "ABR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_23_Planilha1.csv",
+          "linhas": 387,
+          "colunas": 27
+        }
+      ],
+      "erros": []
+    },
+    "mov_cx": {
+      "descricao": "Movimentações Caixa",
+      "total_arquivos": 39,
+      "arquivos_analisados": 3,
+      "estruturas_encontradas": {
+        "1_abas": [
+          {
+            "nome": "ABR_21.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 151,
+                "colunas": 13,
+                "colunas_nomes": [
+                  "ID fin.",
+                  "ID caixa",
+                  "Dh.movimento",
+                  "ID emp.",
+                  "Histórico",
+                  "Ct.corrente",
+                  "Segmento",
+                  "ID doc.",
+                  "Vl.líquido",
+                  "ID "
+                ],
+                "tem_dados": true
+              }
+            }
+          },
+          {
+            "nome": "ABR_22.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 184,
+                "colunas": 13,
+                "colunas_nomes": [
+                  "ID fin.",
+                  "ID caixa",
+                  "Dh.movimento",
+                  "ID emp.",
+                  "Histórico",
+                  "Ct.corrente",
+                  "Segmento",
+                  "ID doc.",
+                  "Vl.líquido",
+                  "ID "
+                ],
+                "tem_dados": true
+              }
+            }
+          },
+          {
+            "nome": "ABR_23.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 81,
+                "colunas": 13,
+                "colunas_nomes": [
+                  "ID fin.",
+                  "ID caixa",
+                  "Dh.movimento",
+                  "ID emp.",
+                  "Histórico",
+                  "Ct.corrente",
+                  "Segmento",
+                  "ID doc.",
+                  "Vl.líquido",
+                  "ID "
+                ],
+                "tem_dados": true
+              }
+            }
+          }
+        ]
+      },
+      "amostras_convertidas": [
+        {
+          "arquivo_original": "ABR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_21_Planilha1.csv",
+          "linhas": 151,
+          "colunas": 13
+        },
+        {
+          "arquivo_original": "ABR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_22_Planilha1.csv",
+          "linhas": 184,
+          "colunas": 13
+        },
+        {
+          "arquivo_original": "ABR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_23_Planilha1.csv",
+          "linhas": 81,
+          "colunas": 13
+        }
+      ],
+      "erros": []
+    },
+    "trans_financ": {
+      "descricao": "Transações Financeiras",
+      "total_arquivos": 39,
+      "arquivos_analisados": 3,
+      "estruturas_encontradas": {
+        "1_abas": [
+          {
+            "nome": "ABR_21.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 703,
+                "colunas": 62,
+                "colunas_nomes": [
+                  "Inativo",
+                  "ID operação",
+                  "Nro.operação",
+                  "ID emp.",
+                  "ID",
+                  "Cliente",
+                  "Vl.líquido",
+                  "Origem",
+                  "Dh.emissão",
+                  "Dh.transação"
+                ],
+                "tem_dados": true
+              }
+            }
+          },
+          {
+            "nome": "ABR_22.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 992,
+                "colunas": 62,
+                "colunas_nomes": [
+                  "Inativo",
+                  "ID operação",
+                  "Nro.operação",
+                  "ID emp.",
+                  "ID",
+                  "Cliente",
+                  "Vl.líquido",
+                  "Origem",
+                  "Dh.emissão",
+                  "Dh.transação"
+                ],
+                "tem_dados": true
+              }
+            }
+          },
+          {
+            "nome": "ABR_23.XLSX",
+            "abas": [
+              "Planilha1"
+            ],
+            "total_abas": 1,
+            "estrutura_abas": {
+              "Planilha1": {
+                "linhas": 449,
+                "colunas": 62,
+                "colunas_nomes": [
+                  "Inativo",
+                  "ID operação",
+                  "Nro.operação",
+                  "ID emp.",
+                  "ID",
+                  "Cliente",
+                  "Vl.líquido",
+                  "Origem",
+                  "Dh.emissão",
+                  "Dh.transação"
+                ],
+                "tem_dados": true
+              }
+            }
+          }
+        ]
+      },
+      "amostras_convertidas": [
+        {
+          "arquivo_original": "ABR_21.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_21_Planilha1.csv",
+          "linhas": 703,
+          "colunas": 62
+        },
+        {
+          "arquivo_original": "ABR_22.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_22_Planilha1.csv",
+          "linhas": 992,
+          "colunas": 62
+        },
+        {
+          "arquivo_original": "ABR_23.XLSX",
+          "aba": "Planilha1",
+          "arquivo_csv": "ABR_23_Planilha1.csv",
+          "linhas": 449,
+          "colunas": 62
+        }
+      ],
+      "erros": []
+    }
+  },
+  "resumo_geral": {
+    "total_arquivos": 159,
+    "arquivos_analisados": 12,
+    "arquivos_convertidos": 12,
+    "erros_conversao": 0
+  }
+}

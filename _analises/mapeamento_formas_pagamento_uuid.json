@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-10-30T09:13:37.962411",
+  "total_registros_processados": 9906,
+  "registros_com_uuid": 8868,
+  "registros_sem_uuid": 1038,
+  "percentual_mapeado": 89.52,
+  "mapeamento_formas": {
+    "CTC": "4854a683-31c3-4355-a03c-2bf398ebb4d5",
+    "CTD": "e80028d4-ddf2-4e4b-9347-78044a6316f1",
+    "PIX": "cebaa0dd-4784-4ff4-953f-a3ad6b8a6a5d",
+    "DN": "203527b1-d871-4f29-8c81-88fb0efaebd1",
+    "PCTC": "66c4f61d-b264-46c2-a29b-69a1c2e6aba2",
+    "SS": "b36056fa-47df-4f7a-b0e0-cda6a1bb5073",
+    "GARANTIA": "9c8ce174-8212-41f7-a637-980f581c8ca9",
+    "CARNE": "26e2d011-d3b6-4ded-9259-4d4f37a000bc",
+    "TROCA": "19d5c0b9-21c0-4f57-954e-3c6d0b3f108c",
+    "ctc": "4854a683-31c3-4355-a03c-2bf398ebb4d5",
+    "ctd": "e80028d4-ddf2-4e4b-9347-78044a6316f1",
+    "pix": "cebaa0dd-4784-4ff4-953f-a3ad6b8a6a5d",
+    "dn": "203527b1-d871-4f29-8c81-88fb0efaebd1",
+    "pctc": "66c4f61d-b264-46c2-a29b-69a1c2e6aba2",
+    "ss": "b36056fa-47df-4f7a-b0e0-cda6a1bb5073",
+    "Pix": "cebaa0dd-4784-4ff4-953f-a3ad6b8a6a5d",
+    "Dn": "203527b1-d871-4f29-8c81-88fb0efaebd1",
+    "Garantia": "9c8ce174-8212-41f7-a637-980f581c8ca9",
+    "CTD/PCTC": "e80028d4-ddf2-4e4b-9347-78044a6316f1",
+    "PERMUTA": "19d5c0b9-21c0-4f57-954e-3c6d0b3f108c",
+    "Forma de Pgto": null,
+    "SEM_INFORMACAO": null,
+    "Coluna3": null,
+    "*": null
+  },
+  "distribuicao_final": [
+    {
+      "forma_pagamento_normalizada": "CTC",
+      "forma_pagamento_uuid": "4854a683-31c3-4355-a03c-2bf398ebb4d5",
+      "quantidade": 2162
+    },
+    {
+      "forma_pagamento_normalizada": "CTD",
+      "forma_pagamento_uuid": "e80028d4-ddf2-4e4b-9347-78044a6316f1",
+      "quantidade": 1652
+    },
+    {
+      "forma_pagamento_normalizada": "PIX",
+      "forma_pagamento_uuid": "cebaa0dd-4784-4ff4-953f-a3ad6b8a6a5d",
+      "quantidade": 1603
+    },
+    {
+      "forma_pagamento_normalizada": "DN",
+      "forma_pagamento_uuid": "203527b1-d871-4f29-8c81-88fb0efaebd1",
+      "quantidade": 1448
+    },
+    {
+      "forma_pagamento_normalizada": "PCTC",
+      "forma_pagamento_uuid": "66c4f61d-b264-46c2-a29b-69a1c2e6aba2",
+      "quantidade": 748
+    },
+    {
+      "forma_pagamento_normalizada": "SS",
+      "forma_pagamento_uuid": "b36056fa-47df-4f7a-b0e0-cda6a1bb5073",
+      "quantidade": 657
+    },
+    {
+      "forma_pagamento_normalizada": "GARANTIA",
+      "forma_pagamento_uuid": "9c8ce174-8212-41f7-a637-980f581c8ca9",
+      "quantidade": 595
+    },
+    {
+      "forma_pagamento_normalizada": "CARNE",
+      "forma_pagamento_uuid": "26e2d011-d3b6-4ded-9259-4d4f37a000bc",
+      "quantidade": 2
+    },
+    {
+      "forma_pagamento_normalizada": "TROCA",
+      "forma_pagamento_uuid": "19d5c0b9-21c0-4f57-954e-3c6d0b3f108c",
+      "quantidade": 1
+    }
+  ],
+  "formas_nao_mapeadas": {
+    "SEM_INFORMACAO": 555,
+    "Forma de Pgto": 481,
+    "Coluna3": 1,
+    "*": 1
+  },
+  "arquivos_processados": [
+    "d:\\projetos\\carne_facil\\carne_facil\\data\\originais\\cxs\\extraidos_por_tipo\\vendas\\vendas_todas_lojas.csv",
+    "d:\\projetos\\carne_facil\\carne_facil\\data\\originais\\cxs\\extraidos_por_tipo\\vendas\\vendas_maua.csv",
+    "d:\\projetos\\carne_facil\\carne_facil\\data\\originais\\cxs\\extraidos_por_tipo\\vendas\\vendas_perus.csv",
+    "d:\\projetos\\carne_facil\\carne_facil\\data\\originais\\cxs\\extraidos_por_tipo\\vendas\\vendas_rio_pequeno.csv",
+    "d:\\projetos\\carne_facil\\carne_facil\\data\\originais\\cxs\\extraidos_por_tipo\\vendas\\vendas_sao_mateus.csv",
+    "d:\\projetos\\carne_facil\\carne_facil\\data\\originais\\cxs\\extraidos_por_tipo\\vendas\\vendas_suzano.csv",
+    "d:\\projetos\\carne_facil\\carne_facil\\data\\originais\\cxs\\extraidos_por_tipo\\vendas\\vendas_suzano2.csv"
+  ]
+}
