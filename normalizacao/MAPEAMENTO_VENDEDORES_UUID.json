@@ -1,0 +1,282 @@
+{
+  "ARIANI DIAS FERNANDES CARDOSO_Sem Loja": {
+    "vendedor_principal": "ARIANE DIAS FERNANDES CARDOSO",
+    "codigo_principal": NaN,
+    "vendedores_secundarios": [
+      {
+        "nome_original": "ARIANI DIAS",
+        "codigo_vendedor": NaN
+      }
+    ]
+  },
+  "ARIANI DIAS FERNANDES CARDOSO_Suzano (042)": {
+    "vendedor_principal": "ARIANE",
+    "codigo_principal": "VEN42ARIA",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "ARIANI",
+        "codigo_vendedor": "VEN42ARIA"
+      }
+    ]
+  },
+  "FELIPE MIRANDA_Suzano 2 (010)": {
+    "vendedor_principal": "FELIPE",
+    "codigo_principal": "VEN10FELI",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "FELIPE  MIRANDA",
+        "codigo_vendedor": "VEN10FELMIR"
+      },
+      {
+        "nome_original": "FELIPE MIRANDA",
+        "codigo_vendedor": "VEN10FELMIR"
+      },
+      {
+        "nome_original": "FELIPE MIRANDFA",
+        "codigo_vendedor": "VEN10FELMIR"
+      }
+    ]
+  },
+  "JOCICREIDE BARBOSA_Suzano (042)": {
+    "vendedor_principal": "JOCI",
+    "codigo_principal": "VEN42JOCI",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "JOCXY",
+        "codigo_vendedor": "VEN42JOCX"
+      },
+      {
+        "nome_original": "JOCY",
+        "codigo_vendedor": "VEN42JOCY"
+      }
+    ]
+  },
+  "MARIA_Suzano 2 (010)": {
+    "vendedor_principal": "MARIA / GARANTIA",
+    "codigo_principal": "VEN10MARGAR",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "MARIA",
+        "codigo_vendedor": "VEN10MARI"
+      }
+    ]
+  },
+  "MARIA ELIZABETH_Mauá (048)": {
+    "vendedor_principal": "BETH",
+    "codigo_principal": "VEN48BETH",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "B ETH",
+        "codigo_vendedor": "VEN48ETH"
+      },
+      {
+        "nome_original": "MARIA ELIZABETH",
+        "codigo_vendedor": "VEN48MARELI"
+      },
+      {
+        "nome_original": "MARIA ELIZEBETH",
+        "codigo_vendedor": "VEN48MARELI"
+      }
+    ]
+  },
+  "ROGERIO APARECIDO DE MORAIS_Perus (009)": {
+    "vendedor_principal": "ROGERIO",
+    "codigo_principal": "VEN9ROGE",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "ROGÉRIO",
+        "codigo_vendedor": "VEN9ROGÉ"
+      }
+    ]
+  },
+  "ROGERIO APARECIDO DE MORAIS_Rio Pequeno (011)": {
+    "vendedor_principal": "R0GERIO",
+    "codigo_principal": "VEN11R0GE",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "ROGERIO",
+        "codigo_vendedor": "VEN11ROGE"
+      },
+      {
+        "nome_original": "ROGÉRIO",
+        "codigo_vendedor": "VEN11ROGÉ"
+      }
+    ]
+  },
+  "ROGERIO APARECIDO DE MORAIS_Suzano (042)": {
+    "vendedor_principal": "ROGERIO",
+    "codigo_principal": "VEN42ROGE",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "ROGÉRIO",
+        "codigo_vendedor": "VEN42ROGÉ"
+      }
+    ]
+  },
+  "ROGERIO APARECIDO DE MORAIS_São Mateus (012)": {
+    "vendedor_principal": "ROGERIO",
+    "codigo_principal": "VEN12ROGE",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "ROGÉRIO",
+        "codigo_vendedor": "VEN12ROGÉ"
+      }
+    ]
+  },
+  "ROSÂNGELA_Rio Pequeno (011)": {
+    "vendedor_principal": "ROSAGELA",
+    "codigo_principal": "VEN11ROSA",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "ROSANGELA",
+        "codigo_vendedor": "VEN11ROSA"
+      },
+      {
+        "nome_original": "ROSNGELA",
+        "codigo_vendedor": "VEN11ROSN"
+      },
+      {
+        "nome_original": "ROSÂNGELA",
+        "codigo_vendedor": "VEN11ROSÂ"
+      },
+      {
+        "nome_original": "ROSÃNGELA",
+        "codigo_vendedor": "VEN11ROSÃ"
+      },
+      {
+        "nome_original": "ROSÃÑGELA",
+        "codigo_vendedor": "VEN11ROSÃ"
+      }
+    ]
+  },
+  "TATIANA MELLO DE CAMARGO_Perus (009)": {
+    "vendedor_principal": "TATY",
+    "codigo_principal": "VEN9TATY",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "TATY/ERIKA",
+        "codigo_vendedor": "VEN9TATY"
+      }
+    ]
+  },
+  "TATIANA MELLO DE CAMARGO_Sem Loja": {
+    "vendedor_principal": "TATIANA MELLO DE CAMARGO",
+    "codigo_principal": NaN,
+    "vendedores_secundarios": [
+      {
+        "nome_original": "TATIANE MELLO DE CAMARGO",
+        "codigo_vendedor": NaN
+      }
+    ]
+  },
+  "TATIANA MELLO DE CAMARGO_Suzano (042)": {
+    "vendedor_principal": "TATI",
+    "codigo_principal": "VEN42TATI",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "TATRY",
+        "codigo_vendedor": "VEN42TATR"
+      },
+      {
+        "nome_original": "TATY",
+        "codigo_vendedor": "VEN42TATY"
+      }
+    ]
+  },
+  "TATIANA MELLO DE CAMARGO_São Mateus (012)": {
+    "vendedor_principal": "TATI",
+    "codigo_principal": "VEN12TATI",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "TATY",
+        "codigo_vendedor": "VEN12TATY"
+      }
+    ]
+  },
+  "WEVILLY_Mauá (048)": {
+    "vendedor_principal": "WEVELLY",
+    "codigo_principal": "VEN48WEVE",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "WEVILLY",
+        "codigo_vendedor": "VEN48WEVI"
+      }
+    ]
+  },
+  "WEVILLY_São Mateus (012)": {
+    "vendedor_principal": "WEVELLY",
+    "codigo_principal": "VEN12WEVE",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "WEVILLY",
+        "codigo_vendedor": "VEN12WEVI"
+      },
+      {
+        "nome_original": "WEVILLY/TATY",
+        "codigo_vendedor": "VEN12WEVI"
+      }
+    ]
+  },
+  "WILLIAM_Perus (009)": {
+    "vendedor_principal": "WILLIAM",
+    "codigo_principal": "VEN9WILL",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "WILLIAN",
+        "codigo_vendedor": "VEN9WILL"
+      }
+    ]
+  },
+  "WILLIAM_Suzano (042)": {
+    "vendedor_principal": "WILLAM",
+    "codigo_principal": "VEN42WILL",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "WILLIAM",
+        "codigo_vendedor": "VEN42WILL"
+      },
+      {
+        "nome_original": "WILLIAN",
+        "codigo_vendedor": "VEN42WILL"
+      }
+    ]
+  },
+  "WILLIAM_São Mateus (012)": {
+    "vendedor_principal": "WILLAM",
+    "codigo_principal": "VEN12WILL",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "WILLIAM",
+        "codigo_vendedor": "VEN12WILL"
+      },
+      {
+        "nome_original": "WILLIAN",
+        "codigo_vendedor": "VEN12WILL"
+      }
+    ]
+  },
+  "ÉRIKA_Perus (009)": {
+    "vendedor_principal": "ERIKA",
+    "codigo_principal": "VEN9ERIK",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "ÉRIKA",
+        "codigo_vendedor": "VEN9ÉRIK"
+      }
+    ]
+  },
+  "ÉRIKA_Suzano 2 (010)": {
+    "vendedor_principal": "ERICA",
+    "codigo_principal": "VEN10ERIC",
+    "vendedores_secundarios": [
+      {
+        "nome_original": "ERIKA",
+        "codigo_vendedor": "VEN10ERIK"
+      },
+      {
+        "nome_original": "ÉRIKA",
+        "codigo_vendedor": "VEN10ÉRIK"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-10-30T09:54:40.677769",
+  "tipos_processados": {
+    "entrega_carne": {
+      "arquivos_processados": 7,
+      "registros_originais": 1436,
+      "registros_limpos": 1436,
+      "headers_removidos": 0,
+      "problemas_corrigidos": []
+    },
+    "os_entregues_dia": {
+      "arquivos_processados": 7,
+      "registros_originais": 13392,
+      "registros_limpos": 0,
+      "headers_removidos": 

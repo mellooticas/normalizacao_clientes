@@ -1,0 +1,89 @@
+2025-11-06 00:43:49,691 - INFO - === INICIANDO CONSOLIDAÇÃO DE MOVIMENTO DE CAIXA ===
+2025-11-06 00:43:49,691 - INFO - Encontrados 42 arquivos CSV:
+2025-11-06 00:43:49,692 - INFO -   - 39 arquivos principais
+2025-11-06 00:43:49,692 - INFO -   - 3 arquivos duplicados (_Planilha1)
+2025-11-06 00:43:49,692 - INFO - Iniciando consolidação dos dados...
+2025-11-06 00:43:49,692 - INFO - Processando: ABR_21.csv
+2025-11-06 00:43:49,699 - INFO -   - 151 registros em ABR/2021
+2025-11-06 00:43:49,699 - INFO - Processando: ABR_22.csv
+2025-11-06 00:43:49,712 - INFO -   - 184 registros em ABR/2022
+2025-11-06 00:43:49,712 - INFO - Processando: ABR_23.csv
+2025-11-06 00:43:49,724 - INFO -   - 81 registros em ABR/2023
+2025-11-06 00:43:49,724 - INFO - Processando: AGO_21.csv
+2025-11-06 00:43:49,738 - INFO -   - 198 registros em AGO/2021
+2025-11-06 00:43:49,738 - INFO - Processando: AGO_22.csv
+2025-11-06 00:43:49,753 - INFO -   - 219 registros em AGO/2022
+2025-11-06 00:43:49,753 - INFO - Processando: AGO_23.csv
+2025-11-06 00:43:49,766 - INFO -   - 95 registros em AGO/2023
+2025-11-06 00:43:49,767 - INFO - Processando: DEZ_20.csv
+2025-11-06 00:43:49,780 - INFO -   - 163 registros em DEZ/2020
+2025-11-06 00:43:49,781 - INFO - Processando: DEZ_21.csv
+2025-11-06 00:43:49,794 - INFO -   - 292 registros em DEZ/2021
+2025-11-06 00:43:49,794 - INFO - Processando: DEZ_22.csv
+2025-11-06 00:43:49,806 - INFO -   - 193 registros em DEZ/2022
+2025-11-06 00:43:49,806 - INFO - Processando: DEZ_23.csv
+2025-11-06 00:43:49,818 - INFO -   - 13 registros em DEZ/2023
+2025-11-06 00:43:49,819 - INFO - Processando: FEV_21.csv
+2025-11-06 00:43:49,831 - INFO -   - 182 registros em FEV/2021
+2025-11-06 00:43:49,831 - INFO - Processando: FEV_22.csv
+2025-11-06 00:43:49,843 - INFO -   - 210 registros em FEV/2022
+2025-11-06 00:43:49,844 - INFO - Processando: FEV_23.csv
+2025-11-06 00:43:49,862 - INFO -   - 110 registros em FEV/2023
+2025-11-06 00:43:49,879 - INFO - Processando: JAN_21.csv
+2025-11-06 00:43:49,905 - INFO -   - 205 registros em JAN/2021
+2025-11-06 00:43:49,905 - INFO - Processando: JAN_22.csv
+2025-11-06 00:43:49,918 - INFO -   - 246 registros em JAN/2022
+2025-11-06 00:43:49,918 - INFO - Processando: JAN_23.csv
+2025-11-06 00:43:49,921 - INFO -   - 135 registros em JAN/2023
+2025-11-06 00:43:49,921 - INFO - Processando: JUL_21.csv
+2025-11-06 00:43:49,934 - INFO -   - 227 registros em JUL/2021
+2025-11-06 00:43:49,935 - INFO - Processando: JUL_22.csv
+2025-11-06 00:43:49,947 - INFO -   - 200 registros em JUL/2022
+2025-11-06 00:43:49,948 - INFO - Processando: JUL_23.csv
+2025-11-06 00:43:49,960 - INFO -   - 93 registros em JUL/2023
+2025-11-06 00:43:49,960 - INFO - Processando: JUN_21.csv
+2025-11-06 00:43:49,973 - INFO -   - 196 registros em JUN/2021
+2025-11-06 00:43:49,973 - INFO - Processando: JUN_22.csv
+2025-11-06 00:43:49,986 - INFO -   - 193 registros em JUN/2022
+2025-11-06 00:43:49,986 - INFO - Processando: JUN_23.csv
+2025-11-06 00:43:50,000 - INFO -   - 131 registros em JUN/2023
+2025-11-06 00:43:50,000 - INFO - Processando: MAI_21.csv
+2025-11-06 00:43:50,014 - INFO -   - 185 registros em MAI/2021
+2025-11-06 00:43:50,014 - INFO - Processando: MAI_22.csv
+2025-11-06 00:43:50,026 - INFO -   - 203 registros em MAI/2022
+2025-11-06 00:43:50,026 - INFO - Processando: MAI_23.csv
+2025-11-06 00:43:50,039 - INFO -   - 108 registros em MAI/2023
+2025-11-06 00:43:50,039 - INFO - Processando: MAR_21.csv
+2025-11-06 00:43:50,052 - INFO -   - 191 registros em MAR/2021
+2025-11-06 00:43:50,052 - INFO - Processando: MAR_22.csv
+2025-11-06 00:43:50,065 - INFO -   - 212 registros em MAR/2022
+2025-11-06 00:43:50,065 - INFO - Processando: MAR_23.csv
+2025-11-06 00:43:50,077 - INFO -   - 124 registros em MAR/2023
+2025-11-06 00:43:50,077 - INFO - Processando: NOV23.csv
+2025-11-06 00:43:50,090 - INFO -   - 94 registros em NOV/2023
+2025-11-06 00:43:50,090 - INFO - Processando: NOV_20.csv
+2025-11-06 00:43:50,103 - INFO -   - 183 registros em NOV/2020
+2025-11-06 00:43:50,103 - INFO - Processando: NOV_21.csv
+2025-11-06 00:43:50,117 - INFO -   - 259 registros em NOV/2021
+2025-11-06 00:43:50,117 - INFO - Processando: NOV_22.csv
+2025-11-06 00:43:50,130 - INFO -   - 162 registros em NOV/2022
+2025-11-06 00:43:50,130 - INFO - Processando: OUT_20.csv
+2025-11-06 00:43:50,143 - INFO -   - 172 registros em OUT/2020
+2025-11-06 00:43:50,143 - INFO - Processando: OUT_21.csv
+2025-11-06 00:43:50,157 - INFO -   - 236 registros em OUT/2021
+2025-11-06 00:43:50,158 - INFO - Processando: OUT_22.csv
+2025-11-06 00:43:50,172 - INFO -   - 191 registros em OUT/2022
+2025-11-06 00:43:50,172 - INFO - Processando: OUT_23.csv
+2025-11-06 00:43:50,185 - INFO -   - 115 registros em OUT/2023
+2025-11-06 00:43:50,185 - INFO - Processando: SET_21.csv
+2025-11-06 00:43:50,198 - INFO -   - 235 registros em SET/2021
+2025-11-06 00:43:50,199 - INFO - Processando: SET_22.csv
+2025-11-06 00:43:50,212 - INFO -   - 224 registros em SET/2022
+2025-11-06 00:43:50,212 - INFO - Processando: SET_23.csv
+2025-11-06 00:43:50,226 - INFO -   - 92 registros em SET/2023
+2025-11-06 00:43:50,241 - INFO - Consolidação concluída: 6703 registros
+2025-11-06 00:43:50,241 - INFO - Removendo duplicatas...
+2025-11-06 00:43:50,244 - INFO - Duplicatas removidas: 35
+2025-11-06 00:43:50,292 - INFO - Arquivo consolidado salvo: d:\projetos\carne_facil\carne_facil\data\processados\movimento_caixa\movimento_caixa_consolidado_20251106_004350.csv
+2025-11-06 00:43:50,294 - INFO - Relatório salvo: d:\projetos\carne_facil\carne_facil\data\processados\movimento_caixa\relatorio_consolidacao_20251106_004350.txt
+2025-11-06 00:43:50,295 - INFO - === CONSOLIDAÇÃO CONCLUÍDA COM SUCESSO ===

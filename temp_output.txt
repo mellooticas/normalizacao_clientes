@@ -1,0 +1,33 @@
+D:\Program Files\Python313\Lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+================================================================================
+EXTRAÇÃO COMPLETA DE VENDAS - TODOS OS ARQUIVOS EXCEL
+================================================================================
+
+================================================================================
+LOJA: MAUA
+================================================================================
+
+Total de arquivos: 20
+
+Processando: abr_24.xlsx
+   Periodo: 04/2024
+Traceback (most recent call last):
+  File "D:\projetos\carne_facil\carne_facil\1_normalizacao\scripts\extrair_vendas_todos_excel.py", line 162, in <module>
+    print(f'   \u2705 Extraídas {vendas_arquivo} vendas')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program Files\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 3: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\projetos\carne_facil\carne_facil\1_normalizacao\scripts\extrair_vendas_todos_excel.py", line 169, in <module>
+    print(f'   \u274c Erro: {str(e)[:100]}')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program Files\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 3: character maps to <undefined>

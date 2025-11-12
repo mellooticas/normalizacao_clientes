@@ -1,0 +1,1047 @@
+{
+  "data_geracao": "2025-10-29",
+  "total_canais": 171,
+  "canais": [
+    {
+      "codigo": 1,
+      "nome": "REDE SOCIAL",
+      "categoria": "DIGITAL",
+      "uuid": "abe868a2-e462-4d01-969d-338cd1db900e"
+    },
+    {
+      "codigo": 2,
+      "nome": "SITE",
+      "categoria": "DIGITAL",
+      "uuid": "06ab4dc9-11ab-416e-91a1-e51b3c02d16d"
+    },
+    {
+      "codigo": 3,
+      "nome": "QUEM INDICA AMIGO É",
+      "categoria": "INDICACAO",
+      "uuid": "d71a5107-9088-4016-bf1f-9a42cf16409d"
+    },
+    {
+      "codigo": 4,
+      "nome": "JÁ É CLIENTE",
+      "categoria": "INDICACAO",
+      "uuid": "d8f4935d-6226-484b-a061-816efd307add"
+    },
+    {
+      "codigo": 5,
+      "nome": "PANFLETOS",
+      "categoria": "MARKETING",
+      "uuid": "f7856afe-c69f-402d-8e81-a8b890ca1b73"
+    },
+    {
+      "codigo": 6,
+      "nome": "EMPRESA ATENTO",
+      "categoria": "PARCERIA",
+      "uuid": "2df5d718-2388-4b3d-824d-481686e311f4"
+    },
+    {
+      "codigo": 7,
+      "nome": "DR ÁLVARO",
+      "categoria": "MEDICO",
+      "uuid": "8e5c8565-208f-4938-a9df-fc1aec2e2c5e"
+    },
+    {
+      "codigo": 8,
+      "nome": "TERMINAL SANTANA",
+      "categoria": "OUTROS",
+      "uuid": "709242cb-4d7d-45db-be68-e6f23c6ffc77"
+    },
+    {
+      "codigo": 9,
+      "nome": "CLINICA MED",
+      "categoria": "MEDICO",
+      "uuid": "2f57a988-6ee4-4637-a612-c10fc7f21872"
+    },
+    {
+      "codigo": 10,
+      "nome": "MAGAZINE LUIZA",
+      "categoria": "PARCERIA",
+      "uuid": "15d63509-98fb-4c3e-ac73-d544f89fb505"
+    },
+    {
+      "codigo": 100,
+      "nome": "TESTE",
+      "categoria": "OUTROS",
+      "uuid": "64dd4ea8-f919-458f-999b-8d0f7eae67a6"
+    },
+    {
+      "codigo": 101,
+      "nome": "DV JACIANE DINIZ",
+      "categoria": "DIVULGADOR",
+      "uuid": "a0fb4bf4-6e5b-4c15-9c95-789b183bf0a0"
+    },
+    {
+      "codigo": 102,
+      "nome": "DV ANDERSON KENION",
+      "categoria": "DIVULGADOR",
+      "uuid": "7490ef31-eb86-4efe-a18b-74950030d71d"
+    },
+    {
+      "codigo": 103,
+      "nome": "DV WESLLEY ABREU",
+      "categoria": "DIVULGADOR",
+      "uuid": "b7efa8b5-3d20-4b3b-885f-2bcf03aaca4d"
+    },
+    {
+      "codigo": 104,
+      "nome": "DV EMERSON DE JESUS",
+      "categoria": "DIVULGADOR",
+      "uuid": "de26e261-3c1d-49a8-b609-ef2c26f4aa3f"
+    },
+    {
+      "codigo": 105,
+      "nome": "SUPERMERCADO SÃO JOSE",
+      "categoria": "PARCERIA",
+      "uuid": "7a8b5d05-8c50-419f-81f3-4d28deb94114"
+    },
+    {
+      "codigo": 106,
+      "nome": "FEIRA VILA AMORIM",
+      "categoria": "PARCERIA",
+      "uuid": "98d84b5f-7f6a-41b1-8187-2ce2fc57bf1d"
+    },
+    {
+      "codigo": 107,
+      "nome": "LUIS FIO FOLHETOS",
+      "categoria": "OUTROS",
+      "uuid": "9541dc6b-79e8-4952-83ef-a4817781cff7"
+    },
+    {
+      "codigo": 108,
+      "nome": "DV BRYAN NASCIMENTO",
+      "categoria": "DIVULGADOR",
+      "uuid": "c7f1d3fe-1da9-4359-8d0f-8f9150464c2b"
+    },
+    {
+      "codigo": 109,
+      "nome": "PREVINA JORDANESIA",
+      "categoria": "OUTROS",
+      "uuid": "14b42bdf-849a-4877-88ba-8dd8d18324ab"
+    },
+    {
+      "codigo": 11,
+      "nome": "PASSAGEM",
+      "categoria": "ABORDAGEM",
+      "uuid": "68e0f96d-f0a8-4279-86fd-28f33326ba47"
+    },
+    {
+      "codigo": 110,
+      "nome": "PREFEITO NO SEU BAIRRO",
+      "categoria": "OUTROS",
+      "uuid": "5eb59ba2-e778-4d89-b42e-f99e70a7c93a"
+    },
+    {
+      "codigo": 111,
+      "nome": "BOLIVIANOS",
+      "categoria": "OUTROS",
+      "uuid": "0b0f23d6-1546-48bd-9d75-22ae3997b28d"
+    },
+    {
+      "codigo": 112,
+      "nome": "ELIS",
+      "categoria": "OUTROS",
+      "uuid": "f1599c20-68f7-4aae-9bf1-e727e4a9711a"
+    },
+    {
+      "codigo": 113,
+      "nome": "MARTINS LOCOCO",
+      "categoria": "OUTROS",
+      "uuid": "471710df-b89c-4c6d-9882-ff20bb821ef2"
+    },
+    {
+      "codigo": 114,
+      "nome": "HOSPITAL STELLA MARIS",
+      "categoria": "MEDICO",
+      "uuid": "1a43532d-47c1-4b2d-a452-76dad4f984ff"
+    },
+    {
+      "codigo": 115,
+      "nome": "FLORIPARK",
+      "categoria": "OUTROS",
+      "uuid": "eda29104-94ef-4860-b56f-c999bc9c0c4c"
+    },
+    {
+      "codigo": 116,
+      "nome": "RD ESP",
+      "categoria": "OUTROS",
+      "uuid": "5bb60fc5-d779-436a-92ef-e09bc365cc4c"
+    },
+    {
+      "codigo": 117,
+      "nome": "MINDBE",
+      "categoria": "OUTROS",
+      "uuid": "b84f75de-de72-44e2-b3ad-2276f811c4b8"
+    },
+    {
+      "codigo": 118,
+      "nome": "GUIMA",
+      "categoria": "OUTROS",
+      "uuid": "771809e6-0ed5-4981-ac23-4b116fe58f9f"
+    },
+    {
+      "codigo": 119,
+      "nome": "DR GUILHERME H J",
+      "categoria": "MEDICO",
+      "uuid": "fa815349-9eec-46c4-8f4c-b077402f821a"
+    },
+    {
+      "codigo": 12,
+      "nome": "CARRO DE SOM",
+      "categoria": "MARKETING",
+      "uuid": "d2ea6adc-2bcb-4dc3-9fcf-6e8627f44215"
+    },
+    {
+      "codigo": 120,
+      "nome": "CONVENIO INTERMÉDICA",
+      "categoria": "CONVENIO",
+      "uuid": "988c1546-635e-406a-9be2-77c4cda30ab0"
+    },
+    {
+      "codigo": 121,
+      "nome": "DR MARIA EUGENIA BUSCA",
+      "categoria": "MEDICO",
+      "uuid": "b1a0912d-ace5-40cf-8404-bbfa79a4b3a0"
+    },
+    {
+      "codigo": 122,
+      "nome": "DR MARCELO KENDI FUJII",
+      "categoria": "MEDICO",
+      "uuid": "2f0f277c-eea9-41ad-9274-6b353d65c7bd"
+    },
+    {
+      "codigo": 123,
+      "nome": "DR KIU SUB SHIN",
+      "categoria": "MEDICO",
+      "uuid": "254bb499-e501-4430-bb44-6394f4539d7e"
+    },
+    {
+      "codigo": 124,
+      "nome": "DR MARCUS TAKATSU",
+      "categoria": "MEDICO",
+      "uuid": "70840c12-1d2d-4780-9b30-f3a8844933b5"
+    },
+    {
+      "codigo": 125,
+      "nome": "DV THALITA ASSIS",
+      "categoria": "DIVULGADOR",
+      "uuid": "aea169db-21b1-4767-a6fb-3e2f7f91c9ea"
+    },
+    {
+      "codigo": 126,
+      "nome": "DV DENILSON",
+      "categoria": "DIVULGADOR",
+      "uuid": "bcb4d2af-0541-4b32-9b81-7f045be26501"
+    },
+    {
+      "codigo": 127,
+      "nome": "DV ANDERSON",
+      "categoria": "DIVULGADOR",
+      "uuid": "0e8d97a1-be1a-4d5b-8efe-53a2c9c1d6f7"
+    },
+    {
+      "codigo": 128,
+      "nome": "DV ROBSON OLIVEIRA",
+      "categoria": "DIVULGADOR",
+      "uuid": "132eb0c3-123c-4905-9600-4fdf383f1e48"
+    },
+    {
+      "codigo": 129,
+      "nome": "DV RAFAELA GOMES",
+      "categoria": "DIVULGADOR",
+      "uuid": "b524029f-87a5-43e1-b304-664a7d5df3d3"
+    },
+    {
+      "codigo": 13,
+      "nome": "VITRINE",
+      "categoria": "OUTROS",
+      "uuid": "bbdeefdb-eefb-474c-86db-98576299ca97"
+    },
+    {
+      "codigo": 130,
+      "nome": "DV JEAN LEANDRO",
+      "categoria": "DIVULGADOR",
+      "uuid": "9f1dc73c-eef3-4223-99d2-e264dfded512"
+    },
+    {
+      "codigo": 131,
+      "nome": "DV NIKE",
+      "categoria": "DIVULGADOR",
+      "uuid": "cfdd63ec-e949-4c8c-b24b-7b5759296435"
+    },
+    {
+      "codigo": 132,
+      "nome": "DV NATALIA",
+      "categoria": "DIVULGADOR",
+      "uuid": "0a98b982-e1af-42a8-a384-5e323ec15fdd"
+    },
+    {
+      "codigo": 133,
+      "nome": "DV LETICIA",
+      "categoria": "DIVULGADOR",
+      "uuid": "dd5ef344-3fbd-453f-92c9-441edef8d5f3"
+    },
+    {
+      "codigo": 134,
+      "nome": "INTERGALAXY SA",
+      "categoria": "OUTROS",
+      "uuid": "5395a65f-6f3d-4e30-a0ef-f448126e97e9"
+    },
+    {
+      "codigo": 135,
+      "nome": "DR BEATRIZ NAKAGOME",
+      "categoria": "MEDICO",
+      "uuid": "32b44322-1a0e-4a2c-b25b-00b89031c7a6"
+    },
+    {
+      "codigo": 136,
+      "nome": "DR GILVAN VILARINHO",
+      "categoria": "MEDICO",
+      "uuid": "9b7b0f05-86b0-4ffe-b5ab-982210ea10b7"
+    },
+    {
+      "codigo": 137,
+      "nome": "DR MARCOS VINICIUS PRADO",
+      "categoria": "MEDICO",
+      "uuid": "7c17b301-1b7f-49a2-8216-1e29559cfef2"
+    },
+    {
+      "codigo": 138,
+      "nome": "SAÚDE DOS OLHOS",
+      "categoria": "MEDICO",
+      "uuid": "a14a2eac-53ec-40d5-a1b6-c218006503f6"
+    },
+    {
+      "codigo": 139,
+      "nome": "DR JOÃO VICTOR RAMOS DE TOLEDO",
+      "categoria": "MEDICO",
+      "uuid": "bda66e19-69b9-40bf-8573-da8f008a66fe"
+    },
+    {
+      "codigo": 14,
+      "nome": "PLACA DE LOJA",
+      "categoria": "MARKETING",
+      "uuid": "25e79af4-17e9-4235-8e6d-90a6bfd75540"
+    },
+    {
+      "codigo": 140,
+      "nome": "DR ALEXANDRE TOMIO UMINO",
+      "categoria": "MEDICO",
+      "uuid": "d0c3f201-2d18-4f60-974d-2953c33f7344"
+    },
+    {
+      "codigo": 141,
+      "nome": "DR ALLAN GOMES DA SILVA",
+      "categoria": "MEDICO",
+      "uuid": "99d81798-6598-4717-8f0a-f7e331523428"
+    },
+    {
+      "codigo": 142,
+      "nome": "DR AMANDA A VV DE CASTRO",
+      "categoria": "MEDICO",
+      "uuid": "7ab9a463-1f01-4b34-86c2-2d2b1639f5a1"
+    },
+    {
+      "codigo": 143,
+      "nome": "DR GABRIEL CASTILHO SANDOVAL",
+      "categoria": "MEDICO",
+      "uuid": "0233c9b7-08ac-4895-819b-d2842276b57c"
+    },
+    {
+      "codigo": 144,
+      "nome": "DR MAURICIO FLANK",
+      "categoria": "MEDICO",
+      "uuid": "4e935cc0-bc84-4a72-9d06-04d0eb3444cb"
+    },
+    {
+      "codigo": 145,
+      "nome": "INTS",
+      "categoria": "OUTROS",
+      "uuid": "aaf7ec6c-38a0-44e2-97e1-3c49e2effc84"
+    },
+    {
+      "codigo": 146,
+      "nome": "DR MARCIA FERRARI PEREZ",
+      "categoria": "MEDICO",
+      "uuid": "2dd30e98-447d-438a-95a4-5fb837ab13ab"
+    },
+    {
+      "codigo": 147,
+      "nome": "INSTITUTO SUEL ABUJAMRA",
+      "categoria": "OUTROS",
+      "uuid": "439e1731-4e91-49e6-b82d-1f12faf64c31"
+    },
+    {
+      "codigo": 149,
+      "nome": "RADIO ÔMEGA",
+      "categoria": "RADIO",
+      "uuid": "ddb9b0a3-1171-46e6-a96c-b44bd4028a2b"
+    },
+    {
+      "codigo": 15,
+      "nome": "ORÇAMENTO",
+      "categoria": "OUTROS",
+      "uuid": "b7c80865-bd26-4253-849f-1932f3feb607"
+    },
+    {
+      "codigo": 150,
+      "nome": "DR CRISTINA FREIRE",
+      "categoria": "MEDICO",
+      "uuid": "7e3706b7-bf5c-493b-aac1-23edb01bf98c"
+    },
+    {
+      "codigo": 151,
+      "nome": "ARKIMEDES CENTRO MÉDICO",
+      "categoria": "MEDICO",
+      "uuid": "7a63b302-1ad9-4008-9041-536455668867"
+    },
+    {
+      "codigo": 152,
+      "nome": "GOOGLE/FACE/INSTA - PATROCÍNIO",
+      "categoria": "DIGITAL",
+      "uuid": "04ad35d2-cd24-415b-852c-c9203bddd833"
+    },
+    {
+      "codigo": 153,
+      "nome": "DR CAROLINA REZENDE",
+      "categoria": "MEDICO",
+      "uuid": "8174f746-0f9e-40a4-a2e9-390fa9cfc886"
+    },
+    {
+      "codigo": 154,
+      "nome": "DR GUILHERME  M.KAPPEL",
+      "categoria": "MEDICO",
+      "uuid": "29c5a511-7698-4db2-aa28-b7bd78ccf9f0"
+    },
+    {
+      "codigo": 155,
+      "nome": "DR WALTHER CAMPOS NETO",
+      "categoria": "MEDICO",
+      "uuid": "017b6295-c5bf-43ee-b8c8-9cab19d3a00c"
+    },
+    {
+      "codigo": 156,
+      "nome": "DR ANESIO RUIZ",
+      "categoria": "MEDICO",
+      "uuid": "9ac5be31-cd0a-439c-afc3-c243df4de4a0"
+    },
+    {
+      "codigo": 157,
+      "nome": "DR LIVIA FERRAZ",
+      "categoria": "MEDICO",
+      "uuid": "4c2c7207-dc2a-454e-bab8-193ddb8df5b5"
+    },
+    {
+      "codigo": 158,
+      "nome": "TRANSPPASS",
+      "categoria": "OUTROS",
+      "uuid": "a87cff4c-2893-4fa3-b55c-0f97591c5501"
+    },
+    {
+      "codigo": 159,
+      "nome": "CLINICA DIMEG",
+      "categoria": "MEDICO",
+      "uuid": "70f07f01-53e8-4632-b7e2-e85ff75550bc"
+    },
+    {
+      "codigo": 16,
+      "nome": "INDICAÇÃO",
+      "categoria": "INDICACAO",
+      "uuid": "6a71ed7c-0a9a-4c6b-87a1-878292507ab3"
+    },
+    {
+      "codigo": 160,
+      "nome": "CONVENIO PARTMED",
+      "categoria": "CONVENIO",
+      "uuid": "27b009ac-5144-4861-8b1b-e7462545a0ab"
+    },
+    {
+      "codigo": 161,
+      "nome": "OUTRA LOJA",
+      "categoria": "INDICACAO",
+      "uuid": "3211e1c4-48de-4886-9be5-8717bff60818"
+    },
+    {
+      "codigo": 162,
+      "nome": "DR GUILHERME S. MOTTA",
+      "categoria": "MEDICO",
+      "uuid": "815fc461-9cdd-4a89-a841-3482b963aef0"
+    },
+    {
+      "codigo": 163,
+      "nome": "IGREJA PLENITUDE",
+      "categoria": "RELIGIOSO",
+      "uuid": "205fd0e6-c82a-4a0b-a650-d0efe2ad058e"
+    },
+    {
+      "codigo": 164,
+      "nome": "CAMPANHA COMPRE 1 LEVE 3",
+      "categoria": "MARKETING",
+      "uuid": "501e0018-6756-49ff-a461-00da3266e180"
+    },
+    {
+      "codigo": 165,
+      "nome": "CAMPANHA NINJAS",
+      "categoria": "MARKETING",
+      "uuid": "42d5d6f6-5919-4ed0-8eb7-b1f884c74703"
+    },
+    {
+      "codigo": 166,
+      "nome": "DV BRUNA RAFAELLA DA SILVA",
+      "categoria": "DIVULGADOR",
+      "uuid": "a9f5deda-8f4a-4ec1-96d4-7d610d2702c9"
+    },
+    {
+      "codigo": 167,
+      "nome": "DV GRAZIELA SANTOS FERREIRA",
+      "categoria": "DIVULGADOR",
+      "uuid": "6058ee92-1d45-4196-830f-ec4686692bba"
+    },
+    {
+      "codigo": 168,
+      "nome": "DV TAIS CARDOSO",
+      "categoria": "DIVULGADOR",
+      "uuid": "9dc8d9cd-cf21-4129-b7a2-af2011c13728"
+    },
+    {
+      "codigo": 169,
+      "nome": "DV DOUGLAS JESUS DA SILVA",
+      "categoria": "DIVULGADOR",
+      "uuid": "4c9995a2-c585-4956-8150-8d1aed4d17ab"
+    },
+    {
+      "codigo": 17,
+      "nome": "ABORDAGEM",
+      "categoria": "ABORDAGEM",
+      "uuid": "0f34df74-93d2-4817-ac1d-d1a2b6f77c78"
+    },
+    {
+      "codigo": 170,
+      "nome": "PENITENCIARIA FEM SÃO PAULO",
+      "categoria": "OUTROS",
+      "uuid": "5ba76386-f46d-4f29-8fbf-3f2216939548"
+    },
+    {
+      "codigo": 171,
+      "nome": "KOMBOS",
+      "categoria": "OUTROS",
+      "uuid": "b055deac-9a76-45d3-9762-32af80573fd0"
+    },
+    {
+      "codigo": 172,
+      "nome": "CAMPANHA LYOR",
+      "categoria": "MARKETING",
+      "uuid": "e4b03b40-f564-4f2e-8e25-a87121548237"
+    },
+    {
+      "codigo": 18,
+      "nome": "RADIO TROPICAL",
+      "categoria": "RADIO",
+      "uuid": "ccd54f11-c9b8-47f5-8b1b-b2023e5f2b01"
+    },
+    {
+      "codigo": 19,
+      "nome": "CARRETA",
+      "categoria": "OUTROS",
+      "uuid": "715b33a7-28c5-48b2-a900-65c19fc8c5ff"
+    },
+    {
+      "codigo": 20,
+      "nome": "RADIO ESPERANCA",
+      "categoria": "RADIO",
+      "uuid": "43c29836-ebdc-4c01-8593-1c9b3a56f0cb"
+    },
+    {
+      "codigo": 21,
+      "nome": "TELEMARKETING",
+      "categoria": "ABORDAGEM",
+      "uuid": "48959092-6a20-439c-8fe0-24432e70e385"
+    },
+    {
+      "codigo": 22,
+      "nome": "OUTDOOR",
+      "categoria": "MARKETING",
+      "uuid": "c0ea407e-3fcf-4432-9c55-ed2281ca0fb5"
+    },
+    {
+      "codigo": 23,
+      "nome": "CAMPANHA VADO",
+      "categoria": "MARKETING",
+      "uuid": "5b1f187c-6041-4ba4-9197-0351b8b40fdd"
+    },
+    {
+      "codigo": 24,
+      "nome": "CLINICA",
+      "categoria": "MEDICO",
+      "uuid": "5d26b48f-0d65-4c64-8310-138d4c4ce5e6"
+    },
+    {
+      "codigo": 25,
+      "nome": "DR EDSON",
+      "categoria": "MEDICO",
+      "uuid": "fb2292e4-27b9-45e4-8081-fe33d0b7a7ad"
+    },
+    {
+      "codigo": 26,
+      "nome": "DROGARIA SÃO PAULO",
+      "categoria": "FARMACIA",
+      "uuid": "1e6265af-34a2-4855-8af0-17f4083762b0"
+    },
+    {
+      "codigo": 27,
+      "nome": "DROGARIA SUPERMED",
+      "categoria": "FARMACIA",
+      "uuid": "5ac12c06-6f1b-4063-8253-103ab54e7160"
+    },
+    {
+      "codigo": 28,
+      "nome": "DROGARIA DROGALIS",
+      "categoria": "FARMACIA",
+      "uuid": "455a8516-8b12-40e0-b5cb-92048ea1ecba"
+    },
+    {
+      "codigo": 29,
+      "nome": "SIND SINETROSV",
+      "categoria": "INSTITUCIONAL",
+      "uuid": "658d82fd-4819-4c32-a02e-3fe3a5d16654"
+    },
+    {
+      "codigo": 30,
+      "nome": "MEDILINE ASSISTENCIA",
+      "categoria": "OUTROS",
+      "uuid": "78a2248c-de8a-4406-afcc-136bc9e8003e"
+    },
+    {
+      "codigo": 31,
+      "nome": "SIND CORREIOS",
+      "categoria": "INSTITUCIONAL",
+      "uuid": "6a9c003c-5e60-4a00-ba87-49f15ba3b309"
+    },
+    {
+      "codigo": 32,
+      "nome": "IAMSPE",
+      "categoria": "OUTROS",
+      "uuid": "e9295138-93dd-4766-b0df-1e246bfe79d5"
+    },
+    {
+      "codigo": 33,
+      "nome": "OPEN LINE",
+      "categoria": "OUTROS",
+      "uuid": "c5a04a4e-53a1-4867-a397-93cb9c02fe9e"
+    },
+    {
+      "codigo": 34,
+      "nome": "ABMED",
+      "categoria": "OUTROS",
+      "uuid": "437e3806-dfcf-4891-b003-5d2eff82c3d2"
+    },
+    {
+      "codigo": 35,
+      "nome": "CLUB GOLD STAR",
+      "categoria": "OUTROS",
+      "uuid": "28c4e4a5-a82f-44c4-9bb6-424343160801"
+    },
+    {
+      "codigo": 36,
+      "nome": "VALE SAUDE JEQUITI",
+      "categoria": "OUTROS",
+      "uuid": "8d0b0865-6bcf-489b-980e-5478c56b72e8"
+    },
+    {
+      "codigo": 37,
+      "nome": "SIND SINDSERVITA",
+      "categoria": "INSTITUCIONAL",
+      "uuid": "0dea79f0-86e7-4691-9d31-39478e05da92"
+    },
+    {
+      "codigo": 38,
+      "nome": "DIVULGADOR",
+      "categoria": "DIVULGADOR",
+      "uuid": "120378ae-6cb8-4763-84ee-16c9984c67c1"
+    },
+    {
+      "codigo": 39,
+      "nome": "DV BARBARA MATOS",
+      "categoria": "DIVULGADOR",
+      "uuid": "45c80de7-1f50-4706-9a7d-23ae11924df4"
+    },
+    {
+      "codigo": 40,
+      "nome": "SIND SINTRAMMSP",
+      "categoria": "INSTITUCIONAL",
+      "uuid": "a529868a-5c2d-4f6e-a45d-1237d15dae03"
+    },
+    {
+      "codigo": 41,
+      "nome": "SEGUROS UNIMED",
+      "categoria": "CONVENIO",
+      "uuid": "fb315d0c-3663-4d20-9677-6f05c70da677"
+    },
+    {
+      "codigo": 42,
+      "nome": "AMEPLAN",
+      "categoria": "OUTROS",
+      "uuid": "a7ad8056-8c5e-4d4a-a8d2-1df24bd441d1"
+    },
+    {
+      "codigo": 43,
+      "nome": "CRUZ AZUL",
+      "categoria": "OUTROS",
+      "uuid": "8c913e35-b471-46ee-bf3f-40069ef2b644"
+    },
+    {
+      "codigo": 44,
+      "nome": "CONVENIO FL",
+      "categoria": "CONVENIO",
+      "uuid": "ae3e4828-b4b6-4d52-a7eb-bf5437e601f9"
+    },
+    {
+      "codigo": 45,
+      "nome": "RADIO ADORE FM",
+      "categoria": "RADIO",
+      "uuid": "8983f4f5-fec5-4d80-8082-8dcac4c4ee23"
+    },
+    {
+      "codigo": 46,
+      "nome": "CONVENIO JASON",
+      "categoria": "CONVENIO",
+      "uuid": "fdabd3cd-1ba0-4152-8771-05bb866c8f5b"
+    },
+    {
+      "codigo": 47,
+      "nome": "DV NAYARA COSTA",
+      "categoria": "DIVULGADOR",
+      "uuid": "d1b843e6-7d37-4146-bfa8-39489a36e3b4"
+    },
+    {
+      "codigo": 48,
+      "nome": "RX DE FORA",
+      "categoria": "OUTROS",
+      "uuid": "f74db1ab-c63c-4b7a-bc5b-7422875aab35"
+    },
+    {
+      "codigo": 49,
+      "nome": "ALEFARMA",
+      "categoria": "FARMACIA",
+      "uuid": "be28b84f-a99c-402d-bf67-384a2d78e482"
+    },
+    {
+      "codigo": 50,
+      "nome": "PROGRAMA SHOW",
+      "categoria": "OUTROS",
+      "uuid": "9c127565-6841-4120-8cc3-06db34fd75b0"
+    },
+    {
+      "codigo": 51,
+      "nome": "NOVA X",
+      "categoria": "OUTROS",
+      "uuid": "80494142-6a31-4e6e-8d31-7812465dcc11"
+    },
+    {
+      "codigo": 52,
+      "nome": "DROGARIA CAMPEA",
+      "categoria": "FARMACIA",
+      "uuid": "8e169657-e3f3-498f-9c40-309711cd293e"
+    },
+    {
+      "codigo": 53,
+      "nome": "SANTA TEREZINHA ASSOCIAÇÃO",
+      "categoria": "OUTROS",
+      "uuid": "1c45dd34-eca4-440a-a7ad-1469e693d8ae"
+    },
+    {
+      "codigo": 54,
+      "nome": "PREFEITURA",
+      "categoria": "INSTITUCIONAL",
+      "uuid": "3cd4dc88-7476-4c62-8684-5b9e31fd2d7d"
+    },
+    {
+      "codigo": 55,
+      "nome": "CARTAO DE TODOS",
+      "categoria": "OUTROS",
+      "uuid": "518b9cc8-59de-4887-927e-0bcd4f30c1a1"
+    },
+    {
+      "codigo": 56,
+      "nome": "PLENA SAÚDE",
+      "categoria": "MEDICO",
+      "uuid": "1a381ab9-17e7-4907-af11-1ba06734de3d"
+    },
+    {
+      "codigo": 57,
+      "nome": "SUBPREFEITURA",
+      "categoria": "INSTITUCIONAL",
+      "uuid": "d708709e-54cc-4dcf-86cd-b1ca909a5a40"
+    },
+    {
+      "codigo": 58,
+      "nome": "CARTÃO INDICAÇÃO",
+      "categoria": "INDICACAO",
+      "uuid": "966b912d-2330-43a4-b5ed-1dbf9ace452f"
+    },
+    {
+      "codigo": 59,
+      "nome": "SITAP - LINEX",
+      "categoria": "OUTROS",
+      "uuid": "245a43ab-0e12-4ace-938c-3040bbca576a"
+    },
+    {
+      "codigo": 60,
+      "nome": "ASSEMBLEIA DE DEUS",
+      "categoria": "RELIGIOSO",
+      "uuid": "70349148-fbf1-4ed2-9d61-44a398bb0bb1"
+    },
+    {
+      "codigo": 61,
+      "nome": "INDICAÇÃO CONVÊNIO PREFEITURA",
+      "categoria": "INDICACAO",
+      "uuid": "de3ce605-f83e-4b26-bb57-01ce8fac25ad"
+    },
+    {
+      "codigo": 62,
+      "nome": "CONVENIO MWI",
+      "categoria": "CONVENIO",
+      "uuid": "245bf991-8378-4233-a747-efb1aae76c0a"
+    },
+    {
+      "codigo": 63,
+      "nome": "1ª COMPRA",
+      "categoria": "OUTROS",
+      "uuid": "f6a931ec-21db-4f11-9f9a-774cf43a01e9"
+    },
+    {
+      "codigo": 64,
+      "nome": "CONVENIO FAN",
+      "categoria": "CONVENIO",
+      "uuid": "9f73eeff-22ed-4283-865c-a3c2833d3795"
+    },
+    {
+      "codigo": 65,
+      "nome": "VISIOTESTE",
+      "categoria": "OUTROS",
+      "uuid": "708b0b04-42e7-41e6-a924-8407d47e12bb"
+    },
+    {
+      "codigo": 66,
+      "nome": "CLINICA ALPHA VISION",
+      "categoria": "MEDICO",
+      "uuid": "153b0222-2948-432d-b26b-9b633d1428b7"
+    },
+    {
+      "codigo": 67,
+      "nome": "DV JOÃO PAULO",
+      "categoria": "DIVULGADOR",
+      "uuid": "5495f595-2d64-4e26-b8b7-69d22be870c5"
+    },
+    {
+      "codigo": 68,
+      "nome": "RADIO NOVA X 103.1",
+      "categoria": "RADIO",
+      "uuid": "6e55a821-8248-440f-af42-6b53f375f936"
+    },
+    {
+      "codigo": 69,
+      "nome": "RADIO REDE UNÇÃO 96.5",
+      "categoria": "RADIO",
+      "uuid": "93e45709-a824-4e12-8475-09b7c12c0634"
+    },
+    {
+      "codigo": 70,
+      "nome": "DV SUELEN RODRIGUES",
+      "categoria": "DIVULGADOR",
+      "uuid": "a7bb9956-54f1-4f0d-84c3-ee8bee798eda"
+    },
+    {
+      "codigo": 71,
+      "nome": "DV GABRIELA SILVA",
+      "categoria": "DIVULGADOR",
+      "uuid": "b8f6a97c-b862-4ee9-b774-e978cc8ea0be"
+    },
+    {
+      "codigo": 72,
+      "nome": "ULTRASOM",
+      "categoria": "OUTROS",
+      "uuid": "cb60b851-f745-4cdf-9adc-feb8a74cfca5"
+    },
+    {
+      "codigo": 73,
+      "nome": "RADIO ATALAIA",
+      "categoria": "RADIO",
+      "uuid": "be1dcad0-3881-4ed1-b343-69d9a5cbd03c"
+    },
+    {
+      "codigo": 74,
+      "nome": "DV MIKELY FORTALEZA",
+      "categoria": "DIVULGADOR",
+      "uuid": "d3348120-f108-4cca-a3fd-6543ad803b39"
+    },
+    {
+      "codigo": 75,
+      "nome": "DR RAFAEL BORGES",
+      "categoria": "MEDICO",
+      "uuid": "218eb2ff-df6a-40f3-ab60-941a09129c0e"
+    },
+    {
+      "codigo": 76,
+      "nome": "DR RENATO MACCIONE",
+      "categoria": "MEDICO",
+      "uuid": "429c048b-2b6d-4814-a04a-063e8f18b244"
+    },
+    {
+      "codigo": 77,
+      "nome": "AMIGOS",
+      "categoria": "INDICACAO",
+      "uuid": "e196578e-2cab-49fc-8ecd-530be7abf70d"
+    },
+    {
+      "codigo": 78,
+      "nome": "DR RAFAEL PIVATTO",
+      "categoria": "MEDICO",
+      "uuid": "dff22673-5a5c-4444-ba71-a4b9f7c21c30"
+    },
+    {
+      "codigo": 79,
+      "nome": "SUS",
+      "categoria": "INSTITUCIONAL",
+      "uuid": "64922d96-e0b9-4a26-944c-5ae17417a995"
+    },
+    {
+      "codigo": 80,
+      "nome": "CESTA BÁSICA",
+      "categoria": "OUTROS",
+      "uuid": "e3cbad79-42dc-4968-8ad0-a7d6b0219c00"
+    },
+    {
+      "codigo": 81,
+      "nome": "ADEASP",
+      "categoria": "OUTROS",
+      "uuid": "4ff53bf6-7f5c-4e5d-9880-2fb5603ba169"
+    },
+    {
+      "codigo": 82,
+      "nome": "RADIO IMPRENSA FM",
+      "categoria": "RADIO",
+      "uuid": "bb64ce7f-f560-4105-9937-dc1029611fa2"
+    },
+    {
+      "codigo": 83,
+      "nome": "RADIO TERRA",
+      "categoria": "RADIO",
+      "uuid": "b1da2af4-4aad-4a7e-bb6c-583ff08b156a"
+    },
+    {
+      "codigo": 84,
+      "nome": "PROJETO CUIDAR",
+      "categoria": "OUTROS",
+      "uuid": "f5eae224-7d81-448e-9e95-bddeff8fe9a1"
+    },
+    {
+      "codigo": 85,
+      "nome": "CONVENIO INTERMÉDICA",
+      "categoria": "CONVENIO",
+      "uuid": "fad47b90-8520-423a-84ed-155ddc969579"
+    },
+    {
+      "codigo": 86,
+      "nome": "BIO SAÚDE",
+      "categoria": "MEDICO",
+      "uuid": "61bbfd37-5bf9-41ac-86ff-59acd1a6357c"
+    },
+    {
+      "codigo": 87,
+      "nome": "CARTÃO COMPLETO",
+      "categoria": "MARKETING",
+      "uuid": "036ef220-07da-4e79-af43-a54573e8eb38"
+    },
+    {
+      "codigo": 88,
+      "nome": "DV VICTOR HUGO",
+      "categoria": "DIVULGADOR",
+      "uuid": "2c3d43eb-6792-4857-a384-8b2eb2019e84"
+    },
+    {
+      "codigo": 89,
+      "nome": "RADIO FÉ 101.5",
+      "categoria": "RADIO",
+      "uuid": "eaa240d6-bd79-49ad-a498-2125f752f6be"
+    },
+    {
+      "codigo": 90,
+      "nome": "DV LARISSA SILVA",
+      "categoria": "DIVULGADOR",
+      "uuid": "c336e218-f9b1-438d-9e05-d88d2788382e"
+    },
+    {
+      "codigo": 91,
+      "nome": "DV LARISSA COSTA",
+      "categoria": "DIVULGADOR",
+      "uuid": "72ef1d14-abbc-4283-81c3-9c13b5de533c"
+    },
+    {
+      "codigo": 92,
+      "nome": "DV MARIANA COSTA",
+      "categoria": "DIVULGADOR",
+      "uuid": "b38270ad-3236-47b6-81d1-35be269021ca"
+    },
+    {
+      "codigo": 93,
+      "nome": "DV MAICON OLIVEIRA",
+      "categoria": "DIVULGADOR",
+      "uuid": "7828f3c9-d005-4225-adbf-458f20c1f525"
+    },
+    {
+      "codigo": 94,
+      "nome": "DV ERICK ANJOS",
+      "categoria": "DIVULGADOR",
+      "uuid": "36a9db95-f171-4a74-8f26-3391b705beca"
+    },
+    {
+      "codigo": 95,
+      "nome": "DV ALINE CRUZ",
+      "categoria": "DIVULGADOR",
+      "uuid": "bfa09302-eb7f-427a-9fd9-c5e377cfce40"
+    },
+    {
+      "codigo": 96,
+      "nome": "DROGARIA DROGASIL",
+      "categoria": "FARMACIA",
+      "uuid": "662a0d93-c9ff-4ccb-973c-ac9821722fff"
+    },
+    {
+      "codigo": 97,
+      "nome": "LOJA FECHADA",
+      "categoria": "OUTROS",
+      "uuid": "63b34d36-d631-4cb5-981b-32d0e8729501"
+    },
+    {
+      "codigo": 98,
+      "nome": "WHATSAPP",
+      "categoria": "DIGITAL",
+      "uuid": "9d74fc0a-11c1-4a1e-b11d-fd0207cd2f87"
+    },
+    {
+      "codigo": 99,
+      "nome": "OUTROS",
+      "categoria": "OUTROS",
+      "uuid": "6e86d96a-121b-45e6-a1a4-2848e6d59f85"
+    }
+  ],
+  "categorias": {
+    "DIGITAL": 4,
+    "INDICACAO": 7,
+    "MARKETING": 9,
+    "PARCERIA": 4,
+    "MEDICO": 36,
+    "OUTROS": 43,
+    "DIVULGADOR": 32,
+    "ABORDAGEM": 3,
+    "CONVENIO": 8,
+    "RADIO": 10,
+    "RELIGIOSO": 2,
+    "FARMACIA": 6,
+    "INSTITUCIONAL": 7
+  }
+}

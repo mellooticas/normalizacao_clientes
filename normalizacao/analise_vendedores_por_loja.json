@@ -1,0 +1,303 @@
+{
+  "data_analise": "2025-10-29T14:17:51.581144",
+  "vendedores_supabase": {
+    "Mauá": {
+      "BETH": [
+        "BETH",
+        "MARIA ELIZABETH",
+        "MARIA ELIZEBETH"
+      ],
+      "LARISSA": [
+        "LARISSA"
+      ],
+      "ROGÉRIO": [
+        "ROGÉRIO"
+      ],
+      "TATY": [
+        "TATY"
+      ],
+      "WEVILLY": [
+        "WEVILLY"
+      ],
+      "OUTROS": [
+        "ANDRESSA DE SOUZA",
+        "B ETH",
+        "ERICA DE CASSIA JESUS SILVA",
+        "GARANTIA",
+        "LUANA",
+        "MARIA DA SILVA OZORIO",
+        "RENAN NAZARO",
+        "WEVELLY"
+      ]
+    },
+    "Perus": {
+      "ERIKA": [
+        "ERIKA",
+        "ÉRIKA"
+      ],
+      "LARISSA": [
+        "LARISSA"
+      ],
+      "ROGÉRIO": [
+        "ROGERIO",
+        "ROGÉRIO"
+      ],
+      "TATY": [
+        "TATY",
+        "TATY/ERIKA"
+      ],
+      "WEVILLY": [
+        "WEVILLY"
+      ],
+      "OUTROS": [
+        "ANA",
+        "ARIANI",
+        "JOANA",
+        "LUANA",
+        "MARIA",
+        "NAN",
+        "SAMUEL",
+        "SANDY",
+        "WILLIAM",
+        "WILLIAN"
+      ]
+    },
+    "Rio Pequeno": {
+      "LARISSA": [
+        "LARISSA"
+      ],
+      "ROGÉRIO": [
+        "ROGERIO",
+        "ROGÉRIO"
+      ],
+      "TATY": [
+        "TATY"
+      ],
+      "WEVILLY": [
+        "WEVILLY"
+      ],
+      "OUTROS": [
+        "BRUNO",
+        "GARANTIA",
+        "KEREN",
+        "MARIA RAMOS",
+        "R0GERIO",
+        "ROSAGELA",
+        "ROSANGELA",
+        "ROSÂNGELA",
+        "ROSÃNGELA",
+        "ROSÃÑGELA",
+        "ROSNGELA"
+      ]
+    },
+    "São Mateus": {
+      "LARISSA": [
+        "LARISSA"
+      ],
+      "ROGÉRIO": [
+        "ROGERIO",
+        "ROGÉRIO"
+      ],
+      "TATY": [
+        "TATI",
+        "TATY",
+        "WEVILLY/TATY"
+      ],
+      "WEVILLY": [
+        "WEVELLY",
+        "WEVILLY"
+      ],
+      "OUTROS": [
+        "/////////////////////////",
+        "ARIANI",
+        "CHINASA DORIS",
+        "GARANTIA",
+        "JOANA",
+        "MARIA",
+        "SANDY",
+        "WILLAM",
+        "WILLIAM",
+        "WILLIAN"
+      ]
+    },
+    "Suzano": {
+      "BETH": [
+        "BETH"
+      ],
+      "FELIPE": [
+        "FELIPE"
+      ],
+      "LARISSA": [
+        "LARISSA"
+      ],
+      "ROGÉRIO": [
+        "ROGERIO",
+        "ROGÉRIO"
+      ],
+      "TATY": [
+        "TATI",
+        "TATY"
+      ],
+      "OUTROS": [
+        "ARIANE",
+        "ARIANI",
+        "GARANTIA",
+        "GUILHERME SILVA",
+        "JOCI",
+        "JOCXY",
+        "JOCY",
+        "KAYLLAINE",
+        "NAN",
+        "PIX",
+        "SAMUEL",
+        "TATRY",
+        "WILLAM",
+        "WILLIAM",
+        "WILLIAN",
+        "ZAINE"
+      ]
+    },
+    "Suzano 2": {
+      "ERIKA": [
+        "ERIKA",
+        "ÉRIKA"
+      ],
+      "FELIPE": [
+        "FELIPE",
+        "FELIPE MIRANDA",
+        "FELIPE MIRANDFA"
+      ],
+      "ROGÉRIO": [
+        "ROGÉRIO"
+      ],
+      "TATY": [
+        "TATY"
+      ],
+      "WEVILLY": [
+        "WEVILLY"
+      ],
+      "OUTROS": [
+        "ADRIANA ANSELMO",
+        "CARLA CRISTINA",
+        "ERICA",
+        "GARANTIA",
+        "JULIANA CERA",
+        "KAYLANE",
+        "MARIA",
+        "MARIA / GARANTIA",
+        "MARIA DE LOURDES",
+        "NAN",
+        "SAMUEL",
+        "WILLIAM",
+        "ZAINE"
+      ]
+    }
+  },
+  "nossos_vendedores": {
+    "MAUA": [
+      "BETH",
+      "FELIPE",
+      "WEVILLY",
+      "TATY",
+      "LARISSA"
+    ],
+    "PERUS": [
+      "ERIKA",
+      "LARISSA",
+      "ROGÉRIO",
+      "TATY",
+      "WEVILLY"
+    ],
+    "RIO_PEQUENO": [
+      "LARISSA",
+      "ROGÉRIO",
+      "TATY",
+      "WEVILLY"
+    ],
+    "SAO_MATEUS": [
+      "ARIANI DIAS FERNANDES CARDOSO",
+      "LARISSA",
+      "ROGÉRIO",
+      "TATY",
+      "WEVILLY"
+    ],
+    "SUZANO2": [
+      "BETH",
+      "FELIPE",
+      "TATY",
+      "WEVILLY"
+    ],
+    "SUZANO": [
+      "ARIANI DIAS FERNANDES CARDOSO",
+      "BETH",
+      "BRUNA",
+      "ERIKA",
+      "FELIPE",
+      "JOCICREIDE BARBOSA",
+      "ROGÉRIO",
+      "ROSÂNGELA",
+      "THIAGO VINICIUS"
+    ]
+  },
+  "mapeamento_lojas": {
+    "MAUA": "Mauá",
+    "PERUS": "Perus",
+    "RIO_PEQUENO": "Rio Pequeno",
+    "SAO_MATEUS": "São Mateus",
+    "SUZANO2": "Suzano 2",
+    "SUZANO": "Suzano"
+  },
+  "distribuicao_vendedores": {
+    "BETH": [
+      "Mauá",
+      "Suzano"
+    ],
+    "LARISSA": [
+      "Mauá",
+      "Perus",
+      "Rio Pequeno",
+      "São Mateus",
+      "Suzano"
+    ],
+    "ROGÉRIO": [
+      "Mauá",
+      "Perus",
+      "Rio Pequeno",
+      "São Mateus",
+      "Suzano",
+      "Suzano 2"
+    ],
+    "TATY": [
+      "Mauá",
+      "Perus",
+      "Rio Pequeno",
+      "São Mateus",
+      "Suzano",
+      "Suzano 2"
+    ],
+    "WEVILLY": [
+      "Mauá",
+      "Perus",
+      "Rio Pequeno",
+      "São Mateus",
+      "Suzano 2"
+    ],
+    "ERIKA": [
+      "Perus",
+      "Suzano 2"
+    ],
+    "FELIPE": [
+      "Suzano",
+      "Suzano 2"
+    ]
+  },
+  "casos_especiais": {
+    "BETH": "Apenas Mauá e Suzano",
+    "FELIPE": "Apenas Suzano e Suzano 2",
+    "ERIKA": "Apenas Perus e Suzano 2",
+    "ROGÉRIO": "Presente em 4 lojas (exceto Mauá e Suzano 2)",
+    "LARISSA": "Presente em 4 lojas (exceto Suzano 2)",
+    "TATY": "Presente em 5 lojas (exceto Suzano 2)",
+    "WEVILLY": "Presente em 4 lojas (exceto Mauá)"
+  }
+}

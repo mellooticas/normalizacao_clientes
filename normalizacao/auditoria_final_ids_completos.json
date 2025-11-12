@@ -1,0 +1,10 @@
+{
+  "data_auditoria": "2025-10-30 17:44:21",
+  "sistemas": {
+    "VIXEN": {
+      "total_registros": 9260,
+      "total_lojas": 2,
+      "detalhes_por_loja": {
+        "MAUA": {
+          "registros": 2851,
+          "tem_id": 

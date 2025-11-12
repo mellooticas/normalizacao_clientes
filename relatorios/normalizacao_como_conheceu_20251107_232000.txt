@@ -1,0 +1,371 @@
+================================================================================
+RELATÓRIO DE NORMALIZAÇÃO - Como nos conheceu
+Data: 07/11/2025 23:20:00
+================================================================================
+
+Arquivo: clientes_vixen_completo.csv
+Total de registros: 9,260
+Registros afetados: 71
+
+MUDANÇAS REALIZADAS:
+--------------------------------------------------------------------------------
+
+SAÚDE DOS OLHOS
+  → Saúde dos Olhos
+  Registros afetados: 2,076
+
+ORÇAMENTO
+  → Orçamento
+  Registros afetados: 1,756
+
+DIVULGADOR
+  → Divulgador
+  Registros afetados: 1,049
+
+ABORDAGEM
+  → Abordagem
+  Registros afetados: 913
+
+INDICAÇÃO
+  → Indicação
+  Registros afetados: 731
+
+1ªCOMPRA
+  → 1ª Compra
+  Registros afetados: 548
+
+CLINICA
+  → Clínica
+  Registros afetados: 379
+
+JÁ É CLIENTE
+  → Já é Cliente
+  Registros afetados: 314
+
+SUS
+  → SUS
+  Registros afetados: 308
+
+PASSAGEM
+  → Passagem
+  Registros afetados: 256
+
+RX DE FORA
+  → Receita de Fora
+  Registros afetados: 202
+
+RADIO ATALAIA
+  → Rádio Atalaia
+  Registros afetados: 150
+
+TELEMARKETING
+  → Telemarketing
+  Registros afetados: 137
+
+RADIOADOREFM
+  → Rádio Adore FM
+  Registros afetados: 57
+
+AMIGOS
+  → Amigos
+  Registros afetados: 56
+
+WHATSAPP
+  → WhatsApp
+  Registros afetados: 38
+
+DVVICTORHUGO
+  → Divulgador - Victor Hugo
+  Registros afetados: 36
+
+REDESOCIAL
+  → Rede Social
+  Registros afetados: 25
+
+DROGARIACAMPEA
+  → Drogaria Campeã
+  Registros afetados: 25
+
+GOOGLE/FACE/INSTA-PATROCÍNIO
+  → Google/Facebook/Instagram (Patrocínio)
+  Registros afetados: 20
+
+RADIOTROPICAL
+  → Rádio Tropical
+  Registros afetados: 18
+
+CAMPANHAVADO
+  → Campanha - Vado
+  Registros afetados: 16
+
+RADIOFÉ101.5
+  → Rádio Fé 101.5
+  Registros afetados: 16
+
+CARTÃOINDICAÇÃO
+  → Cartão Indicação
+  Registros afetados: 14
+
+DVJOÃOPAULO
+  → Divulgador - João Paulo
+  Registros afetados: 12
+
+VITRINE
+  → Vitrine
+  Registros afetados: 9
+
+CESTABÁSICA
+  → Cesta Básica
+  Registros afetados: 7
+
+CAMPANHACBA
+  → Campanha - CBA
+  Registros afetados: 7
+
+CAMPANHACOMPRE1LEVE3
+  → Campanha - Compre 1 Leve 3
+  Registros afetados: 7
+
+VISIOTESTE
+  → Visio Teste
+  Registros afetados: 6
+
+ARKIMEDESCENTROMÉDICO
+  → Arkimedes Centro Médico
+  Registros afetados: 6
+
+WHATSAPPROBÔ
+  → WhatsApp Robô
+  Registros afetados: 5
+
+CARTÃOCOMPLETO
+  → Cartão Completo
+  Registros afetados: 3
+
+RADIOÔMEGA
+  → Rádio Ômega
+  Registros afetados: 3
+
+DVSUELENRODRIGUES
+  → Divulgador - Suelen Rodrigues
+  Registros afetados: 3
+
+ASSEMBLEIADEDEUS
+  → Assembleia de Deus
+  Registros afetados: 3
+
+BOLIVIANOS
+  → Bolivianos
+  Registros afetados: 3
+
+CAMPANHAANIVERSARIANTES
+  → Campanha - Aniversariantes
+  Registros afetados: 2
+
+PANFLETOS
+  → Panfletos
+  Registros afetados: 2
+
+AMEPLAN
+  → Ameplan
+  Registros afetados: 2
+
+MAGAZINELUIZA
+  → Magazine Luiza
+  Registros afetados: 2
+
+DVJACIANEDINIZ
+  → Divulgador - Jaciane Diniz
+  Registros afetados: 2
+
+DVJEANLEANDRO
+  → Divulgador - Jean Leandro
+  Registros afetados: 2
+
+PLACADELOJA
+  → Placa de Loja
+  Registros afetados: 2
+
+SITE
+  → Site
+  Registros afetados: 2
+
+CLINICAALPHAVISION
+  → Clínica Alpha Vision
+  Registros afetados: 1
+
+CAMPANHAAILTON
+  → Campanha - Ailton
+  Registros afetados: 1
+
+DROGARIASUPERMED
+  → Drogaria Supermed
+  Registros afetados: 1
+
+RDESP
+  → RDESP
+  Registros afetados: 1
+
+INSTITUTOSUELABUJAMRA
+  → Instituto Suela Bujamra
+  Registros afetados: 1
+
+DVDOUGLASJESUSDASILVA
+  → Divulgador - Douglas Jesus da Silva
+  Registros afetados: 1
+
+DRAMANDAAVVDECASTRO
+  → Dra. Amanda A. V. V. de Castro
+  Registros afetados: 1
+
+DVNIKE
+  → Divulgador - Nike
+  Registros afetados: 1
+
+RADIOREDEUNÇÃO96.5
+  → Rádio Rede Unção 96.5
+  Registros afetados: 1
+
+RADIOTERRA
+  → Rádio Terra
+  Registros afetados: 1
+
+DRRAFAELPIVATTO
+  → Dr. Rafael Pivatto
+  Registros afetados: 1
+
+DVGABRIELASILVA
+  → Divulgador - Gabriela Silva
+  Registros afetados: 1
+
+SINDSINETROSV
+  → Sind. Sinetro SV
+  Registros afetados: 1
+
+VALESAUDEJEQUITI
+  → Vale Saúde Jequiti
+  Registros afetados: 1
+
+IAMSPE
+  → IAMSPE
+  Registros afetados: 1
+
+BIOSAÚDE
+  → Bio Saúde
+  Registros afetados: 1
+
+CONVENIOFAN
+  → Convênio FAN
+  Registros afetados: 1
+
+GUIMA
+  → Guima
+  Registros afetados: 1
+
+ABMED
+  → ABMED
+  Registros afetados: 1
+
+ADEASP
+  → ADEASP
+  Registros afetados: 1
+
+CARTAODETODOS
+  → Cartão de Todos
+  Registros afetados: 1
+
+LUISFIOFOLHETOS
+  → Luis Fio - Folhetos
+  Registros afetados: 1
+
+FLORIPARK
+  → Floripark
+  Registros afetados: 1
+
+OUTROS
+  → Outros
+  Registros afetados: 1
+
+PROSPECÇÃOMABIO
+  → Prospecção - Mabio
+  Registros afetados: 1
+
+TERMINALSANTANA
+  → Terminal Santana
+  Registros afetados: 1
+
+================================================================================
+
+VALORES ÚNICOS APÓS NORMALIZAÇÃO:
+--------------------------------------------------------------------------------
+  1ª Compra: 548 registros
+  ABMED: 1 registros
+  ADEASP: 1 registros
+  Abordagem: 913 registros
+  Ameplan: 2 registros
+  Amigos: 56 registros
+  Arkimedes Centro Médico: 6 registros
+  Assembleia de Deus: 3 registros
+  Bio Saúde: 1 registros
+  Bolivianos: 3 registros
+  Campanha - Ailton: 1 registros
+  Campanha - Aniversariantes: 2 registros
+  Campanha - CBA: 7 registros
+  Campanha - Compre 1 Leve 3: 7 registros
+  Campanha - Vado: 16 registros
+  Cartão Completo: 3 registros
+  Cartão Indicação: 14 registros
+  Cartão de Todos: 1 registros
+  Cesta Básica: 7 registros
+  Clínica: 379 registros
+  Clínica Alpha Vision: 1 registros
+  Convênio FAN: 1 registros
+  Divulgador: 1,049 registros
+  Divulgador - Douglas Jesus da Silva: 1 registros
+  Divulgador - Gabriela Silva: 1 registros
+  Divulgador - Jaciane Diniz: 2 registros
+  Divulgador - Jean Leandro: 2 registros
+  Divulgador - João Paulo: 12 registros
+  Divulgador - Nike: 1 registros
+  Divulgador - Suelen Rodrigues: 3 registros
+  Divulgador - Victor Hugo: 36 registros
+  Dr. Rafael Pivatto: 1 registros
+  Dra. Amanda A. V. V. de Castro: 1 registros
+  Drogaria Campeã: 25 registros
+  Drogaria Supermed: 1 registros
+  Floripark: 1 registros
+  Google/Facebook/Instagram (Patrocínio): 20 registros
+  Guima: 1 registros
+  IAMSPE: 1 registros
+  Indicação: 731 registros
+  Instituto Suela Bujamra: 1 registros
+  Já é Cliente: 314 registros
+  Luis Fio - Folhetos: 1 registros
+  Magazine Luiza: 2 registros
+  Orçamento: 1,756 registros
+  Outros: 1 registros
+  Panfletos: 2 registros
+  Passagem: 256 registros
+  Placa de Loja: 2 registros
+  Prospecção - Mabio: 1 registros
+  RDESP: 1 registros
+  Receita de Fora: 202 registros
+  Rede Social: 25 registros
+  Rádio Adore FM: 57 registros
+  Rádio Atalaia: 150 registros
+  Rádio Fé 101.5: 16 registros
+  Rádio Rede Unção 96.5: 1 registros
+  Rádio Terra: 1 registros
+  Rádio Tropical: 18 registros
+  Rádio Ômega: 3 registros
+  SUS: 308 registros
+  Saúde dos Olhos: 2,076 registros
+  Sind. Sinetro SV: 1 registros
+  Site: 2 registros
+  Telemarketing: 137 registros
+  Terminal Santana: 1 registros
+  Vale Saúde Jequiti: 1 registros
+  Visio Teste: 6 registros
+  Vitrine: 9 registros
+  WhatsApp: 38 registros
+  WhatsApp Robô: 5 registros
